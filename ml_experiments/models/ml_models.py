@@ -29,7 +29,7 @@ def get_models(X, random_state=42):
         "KNN": {
             "pipeline": _build_pipeline(
                 CalibratedClassifierCV(
-                    KNeighborsClassifier(weights="distance", n_jobs=-1),
+                    KNeighborsClassifier(weights="distance", n_jobs=1),
                     method="sigmoid",
                     ensemble=False,
                 ),
@@ -64,7 +64,7 @@ def get_models(X, random_state=42):
                 RandomForestClassifier(
                     n_estimators=200,
                     random_state=random_state,
-                    n_jobs=-1,
+                    n_jobs=1,
                 ),
                 preprocessor,
                 random_state=random_state,
@@ -81,7 +81,7 @@ def get_models(X, random_state=42):
                 XGBClassifier(
                     n_estimators=200,
                     random_state=random_state,
-                    n_jobs=-1,
+                    n_jobs=1,
                     eval_metric="logloss",
                 ),
                 preprocessor,
