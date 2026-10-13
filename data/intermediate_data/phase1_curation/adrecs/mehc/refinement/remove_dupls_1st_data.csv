@@ -1,0 +1,1557 @@
+smiles,Drug_Name,Pattern,PubChem_ID,Source,norm,is_perfect_dups,indexes
+CCC(C)C1NC(=O)C(CCCNC(=N)N)NC(=O)C(C)NC(=O)C(CCCCN)NC(=O)C2CSSCC3NC(=O)CNC(=O)CNC(=O)C(Cc4ccc(O)cc4)NC(=O)C(C(C)C)NC(=O)C(Cc4ccccc4)NC(=O)C(C(C)O)NC(=O)C(CCC(N)=O)NC(=O)C(CSSCC(NC(=O)C(CC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(C)NC(=O)C(CO)NC(=O)C(CCCCN)NC(=O)C(Cc4ccccc4)NC(=O)C(CC(N)=O)NC(=O)C(CC(N)=O)NC(=O)C(CCCNC(=N)N)NC(=O)C(CCCCN)NC(=O)C(C)NC(=O)C(CCCNC(=N)N)NC3=O)C(=O)NC(CCSC)C(=O)NC(CCCNC(=N)N)C(=O)NC(C(C)O)C(=O)NC(C(=O)NCC(=O)NCC(=O)NC(C)C(=O)O)CSSCC(NC(=O)C(Cc3ccccc3)NC(=O)C(CC(=O)O)NC(=O)C3CCCN3C(=O)C(N)CCCNC(=N)N)C(=O)NC(CC(C)C)C(=O)NC(CCC(=O)O)C(=O)N3CCCC3C(=O)N3CCCC3C(=O)NC(Cc3ccc(O)cc3)C(=O)NC(C(C)O)C(=O)NCC(=O)N3CCCC3C(=O)N2)NC(=O)C(CC(C)C)NC(=O)CNC(=O)C(C)NC(=O)C(CCCCN)NC(=O)C(C)NC(=O)C(CC(N)=O)NC(=O)C(Cc2ccc(O)cc2)NC(=O)C(Cc2ccccc2)NC(=O)C(Cc2ccc(O)cc2)NC(=O)C(CCCNC(=N)N)NC(=O)C(C(C)CC)NC1=O,Aprotinin,"II.b
+                
+II - Pulmonary edema - Acute lung injury - ARDS
+
+                    II.b - ARDS - Acute lung injury                
+
+
+                  IV.a
+                
+IV - Airway involvement
+
+                    IV.a - Bronchospasm - Wheezing - Asthma                
+
+
+                  VI.a
+                
+VI - Pulmonary vasculopathies
+
+                    VI.a - Pulmonary embolism - Venous thrombosis/thromboembolism                
+
+
+                  VI.u
+                
+VI - Pulmonary vasculopathies
+
+                    VI.u - Pulmonary vascular microthrombi                
+
+
+                  X.f
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.f - Anaphylaxis-Anaphylactoid reaction (can be fatal)                
+
+
+                  X.g
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.g - Hypersensitivity reaction (may manifest with fever and/or skin, throat or airway involvement)                
+
+
+                  XII.n
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.n - Cardiovascular collapse - Cardiogenic shock - Hypotension",16130295,Pneumotox_only,aprotinin,False,"[136, 1781]"
+CC(C)NCC(O)COc1ccc(CC(N)=O)cc1,Atenolol,"I.b
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.b - Pneumonitis (ILD)                
+
+
+                  IV.a
+                
+IV - Airway involvement
+
+                    IV.a - Bronchospasm - Wheezing - Asthma                
+
+
+                  IV.f
+                
+IV - Airway involvement
+
+                    IV.f - Severe or catastrophic bronchospasm or asthma attack (can be fatal)                
+
+
+                  X.d
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.d - Lupus - Lupus syndrome (see also Vd)",2249,Both,atenolol,False,"[147, 579]"
+CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2,Atropine,"XII.l
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.l - Cardiac arrhythmias or dysrhythmias (AF, VT, VF, TdP)                
+
+
+                  XII.bw
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.bw - Hypertension (systemic)",174174,Both,atropine,False,"[151, 2247]"
+CC1CC2C3CCC4=CC(=O)C=CC4(C)C3(F)C(O)CC2(C)C1(O)C(=O)CO,Betamethasone,"X.j
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.j - Myopathy-Myositis-Polymyositis (see also under Xba)                
+
+
+                  XII.v
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.v - Hypertrophic cardiomyopathy",9782,Both,betamethasone,False,"[205, 462]"
+Cn1cnc2c(F)c(Nc3ccc(Br)cc3F)c(C(=O)NOCCO)cc21,Binimetinib (MEK162),"X.k
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.k - Sarcoid-like granulomatosis (endo-/extrathoracic)",10288191,Pneumotox_only,binimetinib (mek162),False,"[211, 1846]"
+CCCCN1CCCCC1C(=O)Nc1c(C)cccc1C,Bupivacaine,"VIII.c
+                
+VIII - Central-large-upper airway (incl. pharyngeal-nasal) involvement
+
+                    VIII.c - Upper airway obstruction other than angioedema or hematoma                
+
+
+                  VIII.w
+                
+VIII - Central-large-upper airway (incl. pharyngeal-nasal) involvement
+
+                    VIII.w - Uvulitis, uvular edema",2474,Both,bupivacaine,False,"[247, 2330]"
+CCON=C(C(=O)NC1C(=O)N2C(C(=O)[O-])=C(Sc3nc(-c4cc[n+](C)cc4)cs3)CSC12)c1nsc(NP(=O)(O)O)n1,Ceftaroline,"I.c
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.c - Eosinophilic pneumonia (pulmonary infiltrates and eosinophilia)",9852981,Pneumotox_only,ceftaroline,False,"[317, 1901]"
+O=C(O)COCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1,Cetirizine,"I.b
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.b - Pneumonitis (ILD)",2678,Both,cetirizine,False,"[330, 2333]"
+COc1ccc(CC2c3cc(OC)c(OC)cc3CC[N+]2(C)CCC(=O)OCCCCCOC(=O)CC[N+]2(C)CCc3cc(OC)c(OC)cc3C2Cc2ccc(OC)c(OC)c2)cc1OC,Cisatracurium,"X.f
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.f - Anaphylaxis-Anaphylactoid reaction (can be fatal)",62887,Both,cisatracurium,False,"[361, 1797]"
+CN(C)CCCC1(c2ccc(F)cc2)OCc2cc(C#N)ccc21,Citalopram,"II.b
+                
+II - Pulmonary edema - Acute lung injury - ARDS
+
+                    II.b - ARDS - Acute lung injury                
+
+
+                  XII.t
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.t - Torsades de pointe",2771,Both,citalopram,False,"[364, 580]"
+CCN(CC)CCOc1ccc(C(=C(Cl)c2ccccc2)c2ccccc2)cc1,Clomifen,"II.a
+                
+II - Pulmonary edema - Acute lung injury - ARDS
+
+                    II.a - Pulmonary edema, noncardiogenic (NCPE)                
+
+
+                  III.a
+                
+III - Pulmonary/alveolar./airway hemorrhage/bleeding
+
+                    III.a - Alveolar hemorrhage (AH), diffuse AH (DAH)                
+
+
+                  III.c
+                
+III - Pulmonary/alveolar./airway hemorrhage/bleeding
+
+                    III.c - Hemoptysis                
+
+
+                  III.i
+                
+III - Pulmonary/alveolar./airway hemorrhage/bleeding
+
+                    III.i - Catamenial hemoptysis                
+
+
+                  V.a
+                
+V - Pleural and/or pericardial involvement
+
+                    V.a - Pleural effusion (uni- or bilateral) (can accompany DI-LDs)                
+
+
+                  V.g
+                
+V - Pleural and/or pericardial involvement
+
+                    V.g - Effusions of the ovarian hyperstimulation syndrome (OHSS)                
+
+
+                  VI.a
+                
+VI - Pulmonary vasculopathies
+
+                    VI.a - Pulmonary embolism - Venous thrombosis/thromboembolism                
+
+
+                  XII.g
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.g - Coronary artery disease (acute) - Myocardial ischemia/infarction",2800,Pneumotox_only,clomifen,False,"[376, 1937]"
+COC(=O)C1C(OC(=O)c2ccccc2)CC2CCC1N2C,Cocaine,"I.c
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.c - Eosinophilic pneumonia (pulmonary infiltrates and eosinophilia)                
+
+
+                  I.d
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.d - Organizing pneumonia pattern (an area or areas of consolidation on imaging)                
+
+
+                  I.e
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.e - Acute eosinophilic pneumonia (AEP)                
+
+
+                  I.t
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.t - Pneumoconiosis (silicosis, talcosis...)                
+
+
+                  I.z
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.z - An area or areas of consolidation                
+
+
+                  II.a
+                
+II - Pulmonary edema - Acute lung injury - ARDS
+
+                    II.a - Pulmonary edema, noncardiogenic (NCPE)                
+
+
+                  II.d
+                
+II - Pulmonary edema - Acute lung injury - ARDS
+
+                    II.d - Pulmonary edema, cardiogenic                
+
+
+                  III.a
+                
+III - Pulmonary/alveolar./airway hemorrhage/bleeding
+
+                    III.a - Alveolar hemorrhage (AH), diffuse AH (DAH)                
+
+
+                  III.b
+                
+III - Pulmonary/alveolar./airway hemorrhage/bleeding
+
+                    III.b - Pneumorenal syndrome (w/wo ANCAs)                
+
+
+                  III.c
+                
+III - Pulmonary/alveolar./airway hemorrhage/bleeding
+
+                    III.c - Hemoptysis                
+
+
+                  III.n
+                
+III - Pulmonary/alveolar./airway hemorrhage/bleeding
+
+                    III.n - Alveolar hemorrhage (subclinical, or as a BAL feature)                
+
+
+                  IV.a
+                
+IV - Airway involvement
+
+                    IV.a - Bronchospasm - Wheezing - Asthma                
+
+
+                  IV.f
+                
+IV - Airway involvement
+
+                    IV.f - Severe or catastrophic bronchospasm or asthma attack (can be fatal)                
+
+
+                  IV.o
+                
+IV - Airway involvement
+
+                    IV.o - Airway hyperresponsiveness                
+
+
+                  V.f
+                
+V - Pleural and/or pericardial involvement
+
+                    V.f - Pneumothorax                
+
+
+                  V.ab
+                
+V - Pleural and/or pericardial involvement
+
+                    V.ab - Pneumothorax, bilateral                
+
+
+                  VI.a
+                
+VI - Pulmonary vasculopathies
+
+                    VI.a - Pulmonary embolism - Venous thrombosis/thromboembolism                
+
+
+                  VI.b
+                
+VI - Pulmonary vasculopathies
+
+                    VI.b - Pulmonary arterial hypertension                
+
+
+                  VI.l
+                
+VI - Pulmonary vasculopathies
+
+                    VI.l - Acute pulmonary vasoconstriction and PHT                
+
+
+                  VII.h
+                
+VII - Mediastinal involvement
+
+                    VII.h - Pneumomediastinum                
+
+
+                  VIII.a
+                
+VIII - Central-large-upper airway (incl. pharyngeal-nasal) involvement
+
+                    VIII.a - Angioedema (may cause UAO, asphyxia and death)                
+
+
+                  VIII.c
+                
+VIII - Central-large-upper airway (incl. pharyngeal-nasal) involvement
+
+                    VIII.c - Upper airway obstruction other than angioedema or hematoma                
+
+
+                  VIII.i
+                
+VIII - Central-large-upper airway (incl. pharyngeal-nasal) involvement
+
+                    VIII.i - Midline destructive lesions                
+
+
+                  VIII.w
+                
+VIII - Central-large-upper airway (incl. pharyngeal-nasal) involvement
+
+                    VIII.w - Uvulitis, uvular edema                
+
+
+                  VIII.ah
+                
+VIII - Central-large-upper airway (incl. pharyngeal-nasal) involvement
+
+                    VIII.ah - Tracheal polyps                
+
+
+                  VIII.ai
+                
+VIII - Central-large-upper airway (incl. pharyngeal-nasal) involvement
+
+                    VIII.ai - Nasal, palatal and/or pharyngeal pathology                
+
+
+                  VIII.ak
+                
+VIII - Central-large-upper airway (incl. pharyngeal-nasal) involvement
+
+                    VIII.ak - Rhinitis medicamentosa                
+
+
+                  VIII.ap
+                
+VIII - Central-large-upper airway (incl. pharyngeal-nasal) involvement
+
+                    VIII.ap - Airway foreign body                
+
+
+                  IX.k
+                
+IX - Neuromuscular / CNS involvement - Disordered breathing (during sleep)
+
+                    IX.k - Trismus (lockjaw)                
+
+
+                  IX.o
+                
+IX - Neuromuscular / CNS involvement - Disordered breathing (during sleep)
+
+                    IX.o - Pneumorachis                
+
+
+                  X.f
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.f - Anaphylaxis-Anaphylactoid reaction (can be fatal)                
+
+
+                  X.h
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.h - Eosinophilic granulomatosis with polyangiitis (Churg-Strauss)                
+
+
+                  X.j
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.j - Myopathy-Myositis-Polymyositis (see also under Xba)                
+
+
+                  X.m
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.m - Vascultis (pulmonary, extrathoracic or systemic)-ANCA status unknown or negative)                
+
+
+                  X.o
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.o - Neutrophilic dermatosis (Pyoderma, Sweet syndrome)                
+
+
+                  X.s
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.s - Vasculitis, pulmonary (w/wo AH), extrapulmonary, systemic: ANCA-positive                
+
+
+                  X.u
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.u - Multiple organ dysfunction/failure (MODS/MOF)                
+
+
+                  X.x
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.x - ANCA positivity. Subclinical or with clinical manifestations                
+
+
+                  X.ac
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.ac - Anti-GBM antibody disease (Goodpasture-like or flare of preexisting GS)                
+
+
+                  X.ad
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.ad - Skin purpura, ecchymoses or necrosis                
+
+
+                  X.as
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.as - Scleroderma renal crisis                
+
+
+                  XI.b
+                
+XI - Miscellaneous
+
+                    XI.b - Chest pain (acute or subacute), lone or prominent                
+
+
+                  XI.m
+                
+XI - Miscellaneous
+
+                    XI.m - Pulmonary emphysema - Lung cysts or bullae                
+
+
+                  XI.n
+                
+XI - Miscellaneous
+
+                    XI.n - Neutropenia, agranulocytosis (w/wo infection/sepsis)                
+
+
+                  XI.r
+                
+XI - Miscellaneous
+
+                    XI.r - Death following exposure or poisoning                
+
+
+                  XI.ae
+                
+XI - Miscellaneous
+
+                    XI.ae - Barotrauma (incl. pneumothorax, pneumomediastinum, interstitial ephysema...)                
+
+
+                  XI.az
+                
+XI - Miscellaneous
+
+                    XI.az - Sneezing (may cause pulmonary barotrauma)                
+
+
+                  XII.a
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.a - Left or biventricular dysfunction/failure                
+
+
+                  XII.e
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.e - Takotsubo (stress) cardiomyopathy                
+
+
+                  XII.f
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.f - Cardiomyopathy (acute, subacute, chronic)                
+
+
+                  XII.g
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.g - Coronary artery disease (acute) - Myocardial ischemia/infarction                
+
+
+                  XII.l
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.l - Cardiac arrhythmias or dysrhythmias (AF, VT, VF, TdP)                
+
+
+                  XII.y
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.y - Pneumopericardium                
+
+
+                  XII.ae
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.ae - Aortic dissection                
+
+
+                  XII.af
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.af - Coronary vasospasm - Vasospastic angina                
+
+
+                  XII.aj
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.aj - Systemic arterial thrombosis                
+
+
+                  XII.ap
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.ap - Coronary artery dissection                
+
+
+                  XIV.c
+                
+XIV - Hemoglobinopathies - Abnormal hemoglobin states (acquired)
+
+                    XIV.c - Carboxyhemoglobinemia                
+
+
+                  XV.b
+                
+XV - Pathology
+
+                    XV.b - Path: Eosinophilic pneumonia (subacute or acute)  (see also Ic)                
+
+
+                  XV.g
+                
+XV - Pathology
+
+                    XV.g - Path: Alveolar hemorrhage (see also IIIa)                
+
+
+                  XV.h
+                
+XV - Pathology
+
+                    XV.h - Path: NSIP-fibrotic pattern                
+
+
+                  XV.s
+                
+XV - Pathology
+
+                    XV.s - Path: Pneumoconiosis (silicosis,  talcosis, talcoma)                
+
+
+                  XV.w
+                
+XV - Pathology
+
+                    XV.w - Path: Pulmonary edema (see also II/IIa)                
+
+
+                  XV.aw
+                
+XV - Pathology
+
+                    XV.aw - Path: Skin vasculopathy/vasculitis/fibrin thrombi                
+
+
+                  XVI.k
+                
+XVI - Imaging
+
+                    XVI.k - Imaging: An area or areas of consolidation                
+
+
+                  XVII.b
+                
+XVII - Infections & related conditions
+
+                    XVII.b - Opportunistic pulmonary/systemic infections",446220,Both,cocaine,False,"[386, 410]"
+CC(=O)CC(c1ccccc1)c1c(O)c2ccccc2oc1=O,Coumadin,"VIII.b
+                
+VIII - Central-large-upper airway (incl. pharyngeal-nasal) involvement
+
+                    VIII.b - Hematoma of/around central airway wall potentially causing UAO",54678486,Pneumotox_only,coumadin,False,"[409, 1679]"
+O=C(O)c1cc(=O)c2c(OCC(O)COc3cccc4oc(C(=O)O)cc(=O)c34)cccc2o1,Cromoglycate,"I.b
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.b - Pneumonitis (ILD)                
+
+
+                  I.c
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.c - Eosinophilic pneumonia (pulmonary infiltrates and eosinophilia)                
+
+
+                  IV.f
+                
+IV - Airway involvement
+
+                    IV.f - Severe or catastrophic bronchospasm or asthma attack (can be fatal)                
+
+
+                  VI.k
+                
+VI - Pulmonary vasculopathies
+
+                    VI.k - Eosinophilic pulmonary vasculitis",2882,Both,cromoglycate,False,"[416, 1955]"
+CCNC(C)Cc1cccc(C(F)(F)F)c1,Dexfenfluramine,"VI.b
+                
+VI - Pulmonary vasculopathies
+
+                    VI.b - Pulmonary arterial hypertension                
+
+
+                  XII.b
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.b - Valvular heart disease and/or dysfunction",66265,Pneumotox_only,dexfenfluramine,False,"[463, 620]"
+CC(N)Cc1ccccc1,Dextroamphetamine,"X.m
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.m - Vascultis (pulmonary, extrathoracic or systemic)-ANCA status unknown or negative)",5826,Both,dextroamphetamine,False,"[466, 1766]"
+OCCN(CCO)c1nc(N2CCCCC2)c2nc(N(CCO)CCO)nc(N3CCCCC3)c2n1,Dipyridamole,"II.a
+                
+II - Pulmonary edema - Acute lung injury - ARDS
+
+                    II.a - Pulmonary edema, noncardiogenic (NCPE)                
+
+
+                  IV.a
+                
+IV - Airway involvement
+
+                    IV.a - Bronchospasm - Wheezing - Asthma                
+
+
+                  IV.b
+                
+IV - Airway involvement
+
+                    IV.b - Bronchospasm and angioedema                
+
+
+                  IV.f
+                
+IV - Airway involvement
+
+                    IV.f - Severe or catastrophic bronchospasm or asthma attack (can be fatal)                
+
+
+                  IX.d
+                
+IX - Neuromuscular / CNS involvement - Disordered breathing (during sleep)
+
+                    IX.d - Respiratory failure from ventilatory depression (due to neuromuscular blockade/paralysis)                
+
+
+                  IX.i
+                
+IX - Neuromuscular / CNS involvement - Disordered breathing (during sleep)
+
+                    IX.i - Respiratory arrest - Apnea                
+
+
+                  X.f
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.f - Anaphylaxis-Anaphylactoid reaction (can be fatal)                
+
+
+                  XII.e
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.e - Takotsubo (stress) cardiomyopathy                
+
+
+                  XII.m
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.m - Cardiac- cardiorespiratory/pulmonary arrest                
+
+
+                  XII.n
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.n - Cardiovascular collapse - Cardiogenic shock - Hypotension",3108,Both,dipyridamole,False,"[494, 2022]"
+CNC(C)C(O)c1ccccc1,Ephedrine,"XII.f
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.f - Cardiomyopathy (acute, subacute, chronic)",9294,Both,ephedrine,False,"[561, 1315]"
+CC(CO)NC(=O)C1C=C2c3cccc4[nH]cc(c34)CC2N(C)C1,Ergometrine,"II.a
+                
+II - Pulmonary edema - Acute lung injury - ARDS
+
+                    II.a - Pulmonary edema, noncardiogenic (NCPE)                
+
+
+                  III.a
+                
+III - Pulmonary/alveolar./airway hemorrhage/bleeding
+
+                    III.a - Alveolar hemorrhage (AH), diffuse AH (DAH)                
+
+
+                  IV.a
+                
+IV - Airway involvement
+
+                    IV.a - Bronchospasm - Wheezing - Asthma",443884,Pneumotox_only,ergometrine,False,"[570, 571]"
+COc1ccc2nc(S(=O)Cc3ncc(C)c(OC)c3C)[nH]c2c1,Esomeprazole,"VIII.e
+                
+VIII - Central-large-upper airway (incl. pharyngeal-nasal) involvement
+
+                    VIII.e - Laryngospasm (a.k.a. laryngismus)",9568614,Both,esomeprazole,False,"[582, 1132]"
+OCCO,Ethylene glycol,"XI.d
+                
+XI - Miscellaneous
+
+                    XI.d - Metabolic acidosis (incl. lactic acidosis/-gap). May cause hyperpnea/dyspnea                
+
+
+                  XXV.a
+                
+XXV - Poisoning by proxy
+
+                    XXV.a - By proxy: metabolic acidosis",174,Pneumotox_only,ethylene glycol,False,"[592, 2581]"
+Nc1ccncc1,Fampridine,"VI.b
+                
+VI - Pulmonary vasculopathies
+
+                    VI.b - Pulmonary arterial hypertension",1727,Pneumotox_only,fampridine,False,"[614, 1968]"
+Nc1nc2c(c(=O)[nH]1)N(C=O)C(CNc1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1)CN2,Folinic acid,"IV.b
+                
+IV - Airway involvement
+
+                    IV.b - Bronchospasm and angioedema                
+
+
+                  X.f
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.f - Anaphylaxis-Anaphylactoid reaction (can be fatal)",135403648,Pneumotox_only,folinic acid,False,"[662, 2324, 2337]"
+CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)O,Isotretinoin,"I.c
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.c - Eosinophilic pneumonia (pulmonary infiltrates and eosinophilia)                
+
+
+                  I.e
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.e - Acute eosinophilic pneumonia (AEP)                
+
+
+                  IV.a
+                
+IV - Airway involvement
+
+                    IV.a - Bronchospasm - Wheezing - Asthma                
+
+
+                  V.b
+                
+V - Pleural and/or pericardial involvement
+
+                    V.b - Eosinophilic pleural effusion                
+
+
+                  XI.i
+                
+XI - Miscellaneous
+
+                    XI.i - Esophageal toxicity",5282379,Both,isotretinoin,False,"[848, 1746, 2783]"
+CNC1(c2ccccc2Cl)CCCCC1=O,Ketamine,"II.a
+                
+II - Pulmonary edema - Acute lung injury - ARDS
+
+                    II.a - Pulmonary edema, noncardiogenic (NCPE)                
+
+
+                  II.d
+                
+II - Pulmonary edema - Acute lung injury - ARDS
+
+                    II.d - Pulmonary edema, cardiogenic                
+
+
+                  II.f
+                
+II - Pulmonary edema - Acute lung injury - ARDS
+
+                    II.f - Hypoxemia, low oxygen saturation (may occur in isolation)                
+
+
+                  II.i
+                
+II - Pulmonary edema - Acute lung injury - ARDS
+
+                    II.i - Flash (fulminate) pulmonary edema                
+
+
+                  IV.a
+                
+IV - Airway involvement
+
+                    IV.a - Bronchospasm - Wheezing - Asthma                
+
+
+                  VIII.e
+                
+VIII - Central-large-upper airway (incl. pharyngeal-nasal) involvement
+
+                    VIII.e - Laryngospasm (a.k.a. laryngismus)                
+
+
+                  IX.d
+                
+IX - Neuromuscular / CNS involvement - Disordered breathing (during sleep)
+
+                    IX.d - Respiratory failure from ventilatory depression (due to neuromuscular blockade/paralysis)                
+
+
+                  X.f
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.f - Anaphylaxis-Anaphylactoid reaction (can be fatal)                
+
+
+                  XI.b
+                
+XI - Miscellaneous
+
+                    XI.b - Chest pain (acute or subacute), lone or prominent",3821,Both,ketamine,False,"[859, 2081]"
+Cc1c(OCC(F)(F)F)ccnc1CS(=O)c1nc2ccccc2[nH]1,Lansoprazole,"I.b
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.b - Pneumonitis (ILD)                
+
+
+                  IV.a
+                
+IV - Airway involvement
+
+                    IV.a - Bronchospasm - Wheezing - Asthma                
+
+
+                  IV.v
+                
+IV - Airway involvement
+
+                    IV.v - Deterioration/exacerbation of preexisting asthma or COPD                
+
+
+                  XVII.a
+                
+XVII - Infections & related conditions
+
+                    XVII.a - Respiratory tract infection incl. pneumonia",3883,Both,lansoprazole,False,"[873, 1998]"
+CC(C)(C)NCC(O)c1ccc(O)c(CO)c1,Levalbuterol,"IV.a
+                
+IV - Airway involvement
+
+                    IV.a - Bronchospasm - Wheezing - Asthma",123600,Both,levalbuterol,False,"[893, 1735]"
+CC1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23,Levofloxacin,"I.b
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.b - Pneumonitis (ILD)                
+
+
+                  I.c
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.c - Eosinophilic pneumonia (pulmonary infiltrates and eosinophilia)                
+
+
+                  IX.g
+                
+IX - Neuromuscular / CNS involvement - Disordered breathing (during sleep)
+
+                    IX.g - Hyperpnea - Hyperventilation - Low PaCO2                
+
+
+                  X.f
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.f - Anaphylaxis-Anaphylactoid reaction (can be fatal)",149096,Both,levofloxacin,False,"[898, 2491]"
+OCC(O)C(O)C(O)C(O)CO,Mannitol,"X.f
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.f - Anaphylaxis-Anaphylactoid reaction (can be fatal)",6251,Both,mannitol,False,"[942, 2133, 2681]"
+CC(O)C1C(=O)N2C(C(=O)O)=C(SC3CNC(C(=O)N(C)C)C3)C(C)C12,Meropenem,"I.c
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.c - Eosinophilic pneumonia (pulmonary infiltrates and eosinophilia)                
+
+
+                  X.a
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.a - DRES syndrome - DRESS-like reaction",441130,Both,meropenem,False,"[973, 2397]"
+CN1CCC23c4c5ccc(O)c4OC2C(O)C=CC3C1C5,Morphine,"I.l
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.l - Diffuse alveolar damage (DAD) (see alsoo under IIb and XVf)                
+
+
+                  II.a
+                
+II - Pulmonary edema - Acute lung injury - ARDS
+
+                    II.a - Pulmonary edema, noncardiogenic (NCPE)                
+
+
+                  II.b
+                
+II - Pulmonary edema - Acute lung injury - ARDS
+
+                    II.b - ARDS - Acute lung injury                
+
+
+                  II.d
+                
+II - Pulmonary edema - Acute lung injury - ARDS
+
+                    II.d - Pulmonary edema, cardiogenic                
+
+
+                  III.a
+                
+III - Pulmonary/alveolar./airway hemorrhage/bleeding
+
+                    III.a - Alveolar hemorrhage (AH), diffuse AH (DAH)                
+
+
+                  IV.a
+                
+IV - Airway involvement
+
+                    IV.a - Bronchospasm - Wheezing - Asthma                
+
+
+                  VI.a
+                
+VI - Pulmonary vasculopathies
+
+                    VI.a - Pulmonary embolism - Venous thrombosis/thromboembolism                
+
+
+                  VIII.e
+                
+VIII - Central-large-upper airway (incl. pharyngeal-nasal) involvement
+
+                    VIII.e - Laryngospasm (a.k.a. laryngismus)                
+
+
+                  IX.c
+                
+IX - Neuromuscular / CNS involvement - Disordered breathing (during sleep)
+
+                    IX.c - Chest wall muscle rigidity - Stiff/wooden chest                
+
+
+                  IX.d
+                
+IX - Neuromuscular / CNS involvement - Disordered breathing (during sleep)
+
+                    IX.d - Respiratory failure from ventilatory depression (due to neuromuscular blockade/paralysis)                
+
+
+                  IX.i
+                
+IX - Neuromuscular / CNS involvement - Disordered breathing (during sleep)
+
+                    IX.i - Respiratory arrest - Apnea                
+
+
+                  IX.p
+                
+IX - Neuromuscular / CNS involvement - Disordered breathing (during sleep)
+
+                    IX.p - Disordered breathing during sleep - Sleep apnea                
+
+
+                  XII.a
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.a - Left or biventricular dysfunction/failure                
+
+
+                  XII.e
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.e - Takotsubo (stress) cardiomyopathy                
+
+
+                  XV.g
+                
+XV - Pathology
+
+                    XV.g - Path: Alveolar hemorrhage (see also IIIa)                
+
+
+                  XV.w
+                
+XV - Pathology
+
+                    XV.w - Path: Pulmonary edema (see also II/IIa)",5288826,Both,morphine,False,"[1039, 2307]"
+CN1CCCC1c1cccnc1,Nicotine,"II.q
+                
+II - Pulmonary edema - Acute lung injury - ARDS
+
+                    II.q - Respiratory distress or failure, not otherwise specified                
+
+
+                  IV.a
+                
+IV - Airway involvement
+
+                    IV.a - Bronchospasm - Wheezing - Asthma                
+
+
+                  IX.d
+                
+IX - Neuromuscular / CNS involvement - Disordered breathing (during sleep)
+
+                    IX.d - Respiratory failure from ventilatory depression (due to neuromuscular blockade/paralysis)                
+
+
+                  XI.b
+                
+XI - Miscellaneous
+
+                    XI.b - Chest pain (acute or subacute), lone or prominent                
+
+
+                  XI.r
+                
+XI - Miscellaneous
+
+                    XI.r - Death following exposure or poisoning                
+
+
+                  XI.bd
+                
+XI - Miscellaneous
+
+                    XI.bd - Nicotine poisoning                
+
+
+                  XII.g
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.g - Coronary artery disease (acute) - Myocardial ischemia/infarction                
+
+
+                  XII.l
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.l - Cardiac arrhythmias or dysrhythmias (AF, VT, VF, TdP)                
+
+
+                  XII.m
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.m - Cardiac- cardiorespiratory/pulmonary arrest                
+
+
+                  XII.ag
+                
+XII - Cardiovascular involvement / toxicity
+
+                    XII.ag - Bradycardia",89594,Both,nicotine,False,"[1083, 2472]"
+O=C1CN(N=Cc2ccc([N+](=O)[O-])o2)C(=O)N1,Nitrofurantoin,"I.a
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.a - Pneumonitis (ILD), acute and/or severe (may cause ARDS)                
+
+
+                  I.b
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.b - Pneumonitis (ILD)                
+
+
+                  I.c
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.c - Eosinophilic pneumonia (pulmonary infiltrates and eosinophilia)                
+
+
+                  I.d
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.d - Organizing pneumonia pattern (an area or areas of consolidation on imaging)                
+
+
+                  I.e
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.e - Acute eosinophilic pneumonia (AEP)                
+
+
+                  I.g
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.g - Pulmonary fibrosis                
+
+
+                  I.l
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.l - Diffuse alveolar damage (DAD) (see alsoo under IIb and XVf)                
+
+
+                  I.r
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.r - An imaging pattern consistent with DIP                
+
+
+                  I.v
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.v - Abnormal lung function/pulmonary physiology (PFTs) without necessarily imaging or clinical evidence                
+
+
+                  I.ax
+                
+I - Interstitial/parenchymal lung disease
+
+                    I.ax - Chronic pneumonitis                
+
+
+                  II.a
+                
+II - Pulmonary edema - Acute lung injury - ARDS
+
+                    II.a - Pulmonary edema, noncardiogenic (NCPE)                
+
+
+                  II.b
+                
+II - Pulmonary edema - Acute lung injury - ARDS
+
+                    II.b - ARDS - Acute lung injury                
+
+
+                  II.j
+                
+II - Pulmonary edema - Acute lung injury - ARDS
+
+                    II.j - Transient pulmonary opacities/infiltrates (see also under Iav)                
+
+
+                  III.a
+                
+III - Pulmonary/alveolar./airway hemorrhage/bleeding
+
+                    III.a - Alveolar hemorrhage (AH), diffuse AH (DAH)                
+
+
+                  IV.a
+                
+IV - Airway involvement
+
+                    IV.a - Bronchospasm - Wheezing - Asthma                
+
+
+                  IV.ae
+                
+IV - Airway involvement
+
+                    IV.ae - Tracheobronchitis-like clinical pattern                
+
+
+                  V.a
+                
+V - Pleural and/or pericardial involvement
+
+                    V.a - Pleural effusion (uni- or bilateral) (can accompany DI-LDs)                
+
+
+                  V.b
+                
+V - Pleural and/or pericardial involvement
+
+                    V.b - Eosinophilic pleural effusion                
+
+
+                  V.d
+                
+V - Pleural and/or pericardial involvement
+
+                    V.d - Pleural/pericardial effusion, ANA positive (DI lupus)                
+
+
+                  V.i
+                
+V - Pleural and/or pericardial involvement
+
+                    V.i - Pleuritis (can cause chest pain)                
+
+
+                  VI.d
+                
+VI - Pulmonary vasculopathies
+
+                    VI.d - Pulmonary vasculitis or capillaritis                
+
+
+                  VII.a
+                
+VII - Mediastinal involvement
+
+                    VII.a - Lymphadenopathy (intrathoracic)                
+
+
+                  VIII.b
+                
+VIII - Central-large-upper airway (incl. pharyngeal-nasal) involvement
+
+                    VIII.b - Hematoma of/around central airway wall potentially causing UAO                
+
+
+                  IX.i
+                
+IX - Neuromuscular / CNS involvement - Disordered breathing (during sleep)
+
+                    IX.i - Respiratory arrest - Apnea                
+
+
+                  X.a
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.a - DRES syndrome - DRESS-like reaction                
+
+
+                  X.d
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.d - Lupus - Lupus syndrome (see also Vd)                
+
+
+                  X.e
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.e - Autoimmunity-Autoimmune conditions (+ANA, +anti-ds-DNA, +ANCAs, other auto-Abs)                
+
+
+                  X.f
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.f - Anaphylaxis-Anaphylactoid reaction (can be fatal)                
+
+
+                  X.s
+                
+X - Systemic/Distant conditions, syndromes and reactions
+
+                    X.s - Vasculitis, pulmonary (w/wo AH), extrapulmonary, systemic: ANCA-positive                
+
+
+                  XI.b
+                
+XI - Miscellaneous
+
+                    XI.b - Chest pain (acute or subacute), lone or prominent                
+
+
+                  XI.c
+                
+XI - Miscellaneous
+
+                    XI.c - Pleuritic chest pain                
+
+
+                  XV.a
+                
+XV - Pathology
+
+                    XV.a - Path: NSIP-cellular pattern (see also Ia, Ib)                
+
+
+                  XV.b
+                
+XV - Pathology
+
+                    XV.b - Path: Eosinophilic pneumonia (subacute or acute)  (see also Ic)                
+
+
+                  XV.c
+                
+XV - Pathology
+
+                    XV.c - Path: Organizing pneumonia (OP/BOOP) pattern (see also Id)                
+
+
+                  XV.e
+                
+XV - Pathology
+
+                    XV.e - Path: ILD with a granulomatous component (see also Im)                
+
+
+                  XV.f
+                
+XV - Pathology
+
+                    XV.f - Path: Diffuse alveolar damage (DAD-pattern) (see also IL)                
+
+
+                  XV.h
+                
+XV - Pathology
+
+                    XV.h - Path: NSIP-fibrotic pattern                
+
+
+                  XV.j
+                
+XV - Pathology
+
+                    XV.j - Path: Pulmonary fibrosis (UIP-pattern)                
+
+
+                  XV.k
+                
+XV - Pathology
+
+                    XV.k - Path: Desquamative interstitial pneumonia (DIP-pattern)                
+
+
+                  XV.x
+                
+XV - Pathology
+
+                    XV.x - Path: Acute/subacute bronchiolitis (see also IVc, IVi)                
+
+
+                  XV.ac
+                
+XV - Pathology
+
+                    XV.ac - Path: Pulmonary vasculitis other than capillaritis                
+
+
+                  XV.af
+                
+XV - Pathology
+
+                    XV.af - Path: Granulomatous pulmonary vasculitis                
+
+
+                  XV.bi
+                
+XV - Pathology
+
+                    XV.bi - Path: Giant-cell interstitial pneumonia (GIP)-pattern                
+
+
+                  XV.bl
+                
+XV - Pathology
+
+                    XV.bl - Path: Resolving alveolar damage                
+
+
+                  XVI.b
+                
+XVI - Imaging
+
+                    XVI.b - Imaging: Ground-glass opacities (GGO) / shadowing                
+
+
+                  XVI.f
+                
+XVI - Imaging
+
+                    XVI.f - Imaging: Bibasilar opacities/shadowing                
+
+
+                  XVI.l
+                
+XVI - Imaging
+
+                    XVI.l - Imaging: Peribronchovascular areas of consolidation                
+
+
+                  XVI.bc
+                
+XVI - Imaging
+
+                    XVI.bc - Imaging: Intrathoracic lymph node enlargement                
+
+
+                  XVI.bp
+                
+XVI - Imaging
+
+                    XVI.bp - Imaging: Reverse ventilation-perfusion mismatch",6604200,Both,nitrofurantoin,False,"[1099, 2478, 2479]"
+NC(=O)CCC1NC(=O)C(Cc2ccccc2)NC(=O)C(Cc2ccc(O)cc2)NC(=O)C(N)CSSCC(C(=O)N2CCCC2C(=O)NC(CCCN=C(N)N)C(=O)NCC(N)=O)NC(=O)C(CC(N)=O)NC1=O,Vasopressin,"II.a
+                
+II - Pulmonary edema - Acute lung injury - ARDS
+
+                    II.a - Pulmonary edema, noncardiogenic (NCPE)                
+
+
+                  II.d
+                
+II - Pulmonary edema - Acute lung injury - ARDS
+
+                    II.d - Pulmonary edema, cardiogenic",644077,Both,vasopressin,False,"[1643, 1786, 2822]"
+CN1CCN(C(=O)OC2c3nccnc3C(=O)N2c2ccc(Cl)cn2)CC1,Zopiclone,"XI.a
+                
+XI - Miscellaneous
+
+                    XI.a - Cyanosis, a low SpO2 and normal measured PaO2                
+
+
+                  XIV.a
+                
+XIV - Hemoglobinopathies - Abnormal hemoglobin states (acquired)
+
+                    XIV.a - Methemoglobinemia",5735,Both,zopiclone,False,"[1700, 2097]"
+CCNC1CC(C)S(=O)(=O)c2sc(S(N)(=O)=O)cc21,"4r,6r-dorzolamide",ADReCS: Bronchial disorders (excl neoplasms),92087,ADReCS_only,"4r,6r-dorzolamide",False,"[1707, 2031]"
+COc1ccc(CC(C)NCC(O)c2ccc(O)c(NC=O)c2)cc1,Arformoterol,ADReCS: Bronchial disorders (excl neoplasms),3083544,ADReCS_only,arformoterol,False,"[1782, 2159]"
+NC(=O)CS(=O)C(c1ccccc1)c1ccccc1,Armodafinil,ADReCS: Thoracic disorders (excl lung and pleura),9690109,ADReCS_only,armodafinil,False,"[1788, 2439]"
+Cc1c(C2(c3cc(Br)c(O)c(Br)c3C)OS(=O)(=O)c3ccccc32)cc(Br)c(O)c1Br,Bacillus calmette-guerin,ADReCS: Lower respiratory tract disorders (excl obstruction and infection),6451,ADReCS_only,bacillus calmette-guerin,False,"[1811, 1861]"
+CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1,Chlorphenamine,ADReCS: Bronchial disorders (excl neoplasms),2725,ADReCS_only,chlorphenamine,False,"[1918, 1997]"
+O=S(=O)(O)CCS,Coenzyme M,ADReCS: Respiratory disorders NEC,598,ADReCS_only,coenzyme m,False,"[1944, 2395]"
+CC1(C)OC2CC3C4CCC5=CC(=O)C=CC5(C)C4C(O)CC3(C)C2(C(=O)CO)O1,Desonide,ADReCS: Asthma,5311066,ADReCS_only,desonide,False,"[1991, 2825]"
+COc1cc2c(cc1OC)C1CC(=O)C(CC(C)C)CN1CC2,Deutetrabenazine,ADReCS: Respiratory signs and symptoms NEC,73437646,ADReCS_only,deutetrabenazine,False,"[1996, 2731]"
+CCOc1ccc(CC(CN(CCN(CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-])cc1.[Gd+3].[Na+].[Na+],Eovist,ADReCS: Thoracic disorders (excl lung and pleura),91754427,ADReCS_only,eovist,False,"[2066, 2185]"
+CC1(C)OC2CC3C4CC(F)C5=CC(=O)C=CC5(C)C4C(O)CC3(C)C2(C(=O)CO)O1,Flunisolide,ADReCS: Bronchial disorders (excl neoplasms),82153,ADReCS_only,flunisolide,False,"[2139, 2140]"
+COCCNC(=O)CN(CCN(CCN(CC(=O)[O-])CC(=O)NCCOC)CC(=O)[O-])CC(=O)[O-].[Gd+3],Gadoversetamide,ADReCS: Asthma,444013,ADReCS_only,gadoversetamide,False,"[2184, 2502]"
+CCC=CCC=CCC=CCC=CCC=CCCCC(=O)O,Icosapent,"ADReCS: Respiratory, thoracic and mediastinal disorders",446284,ADReCS_only,icosapent,False,"[2253, 2498]"
+CCC(C)C(NC(=O)C(Cc1ccccc1)NC(=O)C(CC(C)C)NC(=O)C(CCCNC(=N)N)NC(=O)C(NC(=O)C(C)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CCSC)NC(=O)C(CCC(N)=O)NC(=O)C(CCCCN)NC(=O)C(CO)NC(=O)C(CC(C)C)NC(=O)C(CC(=O)O)NC(=O)C(CO)NC(=O)C(NC(=O)C(Cc1ccccc1)NC(=O)C(NC(=O)CNC(=O)C(CCC(=O)O)NC(=O)CNC(=O)C(N)Cc1c[nH]cn1)C(C)O)C(C)O)C(C)C)C(=O)NC(CCC(=O)O)C(=O)NC(Cc1c[nH]c2ccccc12)C(=O)NC(CC(C)C)C(=O)NC(CCCCN)C(=O)NC(CC(N)=O)C(=O)NCC(=O)NCC(=O)N1CCCC1C(=O)NC(CO)C(=O)NC(CO)C(=O)NCC(=O)NC(C)C(=O)N1CCCC1C(=O)N1CCCC1C(=O)NC(CO)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(=O)NC(CCCCN)C(N)=O,Lixisenatide,"ADReCS: Respiratory, thoracic and mediastinal disorders",90472060,ADReCS_only,lixisenatide,False,"[2354, 2375]"
+CC(O)C(O)C1CNc2nc(N)[nH]c(=O)c2N1,Sapropterin,ADReCS: Thoracic disorders (excl lung and pleura),135398654,ADReCS_only,sapropterin,False,"[2660, 2737]"
+F[B-](F)(F)F.[C-]#[N+]CC(C)(C)OC.[C-]#[N+]CC(C)(C)OC.[C-]#[N+]CC(C)(C)OC.[C-]#[N+]CC(C)(C)OC.[Cu+],Tetrakis(1-isocyano-2-methoxy-2-methyl-propane)-copper(i) tetrafluoroborate,ADReCS: Respiratory signs and symptoms NEC,92043160,ADReCS_only,tetrakis(1-isocyano-2-methoxy-2-methyl-propane)-copper(i) tetrafluoroborate,False,"[2739, 2740]"
+NC(=O)C1CCCN1C(=O)C(Cc1cnc[nH]1)NC(=O)C1CCC(=O)N1,Thyrotropin alfa,ADReCS: Respiratory tract infections,32281,ADReCS_only,thyrotropin alfa,False,"[2752, 2753]"

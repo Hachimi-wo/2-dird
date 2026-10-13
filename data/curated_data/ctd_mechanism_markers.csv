@@ -1,0 +1,139 @@
+﻿SMILES,Drug_Name,Pattern
+CC(=O)OC12COC1CC(O)C1(C)C(=O)C(=O)C3C(C)C(OC(=O)C(O)C(NC(=O)OC(C)(C)C)c4ccccc4)CC(O)(C(OC(=O)c4ccccc4)C21)C3(C)C,Docetaxel,Pleural effusion
+CC(=O)OC12COC1CC(O)C1(C)C(=O)C(=O)C3C(C)C(OC(=O)C(O)C(NC(=O)OC(C)(C)C)c4ccccc4)CC(O)(C(OC(=O)c4ccccc4)C21)C3(C)C,Docetaxel,Pulmonary embolism
+CCCC(CCC)C(=O)O,Valproic Acid,Pleural effusion
+CCCC(CCC)C(=O)O,Valproic Acid,ILD
+O=P1(N(CCCl)CCCl)NCCCO1,Cyclophosphamide,Pleural effusion
+O=P1(N(CCCl)CCCl)NCCCO1,Cyclophosphamide,Pulmonary edema
+O=P1(N(CCCl)CCCl)NCCCO1,Cyclophosphamide,Pulmonary embolism
+O=P1(N(CCCl)CCCl)NCCCO1,Cyclophosphamide,ILD
+CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)O,Tretinoin,Pleural effusion
+CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)O,Tretinoin,Pulmonary edema
+CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)O,Tretinoin,Pulmonary embolism
+CCC(C)C(NC(=O)CNC(=O)C(NC(=O)C(Cc1ccccc1)NC(=O)C(CCCCN)NC(=O)C(CO)NC(=O)C(CC(N)=O)NC(=O)C(C)NC(=O)C(CCCCN)NC(=O)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CCC(N)=O)NC(=O)C(N)CCSC)C(C)CC)C(C)CC)C(=O)NC(C(=O)NC(CCC(=O)O)C(=O)NC(CCCN=C(N)N)C(=O)NC(Cc1ccccc1)C(=O)N1CCCC1C(=O)NC(CCCNC(=N)N)C(=O)N1CCCC1C(=O)NC(CC(=O)O)C(=O)NCC(=O)NC(CCCNC(=N)N)C(=O)NC(CCC(=O)O)C(=O)NC(C)C(=O)NC(C(=O)NC(C)C(=O)NC(Cc1ccc(O)cc1)C(=O)NC(CCCNC(=N)N)C(=O)NC(Cc1ccccc1)C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(CC(=O)O)C(=O)NC(C(=O)NC(Cc1ccccc1)C(=O)NCC(=O)NC(Cc1ccccc1)C(=O)N1CCCC1C(=O)NC(CCCCN)C(=O)NC(Cc1cnc[nH]1)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(C(=O)NC(CC(=O)O)C(=O)NC(Cc1ccccc1)C(=O)NC(CC(C)C)C(=O)NC(CCC(N)=O)C(=O)NC(CO)C(=O)NC(CC(C)C)C(=O)NC(CO)C(=O)O)C(C)C)C(C)CC)C(C)C)C(C)O,Pertussis Toxin,Pleural effusion
+CCC(C)C(NC(=O)CNC(=O)C(NC(=O)C(Cc1ccccc1)NC(=O)C(CCCCN)NC(=O)C(CO)NC(=O)C(CC(N)=O)NC(=O)C(C)NC(=O)C(CCCCN)NC(=O)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CCC(N)=O)NC(=O)C(N)CCSC)C(C)CC)C(C)CC)C(=O)NC(C(=O)NC(CCC(=O)O)C(=O)NC(CCCN=C(N)N)C(=O)NC(Cc1ccccc1)C(=O)N1CCCC1C(=O)NC(CCCNC(=N)N)C(=O)N1CCCC1C(=O)NC(CC(=O)O)C(=O)NCC(=O)NC(CCCNC(=N)N)C(=O)NC(CCC(=O)O)C(=O)NC(C)C(=O)NC(C(=O)NC(C)C(=O)NC(Cc1ccc(O)cc1)C(=O)NC(CCCNC(=N)N)C(=O)NC(Cc1ccccc1)C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(CC(=O)O)C(=O)NC(C(=O)NC(Cc1ccccc1)C(=O)NCC(=O)NC(Cc1ccccc1)C(=O)N1CCCC1C(=O)NC(CCCCN)C(=O)NC(Cc1cnc[nH]1)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(C(=O)NC(CC(=O)O)C(=O)NC(Cc1ccccc1)C(=O)NC(CC(C)C)C(=O)NC(CCC(N)=O)C(=O)NC(CO)C(=O)NC(CC(C)C)C(=O)NC(CO)C(=O)O)C(C)C)C(C)CC)C(C)C)C(C)O,Pertussis Toxin,Pulmonary edema
+COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1,Indomethacin,Pleural effusion
+CC1(C)SC2C(NC(=O)C(N)c3ccccc3)C(=O)N2C1C(=O)O,Ampicillin,Pleural effusion
+O=C(O)c1cc(N=Nc2ccc(S(=O)(=O)Nc3ccccn3)cc2)ccc1O,Sulfasalazine,Pleural effusion
+O=C(O)c1cc(N=Nc2ccc(S(=O)(=O)Nc3ccccn3)cc2)ccc1O,Sulfasalazine,ILD
+COc1cccc2c(O)c3c(c(O)c12)C(=O)C1=C(CC(O)(C(=O)CO)CC1OC1CC(N)C(O)C(C)O1)C3=O,Doxorubicin,Pleural effusion
+COc1cccc2c(O)c3c(c(O)c12)C(=O)C1=C(CC(O)(C(=O)CO)CC1OC1CC(N)C(O)C(C)O1)C3=O,Doxorubicin,Pulmonary edema
+COc1cccc2c(O)c3c(c(O)c12)C(=O)C1=C(CC(O)(C(=O)CO)CC1OC1CC(N)C(O)C(C)O1)C3=O,Doxorubicin,Pulmonary embolism
+O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,Thalidomide,Pleural effusion
+O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,Thalidomide,Pulmonary edema
+O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,Thalidomide,Pulmonary embolism
+O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,Thalidomide,ILD
+CC(C)(C)C(=O)OCOP(=O)(COCCn1cnc2c(N)ncnc21)OCOC(=O)C(C)(C)C,adefovir dipivoxil,Pleural effusion
+CCN(CC)CCOc1ccc(C(=C(Cl)c2ccccc2)c2ccccc2)cc1,Clomiphene,Pleural effusion
+CC(=O)Oc1cc(C=O)cc2c1C(COC(N)=O)C1(OC(C)=O)ON2CC2C1N2C(C)=O,FK 973,Pleural effusion
+N=c1cc(N2CCCCC2)nc(N)n1O,Minoxidil,Pleural effusion
+O=c1[nH]c(O)cn1N=Cc1ccc([N+](=O)[O-])o1,Nitrofurantoin,Pleural effusion
+O=c1[nH]c(O)cn1N=Cc1ccc([N+](=O)[O-])o1,Nitrofurantoin,Pulmonary edema
+O=c1[nH]c(O)cn1N=Cc1ccc([N+](=O)[O-])o1,Nitrofurantoin,ILD
+CC(C)(c1ccc(O)cc1)c1ccc(O)cc1,bisphenol A,Pulmonary edema
+CC(C)(c1ccc(O)cc1)c1ccc(O)cc1,bisphenol A,ILD
+O=S(=O)(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,perfluorooctane sulfonic acid,Pulmonary edema
+O=S(=O)(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,perfluorooctane sulfonic acid,ILD
+O=C1NC(=O)C(=O)C(=O)N1,Alloxan,Pulmonary edema
+CCO,Ethanol,Pulmonary edema
+CCCCCCCCC=CCCCCCCCC(=O)O,Oleic Acid,Pulmonary edema
+CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl,Chlorpyrifos,Pulmonary edema
+CC(=O)N(CC(O)CO)c1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)NCC(O)CO)c1I,Iohexol,Pulmonary edema
+CCCCCC(O)C=CC1C(O)CC(O)C1CC=CCCCC(=O)O,Dinoprost,Pulmonary edema
+CC(=O)Oc1ccccc1C(=O)O,Aspirin,Pulmonary edema
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC(CO)CO,glyceryl 2-arachidonate,Pulmonary edema
+CCCCCCC(C)(C)c1ccc(C2CC(O)CCC2CCCO)c(O)c1,"3-(2-hydroxy-4-(1,1-dimethylheptyl)phenyl)-4-(3-hydroxypropyl)cyclohexanol",Pulmonary edema
+CC1(C(=O)O)CCC2(C)CCC3(C)C(=C2C1)CC(=O)C1C2(C)CCC(OC4OC(C(=O)O)C(O)C(O)C4OC4OC(C(=O)O)C(O)C(O)C4O)C(C)(C)C2CCC13C,Glycyrrhizic Acid,Pulmonary edema
+NC(=S)Nc1cccc2ccccc12,alpha-naphthyl thiourea,Pulmonary edema
+O=[N+]([O-])NC1=NCCN1Cc1ccc(Cl)nc1,imidacloprid,Pulmonary edema
+CNC(C)Cc1ccccc1,Methamphetamine,Pulmonary edema
+C=C1CC(=CC)C(=O)OC2CCN3CC=C(COC(=O)C1(O)CO)C23,riddelliine,Pulmonary edema
+O=C(Cl)Cl,Phosgene,Pulmonary edema
+CCCCCc1cc(O)c2c(c1)OC(C)(C)C1CCC(C)=CC21,Dronabinol,Pulmonary edema
+C=CCCl,allyl chloride,Pulmonary edema
+CCCCCCCCCC[N+](C)(C)CCCCCCCCCC,didecyldimethylammonium,Pulmonary edema
+CCCCCCCCCC[N+](C)(C)CCCCCCCCCC,didecyldimethylammonium,ILD
+CN(C)CCC=C1c2ccccc2CCc2ccccc21,Amitriptyline,Pulmonary edema
+C=c1c(N)c(O)c2c(c1O)N1CC3NC3C1(OC)C=2COC(N)=O,Mitomycin,Pulmonary edema
+CN1CCCC1c1cccnc1,Nicotine,Pulmonary edema
+CN1CCCC1c1cccnc1,Nicotine,ILD
+CCN(CC)CC(=O)Nc1c(C)cccc1C,Lidocaine,Pulmonary edema
+ClCCSCCCl,Mustard Gas,Pulmonary edema
+ClCCSCCCl,Mustard Gas,Pulmonary embolism
+ClCCSCCCl,Mustard Gas,ILD
+CNC1(c2ccccc2Cl)CCCCC1=O,Ketamine,Pulmonary edema
+CC(N)Cc1ccccc1,Amphetamine,Pulmonary edema
+CNC(C)C(O)c1ccccc1,Ephedrine,Pulmonary edema
+CC(OP(C)(=O)F)C(C)(C)C,Soman,Pulmonary edema
+CC(=O)Oc1ccc2c3c1OC1C(OC(C)=O)C=CC4C(C2)N(C)CCC341,Heroin,Pulmonary edema
+CCN(CC)C(=S)SSC(=S)N(CC)CC,Disulfiram,Pulmonary edema
+C=CC=O,Acrolein,Pulmonary edema
+CN(CCCl)CCCl,Mechlorethamine,Pulmonary edema
+CN(CCCl)CCCl,Mechlorethamine,ILD
+CCCCCC(O)CCC1C(O)CC(=O)C1CCCCCCC(=O)O,"13,14-dihydroprostaglandin E1",Pulmonary edema
+CCCCN1CCCCC1C(=O)Nc1c(C)cccc1C,Bupivacaine,Pulmonary edema
+COC(=O)C1C(OC(=O)c2ccccc2)CC2CCC1N2C,Crack Cocaine,Pulmonary edema
+COC(=O)C1C(OC(=O)c2ccccc2)CC2CCC1N2C,Crack Cocaine,ILD
+CN(CC(=O)O)C(=N)N,Creatine,Pulmonary edema
+NC1=NCCN1CC(=O)O,cyclocreatine,Pulmonary edema
+NC1=NCCN1CC(=O)O,cyclocreatine,ILD
+CC(=O)Nc1c(I)c(NC(C)=O)c(I)c(C(=O)O)c1I,Diatrizoate,Pulmonary edema
+c1ccc2c(c1)sc1ccccc12,dibenzothiophene,Pulmonary edema
+CCNC(C)Cc1cccc(C(F)(F)F)c1,Fenfluramine,Pulmonary edema
+CN(C)CCCn1c2c(c3ccccc31)CCCCCC2,Iprindole,Pulmonary edema
+COc1ccc(OC)c(C(O)C(C)N)c1,Methoxamine,Pulmonary edema
+CCC(CO)NC(=O)C1C=C2c3cccc4[nH]cc(c34)CC2N(C)C1,Methylergonovine,Pulmonary edema
+CCOC(=O)Nc1ccc2c(c1)N(C(=O)CCN1CCOCC1)c1ccccc1S2,Moricizine,Pulmonary edema
+c1ccc2c(CC3=NCCN3)cccc2c1,Naphazoline,Pulmonary edema
+CC(N)C(O)c1ccc(O)c(O)c1,Nordefrin,Pulmonary edema
+C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1,octamethylcyclotetrasiloxane,Pulmonary edema
+C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1,octamethylcyclotetrasiloxane,ILD
+NC(N)=S,Thiourea,Pulmonary edema
+CC(C)(C)NCC(O)COc1nsnc1N1CCOCC1,Timolol,Pulmonary edema
+O=c1[nH]c(=O)n(Cl)c(=O)n1Cl,troclosene,Pulmonary edema
+OCC(O)C(O)C(O)C(O)CO,Mannitol,Pulmonary edema
+OCC(O)C(O)C(O)C(O)CO,Mannitol,Pulmonary embolism
+CC(C)(C)NCC(O)c1cc(O)cc(O)c1,Terbutaline,Pulmonary edema
+CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1,Chlorpheniramine,Pulmonary edema
+O=CCC=O,Malondialdehyde,Pulmonary embolism
+CC(=O)OC1(C(C)=O)CCC2C3CC(C)=C4CC(=O)CCC4(C)C3CCC21C,Medroxyprogesterone Acetate,Pulmonary embolism
+CCCCCC(O)C=CC1C2CC(CO2)C1CC=CCCCC(=O)O,"15-Hydroxy-11 alpha,9 alpha-(epoxymethano)prosta-5,13-dienoic Acid",Pulmonary embolism
+CNC(C)C1CCC(N)C(OC2C(N)CC(N)C(OC3OCC(C)(O)C(NC)C3O)C2O)O1,Gentamicins,Pulmonary embolism
+C#CC1(O)CCC2C3CC=C4CC(=O)CCC4C3CCC21C,Norethindrone,Pulmonary embolism
+CC=CCC(C)C(O)C1C(=O)NC(CC)C(=O)N(C)CC(=O)N(C)C(CC(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,Cyclosporine,Pulmonary embolism
+C#CC1(O)CCC2C3CCc4cc(O)ccc4C3CCC21C,Ethinyl Estradiol,Pulmonary embolism
+CCC(=C(c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1,Tamoxifen,Pulmonary embolism
+CC=C(c1ccc(O)cc1)C(CC)c1ccc(O)cc1,Diethylstilbestrol,Pulmonary embolism
+C#CC1(O)CCC2C3CCC4=CCCCC4C3C(=C)CC21CC,Desogestrel,Pulmonary embolism
+CN1CC(=O)N2C(Cc3c([nH]c4ccccc34)C2c2ccc3c(c2)OCO3)C1=O,Tadalafil,Pulmonary embolism
+CC(=O)OC1=C2C(C)C(OC(=O)C(O)C(NC(=O)c3ccccc3)c3ccccc3)CC(O)(C(OC(=O)c3ccccc3)C3C4(OC(C)=O)COC4CC(O)C3(C)C1=O)C2(C)C,Paclitaxel,Pulmonary embolism
+CC(=O)OC1=C2C(C)C(OC(=O)C(O)C(NC(=O)c3ccccc3)c3ccccc3)CC(O)(C(OC(=O)c3ccccc3)C3C4(OC(C)=O)COC4CC(O)C3(C)C1=O)C2(C)C,Paclitaxel,ILD
+O=P(O)(O)C(O)(Cn1ccnc1)P(=O)(O)O,Zoledronic Acid,Pulmonary embolism
+C=C1CSC(C(NC(=O)CCCCC(N)C(=O)O)C(=O)O)N=C1C(=O)O,Cephalosporins,Pulmonary embolism
+CC(=O)OC1(C(C)=O)CCC2C3=CC(Cl)=C4CC(=O)C5CC5C4(C)C3CCC21C,Cyproterone Acetate,Pulmonary embolism
+N=C(N)NCCCC(NC(=O)C1CCCN1C(=O)C1CSSCCC(=O)NC(Cc2ccc(O)cc2)C(=O)NC(Cc2ccccc2)C(=O)NC(CCC(N)=O)C(=O)NC(CC(N)=O)C(=O)N1)C(=O)NCC(N)=O,Deamino Arginine Vasopressin,Pulmonary embolism
+Cc1c(O)cccc1C(=O)NC(CSc1ccccc1)C(O)CN1CC2CCCCC2CC1C(=O)NC(C)(C)C,Nelfinavir,Pulmonary embolism
+C[N+](C)(C)CCOC(=O)CCC(=O)OCC[N+](C)(C)C,Succinylcholine,Pulmonary embolism
+NCC1CCC(C(=O)O)CC1,Tranexamic Acid,Pulmonary embolism
+CC1C(=O)OC2CCN3CC=C(COC(=O)C(C)(O)C1(C)O)C23,Monocrotaline,ILD
+CCSCCCl,2-chloroethyl ethyl sulfide,ILD
+CC(C)CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCC(C)C,diisononyl phthalate,ILD
+CC(C)CC(NC(Cc1cncn1Cc1cc(Cl)cc(Cl)c1)C(=O)O)C(=O)O,"2-(1-carboxy-2-(3-(3,5-dichlorobenzyl)-3H-imidazol-4-yl)ethylamino)-4-methylpentanoic acid",ILD
+[C],"Nanotubes, Carbon",ILD
+C=O,Formaldehyde,ILD
+O=[N+]([O-])c1ccc2ccc3cccc4ccc1c2c34,1-nitropyrene,ILD
+c1ccc2c(c1)ccc1c3ccccc3ccc21,chrysene,ILD
+CC(C)CC(C)NC1=CC(=O)C(Nc2ccccc2)=CC1=O,"N-(1,3-dimethylbutyl)-N'-phenyl-p-phenylenediamine quinone",ILD
+[C-]#[Si+],silicon carbide,ILD
+Cc1c(N)nc(C(CC(N)=O)NCC(N)C(N)=O)nc1C(=O)NC(C(=O)NC(C)C(O)C(C)C(=O)NC(C(=O)NCCc1nc(-c2nc(C(=O)NCCCNCCCCN)cs2)cs1)C(C)O)C(OC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(OC(N)=O)C1O)c1c[nH]cn1,bleomycetin,ILD
+CN=C=O,methyl isocyanate,ILD
+CN(C)c1ccc(O)c2c1CC1CC3C(N(C)C)C(=O)C(C(N)=O)C(=O)C3(O)C(=O)C1C2=O,Minocycline,ILD
+O=C(O)C1(C(=O)O)CCC1.[Pt+2],Carboplatin,ILD
+c1ccccc1,Benzene,ILD
+O=P1(N(CCCl)CCCl)OCCCN1CCCl,trofosfamide,ILD
+CNC(=O)ON=CC(C)(C)SC,Aldicarb,ILD
+Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1,DDT,ILD
+ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,Hexachlorocyclohexane,ILD
+CCCc1cc(=O)[nH]c(=S)[nH]1,Propylthiouracil,ILD
+CC(=CCO)CCCC(C)CCCC(C)CCCC(C)C,Phytol,ILD
+CN(C)CCN(Cc1ccccc1)c1ccccn1,Tripelennamine,ILD

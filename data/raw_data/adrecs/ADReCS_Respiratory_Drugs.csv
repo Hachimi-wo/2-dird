@@ -1,0 +1,2127 @@
+DRUG_ID,DRUG_NAME,ADR_ID,ADR_TERM,PubChem_ID
+BADD_D00014,Abiraterone,BADD_A00084,Acute pulmonary oedema,132971
+BADD_D00115,Amiodarone,BADD_A00084,Acute pulmonary oedema,2157
+BADD_D00121,Amlodipine,BADD_A00084,Acute pulmonary oedema,2162
+BADD_D00130,Amphetamine,BADD_A00084,Acute pulmonary oedema,3007
+BADD_D00194,Azacitidine,BADD_A00084,Acute pulmonary oedema,9444
+BADD_D00277,Bisoprolol,BADD_A00084,Acute pulmonary oedema,2405
+BADD_D00284,Bortezomib,BADD_A00084,Acute pulmonary oedema,387447
+BADD_D00285,Bosentan,BADD_A00084,Acute pulmonary oedema,104865
+BADD_D00286,Bosutinib,BADD_A00084,Acute pulmonary oedema,5328940
+BADD_D00287,Bosutinib monohydrate,BADD_A00084,Acute pulmonary oedema,11990828
+BADD_D00347,Candesartan cilexetil,BADD_A00084,Acute pulmonary oedema,2540
+BADD_D00356,Carbamazepine,BADD_A00084,Acute pulmonary oedema,2554
+BADD_D00364,Carboplatin,BADD_A00084,Acute pulmonary oedema,426756
+BADD_D00367,Carfilzomib,BADD_A00084,Acute pulmonary oedema,11556711
+BADD_D00474,Cisplatin,BADD_A00084,Acute pulmonary oedema,5702198
+BADD_D00504,Clopidogrel,BADD_A00084,Acute pulmonary oedema,60606
+BADD_D00551,Cyclosporine,BADD_A00084,Acute pulmonary oedema,5280754
+BADD_D00563,Dabigatran,BADD_A00084,Acute pulmonary oedema,216210
+BADD_D00589,Dasatinib,BADD_A00084,Acute pulmonary oedema,3062316
+BADD_D00623,Dexamethasone,BADD_A00084,Acute pulmonary oedema,5743
+BADD_D00653,Diclofenac,BADD_A00084,Acute pulmonary oedema,3033
+BADD_D00697,Dobutamine,BADD_A00084,Acute pulmonary oedema,36811
+BADD_D00699,Docetaxel,BADD_A00084,Acute pulmonary oedema,148124
+BADD_D00723,Doxorubicin,BADD_A00084,Acute pulmonary oedema,31703
+BADD_D00782,Epinephrine,BADD_A00084,Acute pulmonary oedema,5816
+BADD_D00858,Everolimus,BADD_A00084,Acute pulmonary oedema,6442177
+BADD_D00931,Fluorouracil,BADD_A00084,Acute pulmonary oedema,3385
+BADD_D00979,Furosemide,BADD_A00084,Acute pulmonary oedema,3440
+BADD_D00983,Gadobenate dimeglumine,BADD_A00084,Acute pulmonary oedema,105125
+BADD_D00984,Gadobutrol,BADD_A00084,Acute pulmonary oedema,189914
+BADD_D01009,Gemcitabine,BADD_A00084,Acute pulmonary oedema,60750
+BADD_D01083,Hydrochlorothiazide,BADD_A00084,Acute pulmonary oedema,3639
+BADD_D01119,Ibrutinib,BADD_A00084,Acute pulmonary oedema,24821094
+BADD_D01178,Iodixanol,BADD_A00084,Acute pulmonary oedema,3724
+BADD_D01180,Iohexol,BADD_A00084,Acute pulmonary oedema,3730
+BADD_D01182,Iopromide,BADD_A00084,Acute pulmonary oedema,3736
+BADD_D01186,Ioversol,BADD_A00084,Acute pulmonary oedema,3741
+BADD_D01194,Irbesartan,BADD_A00084,Acute pulmonary oedema,3749
+BADD_D01222,Ixabepilone,BADD_A00084,Acute pulmonary oedema,6445540
+BADD_D01242,Lamivudine,BADD_A00084,Acute pulmonary oedema,60825
+BADD_D01260,Leuprolide acetate,BADD_A00084,Acute pulmonary oedema,657180
+BADD_D01285,Levothyroxine,BADD_A00084,Acute pulmonary oedema,5819
+BADD_D01401,Metformin,BADD_A00084,Acute pulmonary oedema,4091
+BADD_D01405,Methadone,BADD_A00084,Acute pulmonary oedema,4095
+BADD_D01418,Methotrexate,BADD_A00084,Acute pulmonary oedema,126941
+BADD_D01442,Metoclopramide,BADD_A00084,Acute pulmonary oedema,4168
+BADD_D01449,Metronidazole,BADD_A00084,Acute pulmonary oedema,4173
+BADD_D01473,Minoxidil,BADD_A00084,Acute pulmonary oedema,4201
+BADD_D01477,Misoprostol,BADD_A00084,Acute pulmonary oedema,5282381
+BADD_D01498,Morphine,BADD_A00084,Acute pulmonary oedema,5288826
+BADD_D01525,Naloxone,BADD_A00084,Acute pulmonary oedema,5284596
+BADD_D01541,Nebivolol,BADD_A00084,Acute pulmonary oedema,71301
+BADD_D01542,Nebivolol hydrochloride,BADD_A00084,Acute pulmonary oedema,9933004
+BADD_D01566,Nifedipine,BADD_A00084,Acute pulmonary oedema,4485
+BADD_D01567,Nilotinib,BADD_A00084,Acute pulmonary oedema,644241
+BADD_D01629,Osimertinib,BADD_A00084,Acute pulmonary oedema,71496458
+BADD_D01633,Oxaliplatin,BADD_A00084,Acute pulmonary oedema,9887053
+BADD_D01652,Oxytocin,BADD_A00084,Acute pulmonary oedema,439302
+BADD_D01653,Paclitaxel,BADD_A00084,Acute pulmonary oedema,36314
+BADD_D01676,Paricalcitol,BADD_A00084,Acute pulmonary oedema,5281104
+BADD_D01687,Pazopanib,BADD_A00084,Acute pulmonary oedema,10113978
+BADD_D01783,Pirfenidone,BADD_A00084,Acute pulmonary oedema,40632
+BADD_D01834,Prednisone,BADD_A00084,Acute pulmonary oedema,5865
+BADD_D01864,Propofol,BADD_A00084,Acute pulmonary oedema,4943
+BADD_D01921,Regadenoson,BADD_A00084,Acute pulmonary oedema,219024
+BADD_D01933,Ribavirin,BADD_A00084,Acute pulmonary oedema,37542
+BADD_D02006,Selexipag,BADD_A00084,Acute pulmonary oedema,9913767
+BADD_D02018,Sildenafil,BADD_A00084,Acute pulmonary oedema,135398744
+BADD_D02026,Simvastatin,BADD_A00084,Acute pulmonary oedema,54454
+BADD_D02058,Sorafenib,BADD_A00084,Acute pulmonary oedema,216239
+BADD_D02066,Spironolactone,BADD_A00084,Acute pulmonary oedema,5833
+BADD_D02084,Sugammadex,BADD_A00084,Acute pulmonary oedema,6918585
+BADD_D02100,Sunitinib,BADD_A00084,Acute pulmonary oedema,5329102
+BADD_D02105,Tacrolimus,BADD_A00084,Acute pulmonary oedema,445643
+BADD_D02170,Testosterone,BADD_A00084,Acute pulmonary oedema,6013
+BADD_D02214,Ticagrelor,BADD_A00084,Acute pulmonary oedema,9871419
+BADD_D02253,Trabectedin,BADD_A00084,Acute pulmonary oedema,108150
+BADD_D02254,Tramadol,BADD_A00084,Acute pulmonary oedema,33741
+BADD_D02268,Treprostinil,BADD_A00084,Acute pulmonary oedema,6918140
+BADD_D02331,Valsartan,BADD_A00084,Acute pulmonary oedema,60846
+BADD_D02345,Venetoclax,BADD_A00084,Acute pulmonary oedema,49846579
+BADD_D02407,Upadacitinib,BADD_A00084,Acute pulmonary oedema,58557659
+BADD_D02432,Glycopyrronium,BADD_A00084,Acute pulmonary oedema,9933193
+BADD_D02443,Tiotropium,BADD_A00084,Acute pulmonary oedema,5487427
+BADD_D02445,Solifenacin,BADD_A00084,Acute pulmonary oedema,154059
+BADD_D02471,Oxygen,BADD_A00084,Acute pulmonary oedema,977
+BADD_D02473,Sodium chloride,BADD_A00084,Acute pulmonary oedema,5234
+BADD_D02482,Acalabrutinib,BADD_A00084,Acute pulmonary oedema,71226662
+BADD_D02588,Remdesivir,BADD_A00084,Acute pulmonary oedema,121304016
+BADD_D00008,Abacavir,BADD_A00085,Acute respiratory distress syndrome,441300
+BADD_D00009,Abacavir succinate,BADD_A00085,Acute respiratory distress syndrome,9822500
+BADD_D00023,Acetaminophen,BADD_A00085,Acute respiratory distress syndrome,1983
+BADD_D00033,Acetylsalicylic acid,BADD_A00085,Acute respiratory distress syndrome,2244
+BADD_D00047,Afatinib,BADD_A00085,Acute respiratory distress syndrome,10184653
+BADD_D00062,Aldesleukin,BADD_A00085,Acute respiratory distress syndrome,Not Available
+BADD_D00064,Alemtuzumab,BADD_A00085,Acute respiratory distress syndrome,Not Available
+BADD_D00085,Alprazolam,BADD_A00085,Acute respiratory distress syndrome,2118
+BADD_D00103,Amikacin,BADD_A00085,Acute respiratory distress syndrome,37768
+BADD_D00116,Amiodarone hydrochloride,BADD_A00085,Acute respiratory distress syndrome,441325
+BADD_D00129,Amoxicillin,BADD_A00085,Acute respiratory distress syndrome,33613
+BADD_D00168,Arsenic,BADD_A00085,Acute respiratory distress syndrome,5359596
+BADD_D00178,Atenolol,BADD_A00085,Acute respiratory distress syndrome,2249
+BADD_D00195,Azathioprine,BADD_A00085,Acute respiratory distress syndrome,2265
+BADD_D00209,Baclofen,BADD_A00085,Acute respiratory distress syndrome,2284
+BADD_D00230,Bendamustine,BADD_A00085,Acute respiratory distress syndrome,65628
+BADD_D00271,Bicalutamide,BADD_A00085,Acute respiratory distress syndrome,2375
+BADD_D00289,Botulinum neurotoxin a/b immune globulin (human),BADD_A00085,Acute respiratory distress syndrome,Not Available
+BADD_D00306,Budesonide,BADD_A00085,Acute respiratory distress syndrome,5281004
+BADD_D00312,Bupropion,BADD_A00085,Acute respiratory distress syndrome,444
+BADD_D00318,Busulfan,BADD_A00085,Acute respiratory distress syndrome,2478
+BADD_D00376,Caspofungin,BADD_A00085,Acute respiratory distress syndrome,2826718
+BADD_D00405,Ceftriaxone,BADD_A00085,Acute respiratory distress syndrome,5479530
+BADD_D00407,Cefuroxime,BADD_A00085,Acute respiratory distress syndrome,41375
+BADD_D00475,Citalopram,BADD_A00085,Acute respiratory distress syndrome,2771
+BADD_D00479,Cladribine,BADD_A00085,Acute respiratory distress syndrome,20279
+BADD_D00501,Clonazepam,BADD_A00085,Acute respiratory distress syndrome,2802
+BADD_D00511,Clozapine,BADD_A00085,Acute respiratory distress syndrome,135398737
+BADD_D00516,Codeine,BADD_A00085,Acute respiratory distress syndrome,5284371
+BADD_D00518,Colchicine,BADD_A00085,Acute respiratory distress syndrome,6167
+BADD_D00535,Crizotinib,BADD_A00085,Acute respiratory distress syndrome,11626560
+BADD_D00549,Cyclophosphamide,BADD_A00085,Acute respiratory distress syndrome,2907
+BADD_D00560,Cytarabine,BADD_A00085,Acute respiratory distress syndrome,6253
+BADD_D00561,Cytarabine hydrochloride,BADD_A00085,Acute respiratory distress syndrome,6252
+BADD_D00562,Cytomegalovirus immune globulin (human),BADD_A00085,Acute respiratory distress syndrome,Not Available
+BADD_D00581,Daptomycin,BADD_A00085,Acute respiratory distress syndrome,16134395
+BADD_D00586,Darunavir,BADD_A00085,Acute respiratory distress syndrome,213039
+BADD_D00593,Decitabine,BADD_A00085,Acute respiratory distress syndrome,451668
+BADD_D00595,Deferiprone,BADD_A00085,Acute respiratory distress syndrome,2972
+BADD_D00596,Deferoxamine,BADD_A00085,Acute respiratory distress syndrome,2973
+BADD_D00597,Deferoxamine mesylate,BADD_A00085,Acute respiratory distress syndrome,62881
+BADD_D00629,Dexmedetomidine,BADD_A00085,Acute respiratory distress syndrome,5311068
+BADD_D00630,Dexmedetomidine hydrochloride,BADD_A00085,Acute respiratory distress syndrome,6918081
+BADD_D00648,Diazepam,BADD_A00085,Acute respiratory distress syndrome,3016
+BADD_D00674,Diltiazem,BADD_A00085,Acute respiratory distress syndrome,39186
+BADD_D00686,Diphenhydramine,BADD_A00085,Acute respiratory distress syndrome,3100
+BADD_D00800,Erlotinib,BADD_A00085,Acute respiratory distress syndrome,176870
+BADD_D00809,Escitalopram,BADD_A00085,Acute respiratory distress syndrome,146570
+BADD_D00850,Etodolac,BADD_A00085,Acute respiratory distress syndrome,3308
+BADD_D00854,Etoposide,BADD_A00085,Acute respiratory distress syndrome,36462
+BADD_D00869,Famotidine,BADD_A00085,Acute respiratory distress syndrome,3325
+BADD_D00879,Fentanyl,BADD_A00085,Acute respiratory distress syndrome,3345
+BADD_D00897,Filgrastim,BADD_A00085,Acute respiratory distress syndrome,Not Available
+BADD_D00912,Fluconazole,BADD_A00085,Acute respiratory distress syndrome,3365
+BADD_D00914,Fludarabine,BADD_A00085,Acute respiratory distress syndrome,657237
+BADD_D00915,Fludarabine phosphate,BADD_A00085,Acute respiratory distress syndrome,30751
+BADD_D00973,Fotemustine,BADD_A00085,Acute respiratory distress syndrome,104799
+BADD_D01010,Gemcitabine hydrochloride,BADD_A00085,Acute respiratory distress syndrome,60749
+BADD_D01081,Hydralazine,BADD_A00085,Acute respiratory distress syndrome,3637
+BADD_D01103,Hydroxychloroquine,BADD_A00085,Acute respiratory distress syndrome,3652
+BADD_D01110,Hydroxyurea,BADD_A00085,Acute respiratory distress syndrome,3657
+BADD_D01111,Hydroxyzine,BADD_A00085,Acute respiratory distress syndrome,3658
+BADD_D01133,Ifosfamide,BADD_A00085,Acute respiratory distress syndrome,3690
+BADD_D01136,Imatinib,BADD_A00085,Acute respiratory distress syndrome,5291
+BADD_D01144,Immunoglobulin (human),BADD_A00085,Acute respiratory distress syndrome,Not Available
+BADD_D01145,Immunoglobulin g (human),BADD_A00085,Acute respiratory distress syndrome,Not Available
+BADD_D01156,Indomethacin,BADD_A00085,Acute respiratory distress syndrome,3715
+BADD_D01204,Isoniazid,BADD_A00085,Acute respiratory distress syndrome,3767
+BADD_D01220,Ivacaftor,BADD_A00085,Acute respiratory distress syndrome,16220172
+BADD_D01243,Lamotrigine,BADD_A00085,Acute respiratory distress syndrome,3878
+BADD_D01252,Leflunomide,BADD_A00085,Acute respiratory distress syndrome,3899
+BADD_D01254,Lenvatinib,BADD_A00085,Acute respiratory distress syndrome,9823820
+BADD_D01275,Levofloxacin,BADD_A00085,Acute respiratory distress syndrome,149096
+BADD_D01300,Lisinopril,BADD_A00085,Acute respiratory distress syndrome,5362119
+BADD_D01303,Lithium carbonate,BADD_A00085,Acute respiratory distress syndrome,11125
+BADD_D01318,Lorazepam,BADD_A00085,Acute respiratory distress syndrome,3958
+BADD_D01366,Medroxyprogesterone acetate,BADD_A00085,Acute respiratory distress syndrome,6279
+BADD_D01433,Methylprednisolone,BADD_A00085,Acute respiratory distress syndrome,6741
+BADD_D01445,Metoprolol,BADD_A00085,Acute respiratory distress syndrome,4171
+BADD_D01470,Minocycline,BADD_A00085,Acute respiratory distress syndrome,54675783
+BADD_D01478,Mitomycin,BADD_A00085,Acute respiratory distress syndrome,5746
+BADD_D01496,Montelukast,BADD_A00085,Acute respiratory distress syndrome,5281040
+BADD_D01506,Muromonab-cd3,BADD_A00085,Acute respiratory distress syndrome,Not Available
+BADD_D01564,Nicotine,BADD_A00085,Acute respiratory distress syndrome,89594
+BADD_D01574,Nitric oxide,BADD_A00085,Acute respiratory distress syndrome,145068
+BADD_D01579,Nitroglycerin,BADD_A00085,Acute respiratory distress syndrome,4510
+BADD_D01662,Pamidronic acid,BADD_A00085,Acute respiratory distress syndrome,4674
+BADD_D01693,Pegfilgrastim,BADD_A00085,Acute respiratory distress syndrome,70683024
+BADD_D01799,Ponatinib,BADD_A00085,Acute respiratory distress syndrome,24826799
+BADD_D01804,Posaconazole,BADD_A00085,Acute respiratory distress syndrome,468595
+BADD_D01822,Prasugrel,BADD_A00085,Acute respiratory distress syndrome,6918456
+BADD_D01831,Prednisolone,BADD_A00085,Acute respiratory distress syndrome,5755
+BADD_D01852,Progesterone,BADD_A00085,Acute respiratory distress syndrome,5994
+BADD_D01858,Propagermanium,BADD_A00085,Acute respiratory distress syndrome,83030
+BADD_D01867,Propranolol,BADD_A00085,Acute respiratory distress syndrome,4946
+BADD_D01869,Propylthiouracil,BADD_A00085,Acute respiratory distress syndrome,657298
+BADD_D01881,Pyridostigmine,BADD_A00085,Acute respiratory distress syndrome,4991
+BADD_D01888,Quetiapine,BADD_A00085,Acute respiratory distress syndrome,5002
+BADD_D01909,Ramipril,BADD_A00085,Acute respiratory distress syndrome,5362129
+BADD_D01931,Rho (d) immune globulin,BADD_A00085,Acute respiratory distress syndrome,Not Available
+BADD_D01936,Rifampicin,BADD_A00085,Acute respiratory distress syndrome,135398735
+BADD_D01942,Riluzole,BADD_A00085,Acute respiratory distress syndrome,5070
+BADD_D01964,Romidepsin,BADD_A00085,Acute respiratory distress syndrome,5352062
+BADD_D02028,Sirolimus,BADD_A00085,Acute respiratory distress syndrome,5284616
+BADD_D02082,Sufentanil,BADD_A00085,Acute respiratory distress syndrome,41693
+BADD_D02109,Talc,BADD_A00085,Acute respiratory distress syndrome,16211421
+BADD_D02150,Temozolomide,BADD_A00085,Acute respiratory distress syndrome,5394
+BADD_D02165,Teriflunomide,BADD_A00085,Acute respiratory distress syndrome,54684141
+BADD_D02192,Thalidomide,BADD_A00085,Acute respiratory distress syndrome,5426
+BADD_D02249,Topotecan hydrochloride,BADD_A00085,Acute respiratory distress syndrome,60699
+BADD_D02261,Tranexamic acid,BADD_A00085,Acute respiratory distress syndrome,5526
+BADD_D02319,Urofollitropin,BADD_A00085,Acute respiratory distress syndrome,62819
+BADD_D02329,Valproic acid,BADD_A00085,Acute respiratory distress syndrome,3121
+BADD_D02332,Vancomycin,BADD_A00085,Acute respiratory distress syndrome,14969
+BADD_D02346,Venlafaxine,BADD_A00085,Acute respiratory distress syndrome,5656
+BADD_D02348,Verapamil,BADD_A00085,Acute respiratory distress syndrome,2520
+BADD_D02355,Vigabatrin,BADD_A00085,Acute respiratory distress syndrome,5665
+BADD_D02362,Vinflunine,BADD_A00085,Acute respiratory distress syndrome,10629256
+BADD_D02365,Vismodegib,BADD_A00085,Acute respiratory distress syndrome,24776445
+BADD_D02369,Voriconazole,BADD_A00085,Acute respiratory distress syndrome,71616
+BADD_D02375,Water,BADD_A00085,Acute respiratory distress syndrome,962
+BADD_D02380,Zanamivir,BADD_A00085,Acute respiratory distress syndrome,60855
+BADD_D02392,Zoledronic acid,BADD_A00085,Acute respiratory distress syndrome,68740
+BADD_D02421,Foscarnet,BADD_A00085,Acute respiratory distress syndrome,3415
+BADD_D02470,Nintedanib,BADD_A00085,Acute respiratory distress syndrome,135423438
+BADD_D02480,Alectinib,BADD_A00085,Acute respiratory distress syndrome,49806720
+BADD_D02483,Ribociclib,BADD_A00085,Acute respiratory distress syndrome,44631912
+BADD_D02487,Baricitinib,BADD_A00085,Acute respiratory distress syndrome,44205240
+BADD_D02511,Siponimod,BADD_A00085,Acute respiratory distress syndrome,44599207
+BADD_D02517,Enasidenib,BADD_A00085,Acute respiratory distress syndrome,89683805
+BADD_D02520,Baloxavir marboxil,BADD_A00085,Acute respiratory distress syndrome,124081896
+BADD_D02577,Oseltamivir acid,BADD_A00085,Acute respiratory distress syndrome,449381
+BADD_D02586,Radium ra-223 dichloride,BADD_A00085,Acute respiratory distress syndrome,Not Available
+BADD_D00056,Albuterol,BADD_A00086,Acute respiratory failure,2083
+BADD_D00066,Alendronic acid,BADD_A00086,Acute respiratory failure,2088
+BADD_D00097,Amantadine,BADD_A00086,Acute respiratory failure,2130
+BADD_D00098,Amantadine hydrochloride,BADD_A00086,Acute respiratory failure,64150
+BADD_D00100,Ambrisentan,BADD_A00086,Acute respiratory failure,197712
+BADD_D00151,Apixaban,BADD_A00086,Acute respiratory failure,10182969
+BADD_D00282,Blinatumomab,BADD_A00086,Acute respiratory failure,Not Available
+BADD_D00354,Captopril,BADD_A00086,Acute respiratory failure,44093
+BADD_D00368,Carglumic acid,BADD_A00086,Acute respiratory failure,121396
+BADD_D00374,Carvedilol,BADD_A00086,Acute respiratory failure,2585
+BADD_D00384,Cefdinir,BADD_A00086,Acute respiratory failure,6915944
+BADD_D00480,Clarithromycin,BADD_A00086,Acute respiratory failure,84029
+BADD_D00580,Dapsone,BADD_A00086,Acute respiratory failure,2955
+BADD_D00668,Digoxin,BADD_A00086,Acute respiratory failure,2724385
+BADD_D00768,Enalaprilat,BADD_A00086,Acute respiratory failure,5462501
+BADD_D00773,Entacapone,BADD_A00086,Acute respiratory failure,5281081
+BADD_D00788,Epoprostenol,BADD_A00086,Acute respiratory failure,5282411
+BADD_D00821,Estradiol,BADD_A00086,Acute respiratory failure,5757
+BADD_D00947,Fluticasone propionate,BADD_A00086,Acute respiratory failure,444036
+BADD_D01008,Gefitinib,BADD_A00086,Acute respiratory failure,123631
+BADD_D01130,Idelalisib,BADD_A00086,Acute respiratory failure,11625818
+BADD_D01135,Iloprost,BADD_A00086,Acute respiratory failure,5311181
+BADD_D01137,Imatinib mesylate,BADD_A00086,Acute respiratory failure,123596
+BADD_D01181,Iopamidol,BADD_A00086,Acute respiratory failure,65492
+BADD_D01201,Isavuconazonium sulfate,BADD_A00086,Acute respiratory failure,72196309
+BADD_D01240,Lactulose,BADD_A00086,Acute respiratory failure,11333
+BADD_D01245,Lansoprazole,BADD_A00086,Acute respiratory failure,3883
+BADD_D01257,Letrozole,BADD_A00086,Acute respiratory failure,3902
+BADD_D01258,Leucovorin,BADD_A00086,Acute respiratory failure,135403648
+BADD_D01295,Linezolid,BADD_A00086,Acute respiratory failure,441401
+BADD_D01336,Macitentan,BADD_A00086,Acute respiratory failure,16004692
+BADD_D01393,Meropenem,BADD_A00086,Acute respiratory failure,441130
+BADD_D01397,Mesalamine,BADD_A00086,Acute respiratory failure,4075
+BADD_D01414,Methimazole,BADD_A00086,Acute respiratory failure,1349907
+BADD_D01465,Miglustat,BADD_A00086,Acute respiratory failure,51634
+BADD_D01491,Mometasone furoate,BADD_A00086,Acute respiratory failure,441336
+BADD_D01592,Obeticholic acid,BADD_A00086,Acute respiratory failure,447715
+BADD_D01599,Olanzapine,BADD_A00086,Acute respiratory failure,135398745
+BADD_D01617,Ondansetron,BADD_A00086,Acute respiratory failure,4595
+BADD_D01765,Phenytoin,BADD_A00086,Acute respiratory failure,1775
+BADD_D01798,Pomalidomide,BADD_A00086,Acute respiratory failure,134780
+BADD_D01948,Riociguat,BADD_A00086,Acute respiratory failure,11304743
+BADD_D01954,Rivaroxaban,BADD_A00086,Acute respiratory failure,9875401
+BADD_D01955,Rivastigmine,BADD_A00086,Acute respiratory failure,77991
+BADD_D01959,Rocuronium,BADD_A00086,Acute respiratory failure,441290
+BADD_D01971,Rosuvastatin,BADD_A00086,Acute respiratory failure,446157
+BADD_D01978,Ruxolitinib,BADD_A00086,Acute respiratory failure,25126798
+BADD_D02029,Sitagliptin,BADD_A00086,Acute respiratory failure,4369359
+BADD_D02079,Succinylcholine,BADD_A00086,Acute respiratory failure,5314
+BADD_D02106,Tadalafil,BADD_A00086,Acute respiratory failure,110635
+BADD_D02228,Tirofiban,BADD_A00086,Acute respiratory failure,60947
+BADD_D02232,Tobramycin,BADD_A00086,Acute respiratory failure,36294
+BADD_D02246,Tolvaptan,BADD_A00086,Acute respiratory failure,216237
+BADD_D02270,Tretinoin,BADD_A00086,Acute respiratory failure,444795
+BADD_D02360,Vincristine,BADD_A00086,Acute respiratory failure,5978
+BADD_D02373,Warfarin,BADD_A00086,Acute respiratory failure,54678486
+BADD_D02394,Zolpidem,BADD_A00086,Acute respiratory failure,5732
+BADD_D02396,Zonisamide,BADD_A00086,Acute respiratory failure,5734
+BADD_D02568,Lutetium oxodotreotide lu-177,BADD_A00086,Acute respiratory failure,76966897
+BADD_D02574,Molnupiravir,BADD_A00086,Acute respiratory failure,145996610
+BADD_D02596,Sotorasib,BADD_A00086,Acute respiratory failure,137278711
+BADD_D00192,Avanafil,BADD_A00094,Adenoviral upper respiratory infection,9869929
+BADD_D00007,"5-tert-butyl-2-methyl-1,3-benzodioxole",BADD_A00365,Asthma,135113
+BADD_D00016,Acamprosate,BADD_A00365,Asthma,71158
+BADD_D00017,Acamprosate calcium,BADD_A00365,Asthma,155434
+BADD_D00032,Acetylcysteine,BADD_A00365,Asthma,12035
+BADD_D00041,Adalimumab,BADD_A00365,Asthma,Not Available
+BADD_D00065,Alendronate sodium,BADD_A00365,Asthma,6331783
+BADD_D00073,Aliskiren,BADD_A00365,Asthma,5493444
+BADD_D00076,Allopurinol,BADD_A00365,Asthma,135401907
+BADD_D00084,Alpha-1-proteinase inhibitor (human),BADD_A00365,Asthma,Not Available
+BADD_D00118,Amitriptyline,BADD_A00365,Asthma,2160
+BADD_D00132,Amphotericin b,BADD_A00365,Asthma,14956
+BADD_D00139,Anagrelide,BADD_A00365,Asthma,135409400
+BADD_D00140,Anagrelide hydrochloride,BADD_A00365,Asthma,135413494
+BADD_D00142,Anastrozole,BADD_A00365,Asthma,2187
+BADD_D00154,Apraclonidine,BADD_A00365,Asthma,2216
+BADD_D00156,Apremilast,BADD_A00365,Asthma,10151715
+BADD_D00158,Aprotinin (bovine),BADD_A00365,Asthma,16130295
+BADD_D00165,Aripiprazole,BADD_A00365,Asthma,60795
+BADD_D00182,Atorvastatin calcium,BADD_A00365,Asthma,60822
+BADD_D00197,Azelaic acid,BADD_A00365,Asthma,2266
+BADD_D00198,Azelastine,BADD_A00365,Asthma,2267
+BADD_D00199,Azelastine hydrochloride,BADD_A00365,Asthma,54360
+BADD_D00203,Azithromycin,BADD_A00365,Asthma,447043
+BADD_D00217,Beclomethasone,BADD_A00365,Asthma,20469
+BADD_D00218,Beclomethasone 17-monopropionate,BADD_A00365,Asthma,62965
+BADD_D00219,Beclomethasone dipropionate,BADD_A00365,Asthma,21700
+BADD_D00227,Benazepril,BADD_A00365,Asthma,5362124
+BADD_D00228,Benazepril hydrochloride,BADD_A00365,Asthma,5362123
+BADD_D00229,Benazeprilat,BADD_A00365,Asthma,5463984
+BADD_D00258,Betahistine,BADD_A00365,Asthma,2366
+BADD_D00263,Betaxolol,BADD_A00365,Asthma,2369
+BADD_D00264,Betaxolol hydrochloride,BADD_A00365,Asthma,107952
+BADD_D00265,Bethanechol,BADD_A00365,Asthma,2370
+BADD_D00266,Bethanechol chloride,BADD_A00365,Asthma,11548
+BADD_D00274,Bimatoprost,BADD_A00365,Asthma,5311027
+BADD_D00278,Bisoprolol fumarate,BADD_A00365,Asthma,6917733
+BADD_D00294,Brimonidine,BADD_A00365,Asthma,2435
+BADD_D00296,Brinzolamide,BADD_A00365,Asthma,68844
+BADD_D00300,Bromfenac,BADD_A00365,Asthma,60726
+BADD_D00310,Buprenorphine,BADD_A00365,Asthma,644073
+BADD_D00315,Buserelin acetate,BADD_A00365,Asthma,50224
+BADD_D00344,Canagliflozin,BADD_A00365,Asthma,24812758
+BADD_D00349,Capecitabine,BADD_A00365,Asthma,60953
+BADD_D00355,Carbachol,BADD_A00365,Asthma,5831
+BADD_D00365,Carboprost,BADD_A00365,Asthma,5281075
+BADD_D00366,Carboprost tromethamine,BADD_A00365,Asthma,5281074
+BADD_D00375,Carvedilol phosphate,BADD_A00365,Asthma,9827459
+BADD_D00378,Cefaclor,BADD_A00365,Asthma,51039
+BADD_D00385,Cefditoren pivoxil,BADD_A00365,Asthma,16667736
+BADD_D00395,Cefpodoxime,BADD_A00365,Asthma,6335986
+BADD_D00410,Celecoxib,BADD_A00365,Asthma,2662
+BADD_D00417,Cetirizine,BADD_A00365,Asthma,2678
+BADD_D00424,Cevimeline,BADD_A00365,Asthma,2684
+BADD_D00425,Cevimeline hydrochloride,BADD_A00365,Asthma,123603
+BADD_D00445,Chlorpromazine,BADD_A00365,Asthma,2726
+BADD_D00446,Chlorpromazine hydrochloride,BADD_A00365,Asthma,6240
+BADD_D00451,Cholestyramine,BADD_A00365,Asthma,137699107
+BADD_D00452,Cholestyramine resin,BADD_A00365,Asthma,137699107
+BADD_D00456,Choline magnesium trisalicylate,BADD_A00365,Asthma,54682045
+BADD_D00460,Ciclesonide,BADD_A00365,Asthma,6918155
+BADD_D00463,Cidofovir,BADD_A00365,Asthma,60613
+BADD_D00464,Cidofovir dihydrate,BADD_A00365,Asthma,60933
+BADD_D00466,Cilostazol,BADD_A00365,Asthma,2754
+BADD_D00471,Ciprofloxacin,BADD_A00365,Asthma,2764
+BADD_D00472,Ciprofloxacin hydrochloride,BADD_A00365,Asthma,62999
+BADD_D00476,Citalopram hydrobromide,BADD_A00365,Asthma,77995
+BADD_D00488,Clobazam,BADD_A00365,Asthma,2789
+BADD_D00502,Clonidine,BADD_A00365,Asthma,2803
+BADD_D00503,Clonidine hydrochloride,BADD_A00365,Asthma,20179
+BADD_D00514,Cocaine,BADD_A00365,Asthma,446220
+BADD_D00524,Colistimethate sodium,BADD_A00365,Asthma,216258
+BADD_D00528,Conjugated estrogens,BADD_A00365,Asthma,45357473
+BADD_D00533,Cortisone acetate,BADD_A00365,Asthma,5745
+BADD_D00534,Cosyntropin,BADD_A00365,Asthma,16133802
+BADD_D00555,Cyproterone acetate,BADD_A00365,Asthma,9880
+BADD_D00611,Desflurane,BADD_A00365,Asthma,42113
+BADD_D00619,Desonide,BADD_A00365,Asthma,5311066
+BADD_D00620,Desoximetasone,BADD_A00365,Asthma,5311067
+BADD_D00628,Dexlansoprazole,BADD_A00365,Asthma,9578005
+BADD_D00646,Diatrizoate sodium,BADD_A00365,Asthma,23672589
+BADD_D00647,Diatrizoic acid,BADD_A00365,Asthma,2140
+BADD_D00652,Dichlorphenamide,BADD_A00365,Asthma,3038
+BADD_D00655,Diclofenac potassium,BADD_A00365,Asthma,23667642
+BADD_D00656,Diclofenac sodium,BADD_A00365,Asthma,5018304
+BADD_D00676,Dimenhydrinate,BADD_A00365,Asthma,10660
+BADD_D00684,Dinoprostone,BADD_A00365,Asthma,5280360
+BADD_D00701,Dofetilide,BADD_A00365,Asthma,71329
+BADD_D00706,Donepezil,BADD_A00365,Asthma,3152
+BADD_D00707,Donepezil hydrochloride,BADD_A00365,Asthma,5741
+BADD_D00720,Doxepin,BADD_A00365,Asthma,3158
+BADD_D00721,Doxepin hydrochloride,BADD_A00365,Asthma,6419921
+BADD_D00749,Efavirenz,BADD_A00365,Asthma,64139
+BADD_D00755,Eletriptan,BADD_A00365,Asthma,77993
+BADD_D00756,Eletriptan hydrobromide,BADD_A00365,Asthma,656631
+BADD_D00761,Eluxadoline,BADD_A00365,Asthma,11250029
+BADD_D00767,Enalapril maleate,BADD_A00365,Asthma,5388961
+BADD_D00785,Epirubicin hydrochloride,BADD_A00365,Asthma,65348
+BADD_D00790,Eprosartan,BADD_A00365,Asthma,5281037
+BADD_D00791,Eprosartan mesylate,BADD_A00365,Asthma,5282474
+BADD_D00793,Equilin sulfate,BADD_A00365,Asthma,168708
+BADD_D00794,Ergocalciferol,BADD_A00365,Asthma,5280793
+BADD_D00802,Ertapenem,BADD_A00365,Asthma,150610
+BADD_D00803,Ertapenem sodium,BADD_A00365,Asthma,23674512
+BADD_D00804,Erythromycin,BADD_A00365,Asthma,12560
+BADD_D00815,Esomeprazole,BADD_A00365,Asthma,9568614
+BADD_D00816,Esomeprazole magnesium,BADD_A00365,Asthma,130564
+BADD_D00817,Esomeprazole sodium,BADD_A00365,Asthma,10959536
+BADD_D00818,Esomeprazole strontium,BADD_A00365,Asthma,16048656
+BADD_D00819,Estazolam,BADD_A00365,Asthma,3261
+BADD_D00820,Esterified estrogens,BADD_A00365,Asthma,Not Available
+BADD_D00822,Estradiol acetate,BADD_A00365,Asthma,9818306
+BADD_D00823,Estradiol cypionate,BADD_A00365,Asthma,9403
+BADD_D00824,Estradiol hemihydrate,BADD_A00365,Asthma,154274
+BADD_D00825,Estradiol valerate,BADD_A00365,Asthma,13791
+BADD_D00830,Estrofen,BADD_A00365,Asthma,3080904
+BADD_D00831,Estrogens,BADD_A00365,Asthma,23676225
+BADD_D00832,Estrogens conjugated synthetic a,BADD_A00365,Asthma,Not Available
+BADD_D00833,Estrogens conjugated synthetic b,BADD_A00365,Asthma,Not Available
+BADD_D00834,Estrone,BADD_A00365,Asthma,5870
+BADD_D00835,Estrone sulfate,BADD_A00365,Asthma,3001028
+BADD_D00836,Estropipate,BADD_A00365,Asthma,5284555
+BADD_D00837,Eszopiclone,BADD_A00365,Asthma,969472
+BADD_D00848,Etidronate disodium,BADD_A00365,Asthma,23894
+BADD_D00849,Etidronic acid,BADD_A00365,Asthma,3305
+BADD_D00852,Etonogestrel,BADD_A00365,Asthma,6917715
+BADD_D00864,Ezetimibe,BADD_A00365,Asthma,150311
+BADD_D00871,Felbamate,BADD_A00365,Asthma,3331
+BADD_D00873,Fenofibrate,BADD_A00365,Asthma,3339
+BADD_D00880,Fentanyl citrate,BADD_A00365,Asthma,13810
+BADD_D00881,Fentanyl hydrochloride,BADD_A00365,Asthma,83932
+BADD_D00891,Fesoterodine,BADD_A00365,Asthma,6918558
+BADD_D00898,Finasteride,BADD_A00365,Asthma,57363
+BADD_D00926,Fluorescein,BADD_A00365,Asthma,16850
+BADD_D00932,Fluoxetine,BADD_A00365,Asthma,3386
+BADD_D00935,Fluphenazine,BADD_A00365,Asthma,3372
+BADD_D00936,Fluphenazine decanoate,BADD_A00365,Asthma,3388
+BADD_D00937,Fluphenazine hydrochloride,BADD_A00365,Asthma,67356
+BADD_D00941,Flurbiprofen,BADD_A00365,Asthma,3394
+BADD_D00945,Fluticasone,BADD_A00365,Asthma,5311101
+BADD_D00946,Fluticasone furoate,BADD_A00365,Asthma,9854489
+BADD_D00950,Fluvoxamine,BADD_A00365,Asthma,5324346
+BADD_D00951,Fluvoxamine maleate,BADD_A00365,Asthma,5384136
+BADD_D00954,Follitropin alfa,BADD_A00365,Asthma,Not Available
+BADD_D00958,Formoterol,BADD_A00365,Asthma,3410
+BADD_D00959,Formoterol fumarate,BADD_A00365,Asthma,49800025
+BADD_D00965,Fosfomycin,BADD_A00365,Asthma,446987
+BADD_D00966,Fosfomycin tromethamine,BADD_A00365,Asthma,54331
+BADD_D00967,Fosinopril,BADD_A00365,Asthma,3420
+BADD_D00970,Fosphenytoin,BADD_A00365,Asthma,56339
+BADD_D00971,Fosphenytoin sodium,BADD_A00365,Asthma,56338
+BADD_D00974,Fragmin,BADD_A00365,Asthma,772
+BADD_D00978,Fulvestrant,BADD_A00365,Asthma,104741
+BADD_D00981,Gabapentin,BADD_A00365,Asthma,3446
+BADD_D00989,Gadolinium,BADD_A00365,Asthma,23982
+BADD_D00993,Gadoteridol,BADD_A00365,Asthma,60714
+BADD_D00994,Gadoversetamide,BADD_A00365,Asthma,444013
+BADD_D01006,Gatifloxacin,BADD_A00365,Asthma,5379
+BADD_D01020,Glatiramer,BADD_A00365,Asthma,65370
+BADD_D01021,Glatiramer acetate,BADD_A00365,Asthma,3081884
+BADD_D01022,Gliclazide,BADD_A00365,Asthma,3475
+BADD_D01031,Glycerin,BADD_A00365,Asthma,753
+BADD_D01045,Guanethidine monosulfate,BADD_A00365,Asthma,56927696
+BADD_D01046,Guanfacine,BADD_A00365,Asthma,3519
+BADD_D01059,Heparan sulfate,BADD_A00365,Asthma,Not Available
+BADD_D01061,Heparin sodium,BADD_A00365,Asthma,92044406
+BADD_D01064,Hepatitis b vaccine (recombinant),BADD_A00365,Asthma,Not Available
+BADD_D01071,Histamine,BADD_A00365,Asthma,774
+BADD_D01072,Histamine phosphate,BADD_A00365,Asthma,65513
+BADD_D01086,Hydrocortisone,BADD_A00365,Asthma,5754
+BADD_D01096,Hydromorphone,BADD_A00365,Asthma,5284570
+BADD_D01107,Hydroxyprogesterone caproate,BADD_A00365,Asthma,169870
+BADD_D01117,Ibandronic acid,BADD_A00365,Asthma,60852
+BADD_D01120,Ibuprofen,BADD_A00365,Asthma,3672
+BADD_D01132,Idursulfase,BADD_A00365,Asthma,Not Available
+BADD_D01134,Iloperidone,BADD_A00365,Asthma,71360
+BADD_D01143,Immune globulin,BADD_A00365,Asthma,Not Available
+BADD_D01147,Indacaterol,BADD_A00365,Asthma,6918554
+BADD_D01149,Indapamide,BADD_A00365,Asthma,3702
+BADD_D01159,Insulin (human),BADD_A00365,Asthma,118984375
+BADD_D01162,Insulin detemir,BADD_A00365,Asthma,16137271
+BADD_D01163,Insulin glargine,BADD_A00365,Asthma,118984454
+BADD_D01167,Interferon alfa-2b,BADD_A00365,Asthma,71306834
+BADD_D01183,Iothalamate meglumine,BADD_A00365,Asthma,656642
+BADD_D01184,Iothalamic acid,BADD_A00365,Asthma,3737
+BADD_D01187,Ioxaglate meglumine,BADD_A00365,Asthma,20055342
+BADD_D01188,Ioxaglic acid,BADD_A00365,Asthma,3742
+BADD_D01191,Ipratropium,BADD_A00365,Asthma,657309
+BADD_D01192,Ipratropium bromide,BADD_A00365,Asthma,657308
+BADD_D01199,Iron sucrose,BADD_A00365,Asthma,91663255
+BADD_D01209,Isosorbide,BADD_A00365,Asthma,12597
+BADD_D01211,Isosorbide mononitrate,BADD_A00365,Asthma,27661
+BADD_D01213,Isotretinoin,BADD_A00365,Asthma,5282379
+BADD_D01221,Ivermectin,BADD_A00365,Asthma,6321424
+BADD_D01231,Ketoprofen,BADD_A00365,Asthma,3825
+BADD_D01232,Ketorolac,BADD_A00365,Asthma,3826
+BADD_D01233,Ketorolac tromethamine,BADD_A00365,Asthma,84003
+BADD_D01251,Latanoprost,BADD_A00365,Asthma,5311221
+BADD_D01253,Lenalidomide,BADD_A00365,Asthma,216326
+BADD_D01255,Lercanidipine,BADD_A00365,Asthma,65866
+BADD_D01261,Leuprolide monoacetate,BADD_A00365,Asthma,657180
+BADD_D01262,Levalbuterol,BADD_A00365,Asthma,123600
+BADD_D01263,Levalbuterol hydrochloride,BADD_A00365,Asthma,123601
+BADD_D01264,Levalbuterol tartrate,BADD_A00365,Asthma,10349032
+BADD_D01265,Levetiracetam,BADD_A00365,Asthma,5284583
+BADD_D01272,Levocetirizine,BADD_A00365,Asthma,1549000
+BADD_D01281,Levonorgestrel,BADD_A00365,Asthma,13109
+BADD_D01287,Lidocaine,BADD_A00365,Asthma,3676
+BADD_D01296,Liothyronine,BADD_A00365,Asthma,5920
+BADD_D01298,Liraglutide,BADD_A00365,Asthma,16134956
+BADD_D01317,Loratadine,BADD_A00365,Asthma,3957
+BADD_D01322,Losartan,BADD_A00365,Asthma,3961
+BADD_D01334,Lymphazurin,BADD_A00365,Asthma,101316975
+BADD_D01365,Medroxyprogesterone,BADD_A00365,Asthma,10631
+BADD_D01368,Mefenamic acid,BADD_A00365,Asthma,4044
+BADD_D01374,Meloxicam,BADD_A00365,Asthma,54677470
+BADD_D01375,Meloxicam sodium,BADD_A00365,Asthma,4051
+BADD_D01378,Memantine,BADD_A00365,Asthma,4054
+BADD_D01379,Memantine hydrochloride,BADD_A00365,Asthma,181458
+BADD_D01394,Merrem i.v.,BADD_A00365,Asthma,441130
+BADD_D01431,Methylphenidate,BADD_A00365,Asthma,4158
+BADD_D01471,Minocycline anion,BADD_A00365,Asthma,26275995
+BADD_D01475,Mirabegron,BADD_A00365,Asthma,9865528
+BADD_D01476,Mirtazapine,BADD_A00365,Asthma,4205
+BADD_D01484,Modafinil,BADD_A00365,Asthma,4236
+BADD_D01490,Mometasone,BADD_A00365,Asthma,441335
+BADD_D01492,Mometasone furoate monohydrate,BADD_A00365,Asthma,9893453
+BADD_D01501,Moxifloxacin,BADD_A00365,Asthma,152946
+BADD_D01502,Moxifloxacin hydrochloride,BADD_A00365,Asthma,101526
+BADD_D01507,Mycophenolate mofetil,BADD_A00365,Asthma,5281078
+BADD_D01508,Mycophenolic acid,BADD_A00365,Asthma,446541
+BADD_D01511,Nabumetone,BADD_A00365,Asthma,4409
+BADD_D01519,Nalbuphine,BADD_A00365,Asthma,5311304
+BADD_D01520,Nalbuphine hydrochloride,BADD_A00365,Asthma,5360733
+BADD_D01533,Naproxen,BADD_A00365,Asthma,156391
+BADD_D01534,Naproxen sodium,BADD_A00365,Asthma,23681059
+BADD_D01535,Naratriptan,BADD_A00365,Asthma,4440
+BADD_D01536,Naratriptan hydrochloride,BADD_A00365,Asthma,60875
+BADD_D01545,Nedocromil sodium,BADD_A00365,Asthma,50295
+BADD_D01546,Nefazodone,BADD_A00365,Asthma,4449
+BADD_D01547,Nefazodone hydrochloride,BADD_A00365,Asthma,54911
+BADD_D01558,Nexium,BADD_A00365,Asthma,9568613
+BADD_D01570,Nisoldipine,BADD_A00365,Asthma,4499
+BADD_D01576,Nitrofurantoin,BADD_A00365,Asthma,6604200
+BADD_D01586,Norethindrone acetate,BADD_A00365,Asthma,5832
+BADD_D01595,Octreotide acetate,BADD_A00365,Asthma,6917964
+BADD_D01611,Omega-3-acid ethyl esters,BADD_A00365,Asthma,9831414
+BADD_D01621,Optimark,BADD_A00365,Asthma,6435809
+BADD_D01622,Orciprenaline,BADD_A00365,Asthma,4086
+BADD_D01624,Orlistat,BADD_A00365,Asthma,3034010
+BADD_D01627,Oseltamivir,BADD_A00365,Asthma,65028
+BADD_D01628,Oseltamivir phosphate,BADD_A00365,Asthma,78000
+BADD_D01635,Oxaprozin,BADD_A00365,Asthma,4614
+BADD_D01637,Oxcarbazepine,BADD_A00365,Asthma,34312
+BADD_D01643,Oxybutynin,BADD_A00365,Asthma,4634
+BADD_D01645,Oxycodone,BADD_A00365,Asthma,5284603
+BADD_D01664,Pancrelipase,BADD_A00365,Asthma,8519
+BADD_D01668,Pantoprazole,BADD_A00365,Asthma,4679
+BADD_D01679,Paroxetine,BADD_A00365,Asthma,43815
+BADD_D01680,Paroxetine hydrochloride,BADD_A00365,Asthma,62878
+BADD_D01681,Paroxetine hydrochloride hemihydrate,BADD_A00365,Asthma,9843029
+BADD_D01682,Paroxetine impurity a,BADD_A00365,Asthma,3038120
+BADD_D01683,Paroxetine mesylate,BADD_A00365,Asthma,9845306
+BADD_D01709,Penicillamine,BADD_A00365,Asthma,5852
+BADD_D01717,Pentamidine,BADD_A00365,Asthma,4735
+BADD_D01718,Pentamidine isethionate,BADD_A00365,Asthma,8813
+BADD_D01730,Pentostatin,BADD_A00365,Asthma,439693
+BADD_D01735,Pergolide,BADD_A00365,Asthma,47811
+BADD_D01736,Pergolide mesylate,BADD_A00365,Asthma,47812
+BADD_D01738,Periciazine,BADD_A00365,Asthma,4747
+BADD_D01740,Perindopril erbumine,BADD_A00365,Asthma,441313
+BADD_D01743,Perphenazine,BADD_A00365,Asthma,4748
+BADD_D01747,Phencyclidine,BADD_A00365,Asthma,6468
+BADD_D01752,Phenobarbital,BADD_A00365,Asthma,4763
+BADD_D01773,Pimecrolimus,BADD_A00365,Asthma,6447131
+BADD_D01784,Piroxicam,BADD_A00365,Asthma,54676228
+BADD_D01792,Polidocanol,BADD_A00365,Asthma,656641
+BADD_D01807,Potassium bicarbonate,BADD_A00365,Asthma,516893
+BADD_D01817,Pramipexole,BADD_A00365,Asthma,119570
+BADD_D01818,Pramipexole dihydrochloride,BADD_A00365,Asthma,119569
+BADD_D01835,Pregabalin,BADD_A00365,Asthma,5486971
+BADD_D01848,Prochlorperazine,BADD_A00365,Asthma,4917
+BADD_D01849,Prochlorperazine edisylate,BADD_A00365,Asthma,91499
+BADD_D01850,Prochlorperazine maleate,BADD_A00365,Asthma,5281032
+BADD_D01854,Promethazine,BADD_A00365,Asthma,4927
+BADD_D01855,Promethazine hydrochloride,BADD_A00365,Asthma,6014
+BADD_D01876,Pseudoephedrine,BADD_A00365,Asthma,7028
+BADD_D01889,Quetiapine fumarate,BADD_A00365,Asthma,441261
+BADD_D01895,Quinine,BADD_A00365,Asthma,3034034
+BADD_D01896,Quinine dihydrochloride,BADD_A00365,Asthma,91429
+BADD_D01897,Quinine sulfate,BADD_A00365,Asthma,16211610
+BADD_D01898,Rabeprazole,BADD_A00365,Asthma,5029
+BADD_D01915,Ranolazine,BADD_A00365,Asthma,56959
+BADD_D01916,Rasagiline mesylate,BADD_A00365,Asthma,3052775
+BADD_D01937,Rifapentine,BADD_A00365,Asthma,135403821
+BADD_D01950,Risedronic acid,BADD_A00365,Asthma,5245
+BADD_D01951,Risperidone,BADD_A00365,Asthma,5073
+BADD_D01952,Ritonavir,BADD_A00365,Asthma,392622
+BADD_D01960,Rocuronium bromide,BADD_A00365,Asthma,441351
+BADD_D01961,Rofecoxib,BADD_A00365,Asthma,5090
+BADD_D01962,Roflumilast,BADD_A00365,Asthma,449193
+BADD_D01966,Ropinirole,BADD_A00365,Asthma,5095
+BADD_D01975,Roxithromycin,BADD_A00365,Asthma,444037
+BADD_D01980,Salicylic acid,BADD_A00365,Asthma,338
+BADD_D01981,Salmeterol,BADD_A00365,Asthma,5152
+BADD_D01982,Salmeterol xinafoate,BADD_A00365,Asthma,56801
+BADD_D01989,Saquinavir mesylate,BADD_A00365,Asthma,60934
+BADD_D02002,Selegiline,BADD_A00365,Asthma,26757
+BADD_D02003,Selegiline hydrochloride,BADD_A00365,Asthma,26758
+BADD_D02010,Sertraline,BADD_A00365,Asthma,68617
+BADD_D02016,Sibutramine,BADD_A00365,Asthma,5210
+BADD_D02031,Sitaxentan,BADD_A00365,Asthma,216235
+BADD_D02047,Sodium oxybate,BADD_A00365,Asthma,23663870
+BADD_D02050,Sodium tetradecyl sulfate,BADD_A00365,Asthma,23665770
+BADD_D02060,Sotalol,BADD_A00365,Asthma,5253
+BADD_D02061,Sotalol hydrochloride,BADD_A00365,Asthma,66245
+BADD_D02062,Sparfloxacin,BADD_A00365,Asthma,60464
+BADD_D02098,Sumatriptan,BADD_A00365,Asthma,5358
+BADD_D02099,Sumatriptan succinate,BADD_A00365,Asthma,59772
+BADD_D02104,Tacrine hydrochloride,BADD_A00365,Asthma,2723754
+BADD_D02108,Tafluprost,BADD_A00365,Asthma,9868491
+BADD_D02113,Tamsulosin,BADD_A00365,Asthma,60147
+BADD_D02115,Tapentadol,BADD_A00365,Asthma,9838022
+BADD_D02118,Tasimelteon,BADD_A00365,Asthma,10220503
+BADD_D02140,Tegaserode,BADD_A00365,Asthma,Not Available
+BADD_D02147,Telmisartan,BADD_A00365,Asthma,65999
+BADD_D02157,Tenoxicam,BADD_A00365,Asthma,54677971
+BADD_D02158,Terazosin,BADD_A00365,Asthma,5401
+BADD_D02160,Terbinafine,BADD_A00365,Asthma,1549008
+BADD_D02162,Terbutaline,BADD_A00365,Asthma,5403
+BADD_D02174,Testosterone undecanoate,BADD_A00365,Asthma,65157
+BADD_D02175,Tetrabenazine,BADD_A00365,Asthma,6018
+BADD_D02182,Tetradecyl hydrogen sulfate (ester),BADD_A00365,Asthma,8771
+BADD_D02195,Theophylline,BADD_A00365,Asthma,2153
+BADD_D02200,Thioridazine,BADD_A00365,Asthma,5452
+BADD_D02201,Thioridazine hydrochloride,BADD_A00365,Asthma,66062
+BADD_D02203,Thiotepa,BADD_A00365,Asthma,5453
+BADD_D02210,Tiagabine,BADD_A00365,Asthma,60648
+BADD_D02211,Tiagabine hydrochloride,BADD_A00365,Asthma,91274
+BADD_D02212,Tiaprofenic acid,BADD_A00365,Asthma,5468
+BADD_D02219,Timolol,BADD_A00365,Asthma,33624
+BADD_D02230,Tizanidine,BADD_A00365,Asthma,5487
+BADD_D02231,Tizanidine hydrochloride,BADD_A00365,Asthma,114869
+BADD_D02236,Tofacitinib,BADD_A00365,Asthma,9926791
+BADD_D02241,Tolcapone,BADD_A00365,Asthma,4659569
+BADD_D02247,Topiramate,BADD_A00365,Asthma,5284627
+BADD_D02265,Travoprost,BADD_A00365,Asthma,5282226
+BADD_D02271,Triamcinolone,BADD_A00365,Asthma,31307
+BADD_D02272,Triamcinolone acetonide,BADD_A00365,Asthma,6436
+BADD_D02281,Trifluoperazine,BADD_A00365,Asthma,5566
+BADD_D02282,Trifluoperazine hydrochloride,BADD_A00365,Asthma,66064
+BADD_D02307,Trovafloxacin,BADD_A00365,Asthma,62959
+BADD_D02308,Trovafloxacin mesylate,BADD_A00365,Asthma,62960
+BADD_D02314,Umeclidinium,BADD_A00365,Asthma,11519070
+BADD_D02321,Ursodiol,BADD_A00365,Asthma,31401
+BADD_D02337,Varenicline,BADD_A00365,Asthma,170361
+BADD_D02338,Varenicline tartrate,BADD_A00365,Asthma,46783232
+BADD_D02350,Verdeso,BADD_A00365,Asthma,12536
+BADD_D02367,Voltaren,BADD_A00365,Asthma,5018304
+BADD_D02379,Zaleplon,BADD_A00365,Asthma,5719
+BADD_D02452,Icatibant,BADD_A00365,Asthma,6918173
+BADD_D02464,Fingolimod,BADD_A00365,Asthma,107970
+BADD_D02465,Aclidinium,BADD_A00365,Asthma,11434515
+BADD_D02492,Deflazacort,BADD_A00365,Asthma,189821
+BADD_D02504,Lorlatinib,BADD_A00365,Asthma,71731823
+BADD_D02527,Abrocitinib,BADD_A00365,Asthma,Not Available
+BADD_D02558,Gadolinium cation (3+),BADD_A00365,Asthma,168050
+BADD_D02572,Migalastat,BADD_A00365,Asthma,176077
+BADD_D02580,Ozanimod,BADD_A00365,Asthma,52938427
+BADD_D00231,Bendamustine hydrochloride,BADD_A00385,Atypical pneumonia,77082
+BADD_D00495,Clofarabine,BADD_A00385,Atypical pneumonia,119182
+BADD_D00382,Cefazolin,BADD_A00419,Bacterial lower respiratory tract infections,33255
+BADD_D00386,Cefepime,BADD_A00419,Bacterial lower respiratory tract infections,5479537
+BADD_D00388,Cefixime,BADD_A00419,Bacterial lower respiratory tract infections,5362065
+BADD_D00397,Cefprozil,BADD_A00419,Bacterial lower respiratory tract infections,5281006
+BADD_D00771,Enfuvirtide,BADD_A00419,Bacterial lower respiratory tract infections,16130199
+BADD_D01014,Gemifloxacin mesylate,BADD_A00419,Bacterial lower respiratory tract infections,9588170
+BADD_D01029,Glutamine,BADD_A00419,Bacterial lower respiratory tract infections,5961
+BADD_D01352,Maraviroc,BADD_A00419,Bacterial lower respiratory tract infections,3002977
+BADD_D02145,Telbivudine,BADD_A00419,Bacterial lower respiratory tract infections,159269
+BADD_D02227,Tipranavir disodium,BADD_A00419,Bacterial lower respiratory tract infections,163296
+BADD_D02342,Vedolizumab,BADD_A00419,Bacterial lower respiratory tract infections,Not Available
+BADD_D00489,Clobetasol,BADD_A00420,Bacterial upper respiratory tract infections,5311051
+BADD_D01527,Naltrexone,BADD_A00420,Bacterial upper respiratory tract infections,5360515
+BADD_D01598,Ofloxacin,BADD_A00420,Bacterial upper respiratory tract infections,4583
+BADD_D01764,Phenylpropanolamine,BADD_A00708,Bronchial and pulmonary therapeutic procedures,4786
+BADD_D00188,Atracurium besylate,BADD_A00709,Bronchial conditions NEC,47320
+BADD_D00548,Cyclopentolate hydrochloride,BADD_A00709,Bronchial conditions NEC,22162
+BADD_D00711,Dornase alfa,BADD_A00709,Bronchial conditions NEC,Not Available
+BADD_D01802,Porfimer,BADD_A00709,Bronchial conditions NEC,135577896
+BADD_D01803,Porfimer sodium,BADD_A00709,Bronchial conditions NEC,135577896
+BADD_D02217,Tigecycline,BADD_A00709,Bronchial conditions NEC,54686904
+BADD_D02223,Tiopronin,BADD_A00709,Bronchial conditions NEC,5483
+BADD_D02490,Apalutamide,BADD_A00709,Bronchial conditions NEC,24872560
+BADD_D02556,Ferrous cation,BADD_A00709,Bronchial conditions NEC,27284
+BADD_D02575,Omadacycline,BADD_A00709,Bronchial conditions NEC,Not Available
+BADD_D00006,"4r,6r-dorzolamide",BADD_A00710,Bronchial disorders (excl neoplasms),92087
+BADD_D00012,Abatacept,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D00013,Abciximab,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D00019,Acebutolol,BADD_A00710,Bronchial disorders (excl neoplasms),1978
+BADD_D00020,Acebutolol hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),441307
+BADD_D00035,Acipimox,BADD_A00710,Bronchial disorders (excl neoplasms),5310993
+BADD_D00037,Aclidinium bromide,BADD_A00710,Bronchial disorders (excl neoplasms),11519741
+BADD_D00038,Activated charcoal,BADD_A00710,Bronchial disorders (excl neoplasms),5462310
+BADD_D00039,Acyclovir,BADD_A00710,Bronchial disorders (excl neoplasms),135398513
+BADD_D00045,Adenosine,BADD_A00710,Bronchial disorders (excl neoplasms),60961
+BADD_D00049,Agalsidase beta,BADD_A00710,Bronchial disorders (excl neoplasms),52918379
+BADD_D00051,Airduo respiclick,BADD_A00710,Bronchial disorders (excl neoplasms),56841124
+BADD_D00055,Albumin microspheres (human),BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D00057,Albuterol sulfate,BADD_A00710,Bronchial disorders (excl neoplasms),39859
+BADD_D00067,Alfentanil,BADD_A00710,Bronchial disorders (excl neoplasms),51263
+BADD_D00068,Alfentanil hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),64761
+BADD_D00071,Alglucosidase alfa,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D00086,Alprostadil,BADD_A00710,Bronchial disorders (excl neoplasms),5280723
+BADD_D00112,Aminophylline,BADD_A00710,Bronchial disorders (excl neoplasms),9433
+BADD_D00133,Ampicillin,BADD_A00710,Bronchial disorders (excl neoplasms),6249
+BADD_D00143,Anidulafungin,BADD_A00710,Bronchial disorders (excl neoplasms),166548
+BADD_D00157,Aprepitant,BADD_A00710,Bronchial disorders (excl neoplasms),135413536
+BADD_D00159,Arformoterol,BADD_A00710,Bronchial disorders (excl neoplasms),3083544
+BADD_D00160,Arformoterol tartrate,BADD_A00710,Bronchial disorders (excl neoplasms),9827062
+BADD_D00164,Argipressin,BADD_A00710,Bronchial disorders (excl neoplasms),644077
+BADD_D00169,Arsenic trioxide,BADD_A00710,Bronchial disorders (excl neoplasms),14888
+BADD_D00172,Asenapine,BADD_A00710,Bronchial disorders (excl neoplasms),9903970
+BADD_D00176,Atazanavir,BADD_A00710,Bronchial disorders (excl neoplasms),148192
+BADD_D00186,Atovaquone,BADD_A00710,Bronchial disorders (excl neoplasms),74989
+BADD_D00187,Atracurium,BADD_A00710,Bronchial disorders (excl neoplasms),47319
+BADD_D00204,Azithromycin dihydrate,BADD_A00710,Bronchial disorders (excl neoplasms),3033819
+BADD_D00205,Azithromycin monohydrate,BADD_A00710,Bronchial disorders (excl neoplasms),9897015
+BADD_D00206,Aztreonam,BADD_A00710,Bronchial disorders (excl neoplasms),2274
+BADD_D00213,Barium sulfate,BADD_A00710,Bronchial disorders (excl neoplasms),24414
+BADD_D00214,Basiliximab,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D00220,Beclomethasone dipropionate monohydrate,BADD_A00710,Bronchial disorders (excl neoplasms),16052009
+BADD_D00240,Benzonatate,BADD_A00710,Bronchial disorders (excl neoplasms),7699
+BADD_D00260,Betamethasone,BADD_A00710,Bronchial disorders (excl neoplasms),9782
+BADD_D00267,Betiatide,BADD_A00710,Bronchial disorders (excl neoplasms),185457
+BADD_D00280,Bleomycin,BADD_A00710,Bronchial disorders (excl neoplasms),5460769
+BADD_D00281,Bleomycin sulfate,BADD_A00710,Bronchial disorders (excl neoplasms),72466
+BADD_D00283,Boceprevir,BADD_A00710,Bronchial disorders (excl neoplasms),10324367
+BADD_D00293,Brexpiprazole,BADD_A00710,Bronchial disorders (excl neoplasms),11978813
+BADD_D00297,Brivaracetam,BADD_A00710,Bronchial disorders (excl neoplasms),9837243
+BADD_D00302,Bromhexine,BADD_A00710,Bronchial disorders (excl neoplasms),2442
+BADD_D00308,Bupivacaine,BADD_A00710,Bronchial disorders (excl neoplasms),2474
+BADD_D00313,Bupropion hydrobromide,BADD_A00710,Bronchial disorders (excl neoplasms),11984562
+BADD_D00314,Bupropion hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),62884
+BADD_D00330,Cabozantinib,BADD_A00710,Bronchial disorders (excl neoplasms),25102847
+BADD_D00332,Caffeine,BADD_A00710,Bronchial disorders (excl neoplasms),2519
+BADD_D00335,Calcitonin,BADD_A00710,Bronchial disorders (excl neoplasms),16220016
+BADD_D00336,Calcitonin (salmon),BADD_A00710,Bronchial disorders (excl neoplasms),16133812
+BADD_D00342,Calfactant,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D00348,Cangrelor,BADD_A00710,Bronchial disorders (excl neoplasms),9854012
+BADD_D00361,Carbinoxamine,BADD_A00710,Bronchial disorders (excl neoplasms),2564
+BADD_D00362,Carbinoxamine maleate,BADD_A00710,Bronchial disorders (excl neoplasms),5282409
+BADD_D00372,Carteolol,BADD_A00710,Bronchial disorders (excl neoplasms),2583
+BADD_D00373,Carteolol hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),40127
+BADD_D00390,Cefotaxime,BADD_A00710,Bronchial disorders (excl neoplasms),5742673
+BADD_D00399,Ceftazidime,BADD_A00710,Bronchial disorders (excl neoplasms),5481173
+BADD_D00400,Ceftazidime pentahydrate,BADD_A00710,Bronchial disorders (excl neoplasms),5362051
+BADD_D00406,Ceftriaxone sodium,BADD_A00710,Bronchial disorders (excl neoplasms),9570985
+BADD_D00411,Celiprolol,BADD_A00710,Bronchial disorders (excl neoplasms),2663
+BADD_D00412,Cephalexin,BADD_A00710,Bronchial disorders (excl neoplasms),27447
+BADD_D00414,Ceritinib,BADD_A00710,Bronchial disorders (excl neoplasms),57379345
+BADD_D00418,Cetirizine hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),55182
+BADD_D00444,Chlorphenamine,BADD_A00710,Bronchial disorders (excl neoplasms),2725
+BADD_D00465,Cilazapril monohydrate,BADD_A00710,Bronchial disorders (excl neoplasms),56329
+BADD_D00473,Cisatracurium besylate,BADD_A00710,Bronchial disorders (excl neoplasms),62886
+BADD_D00481,Clemastine fumarate,BADD_A00710,Bronchial disorders (excl neoplasms),5281069
+BADD_D00483,Clindamycin,BADD_A00710,Bronchial disorders (excl neoplasms),2786
+BADD_D00494,Clodronic acid,BADD_A00710,Bronchial disorders (excl neoplasms),25419
+BADD_D00499,Clomipramine,BADD_A00710,Bronchial disorders (excl neoplasms),2801
+BADD_D00500,Clomipramine hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),68539
+BADD_D00505,Clopidogrel bisulfate,BADD_A00710,Bronchial disorders (excl neoplasms),115366
+BADD_D00510,Cloxacillin,BADD_A00710,Bronchial disorders (excl neoplasms),6098
+BADD_D00537,Cromoglycate,BADD_A00710,Bronchial disorders (excl neoplasms),2882
+BADD_D00543,Cyclizine,BADD_A00710,Bronchial disorders (excl neoplasms),6726
+BADD_D00544,Cyclo-upup,BADD_A00710,Bronchial disorders (excl neoplasms),194491
+BADD_D00545,Cyclobenzaprine,BADD_A00710,Bronchial disorders (excl neoplasms),2895
+BADD_D00552,Cyproheptadine,BADD_A00710,Bronchial disorders (excl neoplasms),2913
+BADD_D00553,Cyproheptadine hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),13770
+BADD_D00564,Dabigatran etexilate,BADD_A00710,Bronchial disorders (excl neoplasms),135565674
+BADD_D00572,Dalbavancin,BADD_A00710,Bronchial disorders (excl neoplasms),16134627
+BADD_D00573,Dalbavancin hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),86298757
+BADD_D00582,Daratumumab,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D00584,Darifenacin,BADD_A00710,Bronchial disorders (excl neoplasms),444031
+BADD_D00585,Darifenacin hydrobromide,BADD_A00710,Bronchial disorders (excl neoplasms),444030
+BADD_D00594,Deferasirox,BADD_A00710,Bronchial disorders (excl neoplasms),214348
+BADD_D00609,Deoxycholic acid,BADD_A00710,Bronchial disorders (excl neoplasms),222528
+BADD_D00615,Desloratadine,BADD_A00710,Bronchial disorders (excl neoplasms),124087
+BADD_D00616,Desmopressin,BADD_A00710,Bronchial disorders (excl neoplasms),5311065
+BADD_D00621,Desvenlafaxine,BADD_A00710,Bronchial disorders (excl neoplasms),125017
+BADD_D00626,Dexchlorpheniramine,BADD_A00710,Bronchial disorders (excl neoplasms),33036
+BADD_D00627,Dexchlorpheniramine maleate,BADD_A00710,Bronchial disorders (excl neoplasms),5281070
+BADD_D00635,Dextran,BADD_A00710,Bronchial disorders (excl neoplasms),4125253
+BADD_D00643,Diamminedichloroplatinum,BADD_A00710,Bronchial disorders (excl neoplasms),441203
+BADD_D00657,Dicloxacillin,BADD_A00710,Bronchial disorders (excl neoplasms),18381
+BADD_D00658,Dicloxacillin sodium,BADD_A00710,Bronchial disorders (excl neoplasms),23667628
+BADD_D00666,Diflunisal,BADD_A00710,Bronchial disorders (excl neoplasms),3059
+BADD_D00671,Dihydroergotamine,BADD_A00710,Bronchial disorders (excl neoplasms),10531
+BADD_D00673,Dihydrogen phosphate,BADD_A00710,Bronchial disorders (excl neoplasms),1003
+BADD_D00680,Dimethyl fumarate,BADD_A00710,Bronchial disorders (excl neoplasms),637568
+BADD_D00683,Dinoprost tromethamine,BADD_A00710,Bronchial disorders (excl neoplasms),5282415
+BADD_D00687,Diphenhydramine hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),8980
+BADD_D00692,Dipyridamole,BADD_A00710,Bronchial disorders (excl neoplasms),3108
+BADD_D00702,Dolasetron,BADD_A00710,Bronchial disorders (excl neoplasms),60654
+BADD_D00703,Dolasetron mesylate,BADD_A00710,Bronchial disorders (excl neoplasms),3033817
+BADD_D00704,Dolutegravir sodium,BADD_A00710,Bronchial disorders (excl neoplasms),46216142
+BADD_D00712,Dorzolamide,BADD_A00710,Bronchial disorders (excl neoplasms),5284549
+BADD_D00713,Dorzolamide hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),6918132
+BADD_D00715,Doxacurium chloride,BADD_A00710,Bronchial disorders (excl neoplasms),60168
+BADD_D00716,Doxapram,BADD_A00710,Bronchial disorders (excl neoplasms),3156
+BADD_D00717,Doxapram hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),64647
+BADD_D00718,Doxazosin,BADD_A00710,Bronchial disorders (excl neoplasms),3157
+BADD_D00719,Doxazosin mesylate,BADD_A00710,Bronchial disorders (excl neoplasms),62978
+BADD_D00725,Doxycycline,BADD_A00710,Bronchial disorders (excl neoplasms),54671203
+BADD_D00730,Dronedarone,BADD_A00710,Bronchial disorders (excl neoplasms),208898
+BADD_D00731,Droperidol,BADD_A00710,Bronchial disorders (excl neoplasms),3168
+BADD_D00748,Edrophonium chloride,BADD_A00710,Bronchial disorders (excl neoplasms),8307
+BADD_D00754,Elazop,BADD_A00710,Bronchial disorders (excl neoplasms),71306410
+BADD_D00813,Esmolol,BADD_A00710,Bronchial disorders (excl neoplasms),59768
+BADD_D00814,Esmolol hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),104769
+BADD_D00853,Etophos,BADD_A00710,Bronchial disorders (excl neoplasms),60668
+BADD_D00855,Etoposide phosphate,BADD_A00710,Bronchial disorders (excl neoplasms),6918092
+BADD_D00856,Etoricoxib,BADD_A00710,Bronchial disorders (excl neoplasms),123619
+BADD_D00857,Etravirine,BADD_A00710,Bronchial disorders (excl neoplasms),193962
+BADD_D00861,Exemestane,BADD_A00710,Bronchial disorders (excl neoplasms),60198
+BADD_D00886,Ferrosoferric oxide,BADD_A00710,Bronchial disorders (excl neoplasms),14789
+BADD_D00890,Ferumoxytol non-stoichiometric magnetite,BADD_A00710,Bronchial disorders (excl neoplasms),6432052
+BADD_D00892,Fesoterodine fumarate,BADD_A00710,Bronchial disorders (excl neoplasms),9849808
+BADD_D00899,Fingolimod hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),107969
+BADD_D00902,Flecainide,BADD_A00710,Bronchial disorders (excl neoplasms),3356
+BADD_D00903,Flecainide acetate,BADD_A00710,Bronchial disorders (excl neoplasms),41022
+BADD_D00911,Flucloxacillin,BADD_A00710,Bronchial disorders (excl neoplasms),21319
+BADD_D00920,Flunisolide,BADD_A00710,Bronchial disorders (excl neoplasms),82153
+BADD_D00921,Flunisolide hemihydrate,BADD_A00710,Bronchial disorders (excl neoplasms),82153
+BADD_D00924,Fluocinolone acetonide,BADD_A00710,Bronchial disorders (excl neoplasms),6215
+BADD_D00927,Fluorescein sodium,BADD_A00710,Bronchial disorders (excl neoplasms),10608
+BADD_D00952,Folic acid,BADD_A00710,Bronchial disorders (excl neoplasms),135398658
+BADD_D00962,Fosaprepitant,BADD_A00710,Bronchial disorders (excl neoplasms),135413538
+BADD_D00963,Fosaprepitant dimeglumine,BADD_A00710,Bronchial disorders (excl neoplasms),136086851
+BADD_D00964,Foscarnet sodium,BADD_A00710,Bronchial disorders (excl neoplasms),44561
+BADD_D00968,Fosinopril sodium,BADD_A00710,Bronchial disorders (excl neoplasms),23666105
+BADD_D00969,Fosinoprilat,BADD_A00710,Bronchial disorders (excl neoplasms),62956
+BADD_D00986,Gadodiamide hydrate,BADD_A00710,Bronchial disorders (excl neoplasms),153921
+BADD_D00990,Gadolinium-dtpa,BADD_A00710,Bronchial disorders (excl neoplasms),6857474
+BADD_D00991,Gadopentetate dimeglumine,BADD_A00710,Bronchial disorders (excl neoplasms),131751658
+BADD_D00992,Gadoterate meglumine,BADD_A00710,Bronchial disorders (excl neoplasms),6918037
+BADD_D01001,Galsulfase,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D01003,Ganciclovir,BADD_A00710,Bronchial disorders (excl neoplasms),135398740
+BADD_D01004,Ganciclovir sodium,BADD_A00710,Bronchial disorders (excl neoplasms),23700083
+BADD_D01038,Goserelin,BADD_A00710,Bronchial disorders (excl neoplasms),5311128
+BADD_D01039,Goserelin acetate,BADD_A00710,Bronchial disorders (excl neoplasms),16052011
+BADD_D01051,Halobetasol,BADD_A00710,Bronchial disorders (excl neoplasms),5311167
+BADD_D01054,Haloperidol,BADD_A00710,Bronchial disorders (excl neoplasms),3559
+BADD_D01055,Haloperidol decanoate,BADD_A00710,Bronchial disorders (excl neoplasms),52919
+BADD_D01056,Haloperidol lactate,BADD_A00710,Bronchial disorders (excl neoplasms),16051968
+BADD_D01063,Hepatitis b vaccine,BADD_A00710,Bronchial disorders (excl neoplasms),16131310
+BADD_D01066,Hetastarch,BADD_A00710,Bronchial disorders (excl neoplasms),24846132
+BADD_D01104,Hydroxychloroquine sulfate,BADD_A00710,Bronchial disorders (excl neoplasms),12947
+BADD_D01116,Ibandronate sodium,BADD_A00710,Bronchial disorders (excl neoplasms),23670359
+BADD_D01124,Icodextrin,BADD_A00710,Bronchial disorders (excl neoplasms),3517
+BADD_D01129,Idarucizumab,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D01161,Insulin degludec,BADD_A00710,Bronchial disorders (excl neoplasms),118984462
+BADD_D01164,Insulin glulisine,BADD_A00710,Bronchial disorders (excl neoplasms),16136701
+BADD_D01165,Insulin lispro,BADD_A00710,Bronchial disorders (excl neoplasms),16132438
+BADD_D01170,Interferon beta-1b,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D01171,Interferon gamma-1b,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D01185,Iotrolan,BADD_A00710,Bronchial disorders (excl neoplasms),3738
+BADD_D01189,Ioxilan,BADD_A00710,Bronchial disorders (excl neoplasms),3743
+BADD_D01193,Ipratropium bromide monohydrate,BADD_A00710,Bronchial disorders (excl neoplasms),441337
+BADD_D01195,Irinotecan,BADD_A00710,Bronchial disorders (excl neoplasms),60838
+BADD_D01197,Iron,BADD_A00710,Bronchial disorders (excl neoplasms),23925
+BADD_D01198,Iron dextran,BADD_A00710,Bronchial disorders (excl neoplasms),105075
+BADD_D01203,Isoflurane,BADD_A00710,Bronchial disorders (excl neoplasms),3763
+BADD_D01205,Isoprenaline,BADD_A00710,Bronchial disorders (excl neoplasms),3779
+BADD_D01208,Isoproterenol sulfate,BADD_A00710,Bronchial disorders (excl neoplasms),8239
+BADD_D01217,Itraconazole,BADD_A00710,Bronchial disorders (excl neoplasms),55283
+BADD_D01225,Kadain,BADD_A00710,Bronchial disorders (excl neoplasms),4253
+BADD_D01228,Ketamine,BADD_A00710,Bronchial disorders (excl neoplasms),3821
+BADD_D01236,Labetalol,BADD_A00710,Bronchial disorders (excl neoplasms),3869
+BADD_D01237,Labetalol hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),71412
+BADD_D01249,Laronidase,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D01250,Lasofoxifene,BADD_A00710,Bronchial disorders (excl neoplasms),216416
+BADD_D01267,Levobunolol,BADD_A00710,Bronchial disorders (excl neoplasms),39468
+BADD_D01268,Levobunolol hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),5284409
+BADD_D01269,Levobupivacaine,BADD_A00710,Bronchial disorders (excl neoplasms),92253
+BADD_D01286,Levothyroxine sodium,BADD_A00710,Bronchial disorders (excl neoplasms),23615408
+BADD_D01290,Lifitegrast,BADD_A00710,Bronchial disorders (excl neoplasms),11965427
+BADD_D01292,Linagliptin,BADD_A00710,Bronchial disorders (excl neoplasms),10096344
+BADD_D01304,Lithium cation,BADD_A00710,Bronchial disorders (excl neoplasms),28486
+BADD_D01309,Lomefloxacin,BADD_A00710,Bronchial disorders (excl neoplasms),3948
+BADD_D01310,Lomefloxacin hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),68624
+BADD_D01311,Lomitapide,BADD_A00710,Bronchial disorders (excl neoplasms),9853053
+BADD_D01326,Loxapine,BADD_A00710,Bronchial disorders (excl neoplasms),3964
+BADD_D01345,Magnevist,BADD_A00710,Bronchial disorders (excl neoplasms),55466
+BADD_D01349,Mannitol,BADD_A00710,Bronchial disorders (excl neoplasms),6251
+BADD_D01350,Maprotiline,BADD_A00710,Bronchial disorders (excl neoplasms),4011
+BADD_D01364,Medronic acid,BADD_A00710,Bronchial disorders (excl neoplasms),16124
+BADD_D01376,Melphalan,BADD_A00710,Bronchial disorders (excl neoplasms),460612
+BADD_D01377,Melphalan hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),9927978
+BADD_D01381,Mepact,BADD_A00710,Bronchial disorders (excl neoplasms),23663962
+BADD_D01384,Meperidine,BADD_A00710,Bronchial disorders (excl neoplasms),4058
+BADD_D01390,Meprobamate,BADD_A00710,Bronchial disorders (excl neoplasms),4064
+BADD_D01395,Mersyndol,BADD_A00710,Bronchial disorders (excl neoplasms),5487068
+BADD_D01396,Mertiatide,BADD_A00710,Bronchial disorders (excl neoplasms),60778
+BADD_D01403,Methacholine,BADD_A00710,Bronchial disorders (excl neoplasms),1993
+BADD_D01409,Methane,BADD_A00710,Bronchial disorders (excl neoplasms),297
+BADD_D01416,Methohexital,BADD_A00710,Bronchial disorders (excl neoplasms),9034
+BADD_D01417,Methohexital sodium,BADD_A00710,Bronchial disorders (excl neoplasms),23690443
+BADD_D01419,Methotrexate sodium,BADD_A00710,Bronchial disorders (excl neoplasms),11329481
+BADD_D01420,Methoxsalen,BADD_A00710,Bronchial disorders (excl neoplasms),4114
+BADD_D01428,Methylergonovine,BADD_A00710,Bronchial disorders (excl neoplasms),8226
+BADD_D01435,Methylprednisolone hemisuccinate,BADD_A00710,Bronchial disorders (excl neoplasms),16923
+BADD_D01443,Metoclopramide hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),23659
+BADD_D01446,Metoprolol succinate,BADD_A00710,Bronchial disorders (excl neoplasms),62937
+BADD_D01447,Metoprolol tartrate,BADD_A00710,Bronchial disorders (excl neoplasms),441308
+BADD_D01457,Miconazole,BADD_A00710,Bronchial disorders (excl neoplasms),4189
+BADD_D01459,Midazolam,BADD_A00710,Bronchial disorders (excl neoplasms),4192
+BADD_D01460,Midazolam hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),43032
+BADD_D01467,Milrinone,BADD_A00710,Bronchial disorders (excl neoplasms),4197
+BADD_D01468,Milrinone lactate,BADD_A00710,Bronchial disorders (excl neoplasms),172293
+BADD_D01482,Mivacurium chloride,BADD_A00710,Bronchial disorders (excl neoplasms),5281080
+BADD_D01485,Moexipril hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),54889
+BADD_D01486,Moexiprilat,BADD_A00710,Bronchial disorders (excl neoplasms),55331
+BADD_D01499,Morphine sulfate,BADD_A00710,Bronchial disorders (excl neoplasms),16051935
+BADD_D01510,Nabilone,BADD_A00710,Bronchial disorders (excl neoplasms),5284592
+BADD_D01512,Nadolol,BADD_A00710,Bronchial disorders (excl neoplasms),39147
+BADD_D01515,Nafcillin,BADD_A00710,Bronchial disorders (excl neoplasms),8982
+BADD_D01516,Nafcillin sodium,BADD_A00710,Bronchial disorders (excl neoplasms),23667630
+BADD_D01521,Nalidixic acid,BADD_A00710,Bronchial disorders (excl neoplasms),4421
+BADD_D01549,Nelarabine,BADD_A00710,Bronchial disorders (excl neoplasms),3011155
+BADD_D01550,Nelfinavir mesylate,BADD_A00710,Bronchial disorders (excl neoplasms),64142
+BADD_D01553,Neostigmine,BADD_A00710,Bronchial disorders (excl neoplasms),4456
+BADD_D01554,Neostigmine methylsulfate,BADD_A00710,Bronchial disorders (excl neoplasms),5824
+BADD_D01569,Nimodipine,BADD_A00710,Bronchial disorders (excl neoplasms),4497
+BADD_D01581,Nivolumab,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D01582,Nizatidine,BADD_A00710,Bronchial disorders (excl neoplasms),3033637
+BADD_D01591,Nystatin,BADD_A00710,Bronchial disorders (excl neoplasms),11286230
+BADD_D01596,Ofatumumab,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D01601,Olaparib,BADD_A00710,Bronchial disorders (excl neoplasms),23725625
+BADD_D01604,Olodaterol,BADD_A00710,Bronchial disorders (excl neoplasms),11504295
+BADD_D01607,Olsalazine,BADD_A00710,Bronchial disorders (excl neoplasms),22419
+BADD_D01608,Olsalazine sodium,BADD_A00710,Bronchial disorders (excl neoplasms),135413505
+BADD_D01610,Omalizumab,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D01614,Omeprazole,BADD_A00710,Bronchial disorders (excl neoplasms),4594
+BADD_D01615,Omeprazole magnesium,BADD_A00710,Bronchial disorders (excl neoplasms),5311083
+BADD_D01618,Ondansetron hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),68647
+BADD_D01623,Oritavancin,BADD_A00710,Bronchial disorders (excl neoplasms),16136912
+BADD_D01631,Oxacillin,BADD_A00710,Bronchial disorders (excl neoplasms),6196
+BADD_D01632,Oxacillin sodium,BADD_A00710,Bronchial disorders (excl neoplasms),23667631
+BADD_D01634,Oxandrolone,BADD_A00710,Bronchial disorders (excl neoplasms),5878
+BADD_D01641,Oxprenolol,BADD_A00710,Bronchial disorders (excl neoplasms),4631
+BADD_D01642,Oxtriphylline,BADD_A00710,Bronchial disorders (excl neoplasms),656652
+BADD_D01648,Oxymorphone,BADD_A00710,Bronchial disorders (excl neoplasms),5284604
+BADD_D01656,Paliperidone,BADD_A00710,Bronchial disorders (excl neoplasms),115237
+BADD_D01658,Palivizumab,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D01665,Pancuronium bromide,BADD_A00710,Bronchial disorders (excl neoplasms),27350
+BADD_D01667,Panobinostat lactate,BADD_A00710,Bronchial disorders (excl neoplasms),23725423
+BADD_D01674,Parecoxib,BADD_A00710,Bronchial disorders (excl neoplasms),119828
+BADD_D01692,Pegaspargase,BADD_A00710,Bronchial disorders (excl neoplasms),436058
+BADD_D01701,Pemetrexed,BADD_A00710,Bronchial disorders (excl neoplasms),135410875
+BADD_D01710,Penicillin g,BADD_A00710,Bronchial disorders (excl neoplasms),5904
+BADD_D01712,Penicillin g potassium,BADD_A00710,Bronchial disorders (excl neoplasms),23664709
+BADD_D01714,Penicillin g sodium,BADD_A00710,Bronchial disorders (excl neoplasms),23668834
+BADD_D01721,Pentetate calcium trisodium,BADD_A00710,Bronchial disorders (excl neoplasms),25513
+BADD_D01724,Pentetic acid,BADD_A00710,Bronchial disorders (excl neoplasms),3053
+BADD_D01731,Pentoxifylline,BADD_A00710,Bronchial disorders (excl neoplasms),4740
+BADD_D01734,Perflutren,BADD_A00710,Bronchial disorders (excl neoplasms),6432
+BADD_D01739,Perindopril,BADD_A00710,Bronchial disorders (excl neoplasms),107807
+BADD_D01767,Phosphonatoformate,BADD_A00710,Bronchial disorders (excl neoplasms),3414
+BADD_D01771,Pilocarpine hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),5909
+BADD_D01776,Pindolol,BADD_A00710,Bronchial disorders (excl neoplasms),4828
+BADD_D01781,Pirbuterol,BADD_A00710,Bronchial disorders (excl neoplasms),4845
+BADD_D01782,Pirbuterol acetate,BADD_A00710,Bronchial disorders (excl neoplasms),171674
+BADD_D01811,Potassium iodide,BADD_A00710,Bronchial disorders (excl neoplasms),4875
+BADD_D01836,Prilocaine,BADD_A00710,Bronchial disorders (excl neoplasms),4906
+BADD_D01856,Propafenone,BADD_A00710,Bronchial disorders (excl neoplasms),4932
+BADD_D01868,Propranolol hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),62882
+BADD_D01893,Quinidine gluconate,BADD_A00710,Bronchial disorders (excl neoplasms),94328
+BADD_D01894,Quinidine sulfate,BADD_A00710,Bronchial disorders (excl neoplasms),11069
+BADD_D01912,Ranibizumab,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D01913,Ranitidine,BADD_A00710,Bronchial disorders (excl neoplasms),3001055
+BADD_D01914,Ranitidine hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),3033332
+BADD_D01920,Refludan,BADD_A00710,Bronchial disorders (excl neoplasms),118856773
+BADD_D01923,Remifentanil hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),60814
+BADD_D01927,Reslizumab,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D01935,Rifabutin,BADD_A00710,Bronchial disorders (excl neoplasms),135398743
+BADD_D01944,Rimantadine,BADD_A00710,Bronchial disorders (excl neoplasms),5071
+BADD_D01945,Rimantadine hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),15165
+BADD_D01953,Rituximab,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D01956,Rivastigmine tartrate,BADD_A00710,Bronchial disorders (excl neoplasms),6918078
+BADD_D01957,Rizatriptan,BADD_A00710,Bronchial disorders (excl neoplasms),5078
+BADD_D01958,Rizatriptan benzoate,BADD_A00710,Bronchial disorders (excl neoplasms),77997
+BADD_D01968,Ropivacaine hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),175804
+BADD_D01969,Ropivacaine hydrochloride monohydrate,BADD_A00710,Bronchial disorders (excl neoplasms),6918111
+BADD_D01979,Sacrosidase,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D01983,Salsalate,BADD_A00710,Bronchial disorders (excl neoplasms),5161
+BADD_D02011,Sertraline hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),63009
+BADD_D02015,Sevoflurane,BADD_A00710,Bronchial disorders (excl neoplasms),5206
+BADD_D02034,Sodium bicarbonate,BADD_A00710,Bronchial disorders (excl neoplasms),516892
+BADD_D02037,Sodium cation,BADD_A00710,Bronchial disorders (excl neoplasms),923
+BADD_D02038,Sodium ferric gluconate complex,BADD_A00710,Bronchial disorders (excl neoplasms),23693558
+BADD_D02053,Sofosbuvir,BADD_A00710,Bronchial disorders (excl neoplasms),45375808
+BADD_D02055,Somatropin,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D02070,Streptokinase,BADD_A00710,Bronchial disorders (excl neoplasms),9815560
+BADD_D02076,Strontium ranelate,BADD_A00710,Bronchial disorders (excl neoplasms),6918182
+BADD_D02083,Sufentanil citrate,BADD_A00710,Bronchial disorders (excl neoplasms),65494
+BADD_D02085,Sugammadex sodium,BADD_A00710,Bronchial disorders (excl neoplasms),6918584
+BADD_D02095,Sulfur colloid,BADD_A00710,Bronchial disorders (excl neoplasms),76957057
+BADD_D02097,Sulindac,BADD_A00710,Bronchial disorders (excl neoplasms),1548887
+BADD_D02122,Technescan tc-99m mertiatide,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D02123,Technetium,BADD_A00710,Bronchial disorders (excl neoplasms),23957
+BADD_D02124,Technetium tc-99m,BADD_A00710,Bronchial disorders (excl neoplasms),26476
+BADD_D02141,Teichomycin,BADD_A00710,Bronchial disorders (excl neoplasms),16129701
+BADD_D02148,Temazepam,BADD_A00710,Bronchial disorders (excl neoplasms),5391
+BADD_D02149,Temoporfin,BADD_A00710,Bronchial disorders (excl neoplasms),60751
+BADD_D02153,Teniposide,BADD_A00710,Bronchial disorders (excl neoplasms),5396
+BADD_D02164,Terconazole,BADD_A00710,Bronchial disorders (excl neoplasms),441383
+BADD_D02171,Testosterone cypionate,BADD_A00710,Bronchial disorders (excl neoplasms),441404
+BADD_D02190,Tetrofosmin,BADD_A00710,Bronchial disorders (excl neoplasms),4274
+BADD_D02194,Thallous chloride tl-201,BADD_A00710,Bronchial disorders (excl neoplasms),72170
+BADD_D02220,Timolol maleate,BADD_A00710,Bronchial disorders (excl neoplasms),5281056
+BADD_D02221,Tinidazole,BADD_A00710,Bronchial disorders (excl neoplasms),5479
+BADD_D02224,Tiotropium bromide,BADD_A00710,Bronchial disorders (excl neoplasms),5487426
+BADD_D02252,Tositumomab,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D02259,Trandolapril,BADD_A00710,Bronchial disorders (excl neoplasms),5484727
+BADD_D02266,Trazodone,BADD_A00710,Bronchial disorders (excl neoplasms),5533
+BADD_D02290,Trimethoprim,BADD_A00710,Bronchial disorders (excl neoplasms),5578
+BADD_D02303,Tropicamide,BADD_A00710,Bronchial disorders (excl neoplasms),5593
+BADD_D02304,Tropisetron,BADD_A00710,Bronchial disorders (excl neoplasms),656665
+BADD_D02315,Umeclidinium bromide,BADD_A00710,Bronchial disorders (excl neoplasms),11519069
+BADD_D02320,Urokinase,BADD_A00710,Bronchial disorders (excl neoplasms),Not Available
+BADD_D02325,Valdecoxib,BADD_A00710,Bronchial disorders (excl neoplasms),119607
+BADD_D02333,Vancomycin hydrochloride,BADD_A00710,Bronchial disorders (excl neoplasms),6420023
+BADD_D02334,Vandetanib,BADD_A00710,Bronchial disorders (excl neoplasms),3081361
+BADD_D02339,Vasopressin,BADD_A00710,Bronchial disorders (excl neoplasms),644077
+BADD_D02340,Vasopressin tannate,BADD_A00710,Bronchial disorders (excl neoplasms),8230
+BADD_D02341,Vecuronium bromide,BADD_A00710,Bronchial disorders (excl neoplasms),39764
+BADD_D02353,Vesicare,BADD_A00710,Bronchial disorders (excl neoplasms),154058
+BADD_D02364,Vinorelbine tartrate,BADD_A00710,Bronchial disorders (excl neoplasms),16051941
+BADD_D02370,Vorinostat,BADD_A00710,Bronchial disorders (excl neoplasms),5311
+BADD_D02378,Zalcitabine,BADD_A00710,Bronchial disorders (excl neoplasms),24066
+BADD_D02383,Zidovudine,BADD_A00710,Bronchial disorders (excl neoplasms),35370
+BADD_D02393,Zolmitriptan,BADD_A00710,Bronchial disorders (excl neoplasms),60857
+BADD_D02395,Zolpidem tartrate,BADD_A00710,Bronchial disorders (excl neoplasms),18004026
+BADD_D02412,Octreotide,BADD_A00710,Bronchial disorders (excl neoplasms),448601
+BADD_D02430,Remifentanil,BADD_A00710,Bronchial disorders (excl neoplasms),60815
+BADD_D02451,Pimavanserin,BADD_A00710,Bronchial disorders (excl neoplasms),10071196
+BADD_D02497,Avatrombopag,BADD_A00710,Bronchial disorders (excl neoplasms),9852519
+BADD_D02515,Pexidartinib,BADD_A00710,Bronchial disorders (excl neoplasms),25151352
+BADD_D02569,Magnesium,BADD_A00710,Bronchial disorders (excl neoplasms),5462224
+BADD_D02591,Ripretinib,BADD_A00710,Bronchial disorders (excl neoplasms),71584930
+BADD_D02635,Rupatadine,BADD_A00710,Bronchial disorders (excl neoplasms),133017
+BADD_D00010,Abacavir sulfate,BADD_A00714,Bronchitis,9843042
+BADD_D00069,Alfuzosin,BADD_A00714,Bronchitis,2092
+BADD_D00070,Alfuzosin hydrochloride,BADD_A00714,Bronchitis,71764
+BADD_D00072,Alirocumab,BADD_A00714,Bronchitis,Not Available
+BADD_D00077,Almotriptan,BADD_A00714,Bronchitis,123606
+BADD_D00078,Almotriptan malate,BADD_A00714,Bronchitis,123607
+BADD_D00223,Belatacept,BADD_A00714,Bronchitis,Not Available
+BADD_D00224,Belimumab,BADD_A00714,Bronchitis,Not Available
+BADD_D00269,Bexarotene,BADD_A00714,Bronchitis,82146
+BADD_D00270,Bezafibrate,BADD_A00714,Bronchitis,39042
+BADD_D00295,Brimonidine tartrate,BADD_A00714,Bronchitis,11236066
+BADD_D00324,Butorphanol,BADD_A00714,Bronchitis,5361092
+BADD_D00325,Butorphanol tartrate,BADD_A00714,Bronchitis,5462346
+BADD_D00329,Cabergoline,BADD_A00714,Bronchitis,54746
+BADD_D00345,Canakinumab,BADD_A00714,Bronchitis,Not Available
+BADD_D00346,Candesartan,BADD_A00714,Bronchitis,2541
+BADD_D00353,Capsaicin,BADD_A00714,Bronchitis,1548943
+BADD_D00415,Cerivastatin,BADD_A00714,Bronchitis,446156
+BADD_D00416,Certolizumab pegol,BADD_A00714,Bronchitis,Not Available
+BADD_D00434,Chlorhexidine,BADD_A00714,Bronchitis,9552079
+BADD_D00455,Choline fenofibrate,BADD_A00714,Bronchitis,11350701
+BADD_D00536,Crofelemer,BADD_A00714,Bronchitis,36511
+BADD_D00570,Daclizumab,BADD_A00714,Bronchitis,Not Available
+BADD_D00603,Delavirdine,BADD_A00714,Bronchitis,5625
+BADD_D00604,Delavirdine mesylate,BADD_A00714,Bronchitis,441386
+BADD_D00696,Divalproex sodium,BADD_A00714,Bronchitis,23663956
+BADD_D00727,Doxycycline hyclate,BADD_A00714,Bronchitis,54705095
+BADD_D00775,Enzalutamide,BADD_A00714,Bronchitis,15951529
+BADD_D00786,Eplerenone,BADD_A00714,Bronchitis,443872
+BADD_D00810,Escitalopram oxalate,BADD_A00714,Bronchitis,146571
+BADD_D00870,Febuxostat,BADD_A00714,Bronchitis,134018
+BADD_D00872,Felodipine,BADD_A00714,Bronchitis,3333
+BADD_D00874,Fenofibric acid,BADD_A00714,Bronchitis,64929
+BADD_D00948,Fluvastatin,BADD_A00714,Bronchitis,446155
+BADD_D00949,Fluvastatin sodium,BADD_A00714,Bronchitis,23663976
+BADD_D00996,Galantamine,BADD_A00714,Bronchitis,9651
+BADD_D01035,Golimumab,BADD_A00714,Bronchitis,Not Available
+BADD_D01118,Ibritumomab tiuxetan,BADD_A00714,Bronchitis,92002593
+BADD_D01142,Imiquimod,BADD_A00714,Bronchitis,57469
+BADD_D01157,Infliximab,BADD_A00714,Bronchitis,Not Available
+BADD_D01160,Insulin aspart,BADD_A00714,Bronchitis,118984445
+BADD_D01169,Interferon beta-1a,BADD_A00714,Bronchitis,Not Available
+BADD_D01244,Lanreotide acetate,BADD_A00714,Bronchitis,71349
+BADD_D01247,Lanthanum carbonate,BADD_A00714,Bronchitis,168924
+BADD_D01266,Levobetaxolol hydrochloride,BADD_A00714,Bronchitis,60656
+BADD_D01271,Levocarnitine,BADD_A00714,Bronchitis,10917
+BADD_D01323,Losartan potassium,BADD_A00714,Bronchitis,9847164
+BADD_D01389,Mepolizumab,BADD_A00714,Bronchitis,Not Available
+BADD_D01441,Metipranolol,BADD_A00714,Bronchitis,31477
+BADD_D01497,Montelukast sodium,BADD_A00714,Bronchitis,23663996
+BADD_D01503,Moxonidine,BADD_A00714,Bronchitis,4810
+BADD_D01539,Nateglinide,BADD_A00714,Bronchitis,5311309
+BADD_D01544,Nedocromil,BADD_A00714,Bronchitis,50294
+BADD_D01562,Nicorandil,BADD_A00714,Bronchitis,47528
+BADD_D01563,Nicotinate,BADD_A00714,Bronchitis,937
+BADD_D01572,Nitisinone,BADD_A00714,Bronchitis,115355
+BADD_D01590,Nuvaring,BADD_A00714,Bronchitis,9960701
+BADD_D01602,Olmesartan,BADD_A00714,Bronchitis,158781
+BADD_D01603,Olmesartan medoxomil,BADD_A00714,Bronchitis,130881
+BADD_D01616,Onabotulinumtoxina,BADD_A00714,Bronchitis,Not Available
+BADD_D01646,Oxycodone hydrochloride,BADD_A00714,Bronchitis,5462350
+BADD_D01690,Pegaptanib,BADD_A00714,Bronchitis,56603655
+BADD_D01691,Pegaptanib sodium,BADD_A00714,Bronchitis,56603655
+BADD_D01703,Pemirolast,BADD_A00714,Bronchitis,57697
+BADD_D01704,Pemirolast potassium,BADD_A00714,Bronchitis,443866
+BADD_D01777,Pioglitazone,BADD_A00714,Bronchitis,4829
+BADD_D01786,Pixantrone,BADD_A00714,Bronchitis,134019
+BADD_D01903,Raloxifene,BADD_A00714,Bronchitis,5035
+BADD_D01904,Raloxifene hydrochloride,BADD_A00714,Bronchitis,54900
+BADD_D01906,Raltegravir potassium,BADD_A00714,Bronchitis,23668479
+BADD_D01919,Reboxetine,BADD_A00714,Bronchitis,127151
+BADD_D01924,Repaglinide,BADD_A00714,Bronchitis,65981
+BADD_D01925,Rescinnamine,BADD_A00714,Bronchitis,5280954
+BADD_D01949,Risedronate sodium,BADD_A00714,Bronchitis,4194514
+BADD_D01977,Rufinamide,BADD_A00714,Bronchitis,129228
+BADD_D01984,Samarium,BADD_A00714,Bronchitis,23951
+BADD_D01985,Samarium sm-153 lexidronam,BADD_A00714,Bronchitis,177960
+BADD_D01986,Samarium sm-153 lexidronam pentasodium,BADD_A00714,Bronchitis,9810246
+BADD_D02014,Sevelamer hydrochloride,BADD_A00714,Bronchitis,159247
+BADD_D02017,Sibutramine hydrochloride,BADD_A00714,Bronchitis,64764
+BADD_D02033,Sodium aurothiomalate,BADD_A00714,Bronchitis,22318
+BADD_D02049,Sodium polystyrene sulfonate,BADD_A00714,Bronchitis,75905
+BADD_D02068,Stavudine,BADD_A00714,Bronchitis,18283
+BADD_D02077,Styrenesulfonic acid,BADD_A00714,Bronchitis,168625
+BADD_D02112,Tamoxifen citrate,BADD_A00714,Bronchitis,2733525
+BADD_D02151,Temsirolimus,BADD_A00714,Bronchitis,6918289
+BADD_D02159,Terazosin hydrochloride,BADD_A00714,Bronchitis,44383
+BADD_D02218,Tiludronate disodium,BADD_A00714,Bronchitis,60936
+BADD_D02234,Tocilizumab,BADD_A00714,Bronchitis,Not Available
+BADD_D02244,Tolterodine,BADD_A00714,Bronchitis,443879
+BADD_D02260,Trandolaprilat,BADD_A00714,Bronchitis,5464097
+BADD_D02297,Triptorelin,BADD_A00714,Bronchitis,25074470
+BADD_D02298,Triptorelin pamoate,BADD_A00714,Bronchitis,25074469
+BADD_D02316,Unoprostone,BADD_A00714,Bronchitis,5311236
+BADD_D02317,Unoprostone isopropyl,BADD_A00714,Bronchitis,5282175
+BADD_D02324,Valacyclovir hydrochloride,BADD_A00714,Bronchitis,135398741
+BADD_D02326,Valganciclovir,BADD_A00714,Bronchitis,135413535
+BADD_D02328,Valproate sodium,BADD_A00714,Bronchitis,16760703
+BADD_D01801,Poractant alfa,BADD_A00718,Bronchopulmonary dysplasia,Not Available
+BADD_D01793,Polyethylene glycol 3350,BADD_A00719,Respiratory tract and thoracic imaging procedures,174
+BADD_D00166,Aripiprazole lauroxil,BADD_A00793,Cardio-respiratory arrest,49831411
+BADD_D00255,Beractant,BADD_A00793,Cardio-respiratory arrest,Not Available
+BADD_D00370,Carisoprodol,BADD_A00793,Cardio-respiratory arrest,2576
+BADD_D00440,Chloroquine,BADD_A00793,Cardio-respiratory arrest,2719
+BADD_D00487,Clindamycin phosphate,BADD_A00793,Cardio-respiratory arrest,32603
+BADD_D00612,Desipramine,BADD_A00793,Cardio-respiratory arrest,2995
+BADD_D00774,Entecavir,BADD_A00793,Cardio-respiratory arrest,135398508
+BADD_D00841,Ethambutol,BADD_A00793,Cardio-respiratory arrest,14052
+BADD_D00889,Ferumoxytol,BADD_A00793,Cardio-respiratory arrest,14789
+BADD_D00982,Gabapentin enacarbil,BADD_A00793,Cardio-respiratory arrest,9883933
+BADD_D00985,Gadodiamide,BADD_A00793,Cardio-respiratory arrest,60754
+BADD_D01023,Glimepiride,BADD_A00793,Cardio-respiratory arrest,3476
+BADD_D01024,Glipizide,BADD_A00793,Cardio-respiratory arrest,3478
+BADD_D01084,Hydrocodone,BADD_A00793,Cardio-respiratory arrest,5284569
+BADD_D01099,Hydroxocobalamin,BADD_A00793,Cardio-respiratory arrest,70678542
+BADD_D01238,Lacosamide,BADD_A00793,Cardio-respiratory arrest,219078
+BADD_D01293,Lincomycin hydrochloride,BADD_A00793,Cardio-respiratory arrest,64710
+BADD_D01369,Mefloquine,BADD_A00793,Cardio-respiratory arrest,4046
+BADD_D01387,Mepivacaine,BADD_A00793,Cardio-respiratory arrest,4062
+BADD_D01407,Methamphetamine,BADD_A00793,Cardio-respiratory arrest,10836
+BADD_D01415,Methocarbamol,BADD_A00793,Cardio-respiratory arrest,4107
+BADD_D01455,Micafungin,BADD_A00793,Cardio-respiratory arrest,477468
+BADD_D01580,Nitrous oxide,BADD_A00793,Cardio-respiratory arrest,948
+BADD_D01756,Phentermine,BADD_A00793,Cardio-respiratory arrest,4771
+BADD_D01814,Pralatrexate,BADD_A00793,Cardio-respiratory arrest,148121
+BADD_D01865,Propoxyphene,BADD_A00793,Cardio-respiratory arrest,10100
+BADD_D01866,Propoxyphene napsylate,BADD_A00793,Cardio-respiratory arrest,28332
+BADD_D01886,Pyrimethamine,BADD_A00793,Cardio-respiratory arrest,4993
+BADD_D01940,Rilpivirine,BADD_A00793,Cardio-respiratory arrest,6451164
+BADD_D01973,Rotigotine,BADD_A00793,Cardio-respiratory arrest,59227
+BADD_D02107,Tafamidis,BADD_A00793,Cardio-respiratory arrest,11001318
+BADD_D02415,Ziprasidone,BADD_A00793,Cardio-respiratory arrest,60854
+BADD_D02423,Fondaparinux,BADD_A00793,Cardio-respiratory arrest,5282448
+BADD_D02428,Loperamide,BADD_A00793,Cardio-respiratory arrest,3955
+BADD_D02440,Lisdexamfetamine,BADD_A00793,Cardio-respiratory arrest,11597698
+BADD_D02441,Rasagiline,BADD_A00793,Cardio-respiratory arrest,3052776
+BADD_D02502,Letermovir,BADD_A00793,Cardio-respiratory arrest,45138674
+BADD_D02505,Gilteritinib,BADD_A00793,Cardio-respiratory arrest,49803313
+BADD_D00135,Ampicillin trihydrate,BADD_A01041,Congenital respiratory tract disorders,23565
+BADD_D00371,Carmustine,BADD_A01041,Congenital respiratory tract disorders,2578
+BADD_D00005,4-oxo-3-(3-oxo-1-phenylbutyl)chromen-2-olate,BADD_A01298,Thoracic disorders (excl lung and pleura),23690541
+BADD_D00044,Adefovir dipivoxil,BADD_A01298,Thoracic disorders (excl lung and pleura),60871
+BADD_D00122,Amlodipine besylate,BADD_A01298,Thoracic disorders (excl lung and pleura),60496
+BADD_D00137,Amsacrine,BADD_A01298,Thoracic disorders (excl lung and pleura),2179
+BADD_D00167,Armodafinil,BADD_A01298,Thoracic disorders (excl lung and pleura),9690109
+BADD_D00181,Atomoxetine hydrochloride,BADD_A01298,Thoracic disorders (excl lung and pleura),54840
+BADD_D00193,Axitinib,BADD_A01298,Thoracic disorders (excl lung and pleura),6450551
+BADD_D00200,Azilsartan,BADD_A01298,Thoracic disorders (excl lung and pleura),135415867
+BADD_D00210,Balsalazide,BADD_A01298,Thoracic disorders (excl lung and pleura),54585
+BADD_D00215,Bazedoxifene acetate,BADD_A01298,Thoracic disorders (excl lung and pleura),154256
+BADD_D00279,Bivalirudin,BADD_A01298,Thoracic disorders (excl lung and pleura),16129704
+BADD_D00290,Botulinum toxin type a,BADD_A01298,Thoracic disorders (excl lung and pleura),Not Available
+BADD_D00305,Bromocriptine mesylate,BADD_A01298,Thoracic disorders (excl lung and pleura),31100
+BADD_D00328,Cabazitaxel,BADD_A01298,Thoracic disorders (excl lung and pleura),9854073
+BADD_D00331,Cabozantinib s-malate,BADD_A01298,Thoracic disorders (excl lung and pleura),25102846
+BADD_D00343,Californium-249 oxide,BADD_A01298,Thoracic disorders (excl lung and pleura),6453361
+BADD_D00419,Cetrorelix,BADD_A01298,Thoracic disorders (excl lung and pleura),25074887
+BADD_D00420,Cetrorelix acetate,BADD_A01298,Thoracic disorders (excl lung and pleura),25078429
+BADD_D00421,Cetrorelix trifluoroacetate,BADD_A01298,Thoracic disorders (excl lung and pleura),25074886
+BADD_D00497,Clomiphene,BADD_A01298,Thoracic disorders (excl lung and pleura),1548953
+BADD_D00498,Clomiphene citrate,BADD_A01298,Thoracic disorders (excl lung and pleura),60974
+BADD_D00526,Conivaptan,BADD_A01298,Thoracic disorders (excl lung and pleura),151171
+BADD_D00531,Corticotropin,BADD_A01298,Thoracic disorders (excl lung and pleura),16132265
+BADD_D00566,Dabrafenib,BADD_A01298,Thoracic disorders (excl lung and pleura),44462760
+BADD_D00574,Dalfampridine,BADD_A01298,Thoracic disorders (excl lung and pleura),1727
+BADD_D00599,Degarelix,BADD_A01298,Thoracic disorders (excl lung and pleura),16136245
+BADD_D00602,Delamanid,BADD_A01298,Thoracic disorders (excl lung and pleura),6480466
+BADD_D00614,Desirudin,BADD_A01298,Thoracic disorders (excl lung and pleura),16129703
+BADD_D00631,Dexmethylphenidate hydrochloride,BADD_A01298,Thoracic disorders (excl lung and pleura),154100
+BADD_D00633,Dexrazoxane,BADD_A01298,Thoracic disorders (excl lung and pleura),71384
+BADD_D00659,Dicyclomine,BADD_A01298,Thoracic disorders (excl lung and pleura),3042
+BADD_D00670,Dihydrocodeine,BADD_A01298,Thoracic disorders (excl lung and pleura),5284543
+BADD_D00685,Dinutuximab,BADD_A01298,Thoracic disorders (excl lung and pleura),Not Available
+BADD_D00735,Duloxetine hydrochloride,BADD_A01298,Thoracic disorders (excl lung and pleura),60834
+BADD_D00757,Eliglustat,BADD_A01298,Thoracic disorders (excl lung and pleura),23652731
+BADD_D00759,Eltrombopag,BADD_A01298,Thoracic disorders (excl lung and pleura),135449332
+BADD_D00766,Emtricitabine,BADD_A01298,Thoracic disorders (excl lung and pleura),60877
+BADD_D00776,Eovist,BADD_A01298,Thoracic disorders (excl lung and pleura),91754427
+BADD_D00784,Epirubicin,BADD_A01298,Thoracic disorders (excl lung and pleura),41867
+BADD_D00792,Eptifibatide,BADD_A01298,Thoracic disorders (excl lung and pleura),448812
+BADD_D00798,Eribulin,BADD_A01298,Thoracic disorders (excl lung and pleura),11354606
+BADD_D00811,Eslicarbazepine,BADD_A01298,Thoracic disorders (excl lung and pleura),9881504
+BADD_D00812,Eslicarbazepine acetate,BADD_A01298,Thoracic disorders (excl lung and pleura),179344
+BADD_D00846,Ethosuximide,BADD_A01298,Thoracic disorders (excl lung and pleura),3291
+BADD_D00863,Extendin-4,BADD_A01298,Thoracic disorders (excl lung and pleura),16157882
+BADD_D00957,Fondaparinux sodium,BADD_A01298,Thoracic disorders (excl lung and pleura),636380
+BADD_D00972,Fospropofol disodium,BADD_A01298,Thoracic disorders (excl lung and pleura),3038497
+BADD_D00987,Gadofosveset,BADD_A01298,Thoracic disorders (excl lung and pleura),46174086
+BADD_D01012,Gemfibrozil,BADD_A01298,Thoracic disorders (excl lung and pleura),3463
+BADD_D01013,Gemifloxacin,BADD_A01298,Thoracic disorders (excl lung and pleura),5464436
+BADD_D01034,Glycopyrrolate,BADD_A01298,Thoracic disorders (excl lung and pleura),11693
+BADD_D01073,Histrelin,BADD_A01298,Thoracic disorders (excl lung and pleura),25077993
+BADD_D01102,Hydroxybutanoic acid,BADD_A01298,Thoracic disorders (excl lung and pleura),10413
+BADD_D01139,Imipramine,BADD_A01298,Thoracic disorders (excl lung and pleura),3696
+BADD_D01196,Irinotecan hydrochloride,BADD_A01298,Thoracic disorders (excl lung and pleura),74990
+BADD_D01216,Isradipine,BADD_A01298,Thoracic disorders (excl lung and pleura),3784
+BADD_D01218,Ivabradine,BADD_A01298,Thoracic disorders (excl lung and pleura),132999
+BADD_D01223,Ixazomib,BADD_A01298,Thoracic disorders (excl lung and pleura),25183872
+BADD_D01230,Ketoconazole,BADD_A01298,Thoracic disorders (excl lung and pleura),3823
+BADD_D01248,Lapatinib,BADD_A01298,Thoracic disorders (excl lung and pleura),208908
+BADD_D01280,Levomilnacipran hydrochloride,BADD_A01298,Thoracic disorders (excl lung and pleura),6917778
+BADD_D01299,Lisdexamfetamine dimesylate,BADD_A01298,Thoracic disorders (excl lung and pleura),11597697
+BADD_D01301,Lisuride,BADD_A01298,Thoracic disorders (excl lung and pleura),28864
+BADD_D01319,Lorcaserin hydrochloride,BADD_A01298,Thoracic disorders (excl lung and pleura),11673085
+BADD_D01328,Lubiprostone,BADD_A01298,Thoracic disorders (excl lung and pleura),157920
+BADD_D01359,Mechlorethamine,BADD_A01298,Thoracic disorders (excl lung and pleura),4033
+BADD_D01425,Methyldopa,BADD_A01298,Thoracic disorders (excl lung and pleura),38853
+BADD_D01427,Methylene blue cation,BADD_A01298,Thoracic disorders (excl lung and pleura),4139
+BADD_D01434,Methylprednisolone acetate,BADD_A01298,Thoracic disorders (excl lung and pleura),5877
+BADD_D01454,Mianserin,BADD_A01298,Thoracic disorders (excl lung and pleura),4184
+BADD_D01463,Mifepristone,BADD_A01298,Thoracic disorders (excl lung and pleura),55245
+BADD_D01530,Nandrolone decanoate,BADD_A01298,Thoracic disorders (excl lung and pleura),9677
+BADD_D01605,Olopatadine,BADD_A01298,Thoracic disorders (excl lung and pleura),5281071
+BADD_D01609,Omacetaxine mepesuccinate,BADD_A01298,Thoracic disorders (excl lung and pleura),285033
+BADD_D01654,Palbociclib,BADD_A01298,Thoracic disorders (excl lung and pleura),5330286
+BADD_D01659,Palonosetron,BADD_A01298,Thoracic disorders (excl lung and pleura),6337614
+BADD_D01733,Perampanel,BADD_A01298,Thoracic disorders (excl lung and pleura),9924495
+BADD_D01758,Phentolamine,BADD_A01298,Thoracic disorders (excl lung and pleura),5775
+BADD_D01762,Phenylephrine,BADD_A01298,Thoracic disorders (excl lung and pleura),6041
+BADD_D01853,Proguanil,BADD_A01298,Thoracic disorders (excl lung and pleura),6178111
+BADD_D01874,Prucalopride,BADD_A01298,Thoracic disorders (excl lung and pleura),3052762
+BADD_D01891,Quinapril hydrochloride,BADD_A01298,Thoracic disorders (excl lung and pleura),54891
+BADD_D01922,Regorafenib,BADD_A01298,Thoracic disorders (excl lung and pleura),11167602
+BADD_D01938,Rifaximin,BADD_A01298,Thoracic disorders (excl lung and pleura),6436173
+BADD_D01947,Rimonabant hydrochloride,BADD_A01298,Thoracic disorders (excl lung and pleura),104849
+BADD_D01974,Rotigotine hydrochloride,BADD_A01298,Thoracic disorders (excl lung and pleura),180335
+BADD_D01987,Sapropterin,BADD_A01298,Thoracic disorders (excl lung and pleura),135398654
+BADD_D02007,Semaxanib,BADD_A01298,Thoracic disorders (excl lung and pleura),5329098
+BADD_D02020,Silodosin,BADD_A01298,Thoracic disorders (excl lung and pleura),5312125
+BADD_D02025,Simeprevir,BADD_A01298,Thoracic disorders (excl lung and pleura),24873435
+BADD_D02078,Succimer,BADD_A01298,Thoracic disorders (excl lung and pleura),2724354
+BADD_D02093,Sulfasalazine,BADD_A01298,Thoracic disorders (excl lung and pleura),5339
+BADD_D02096,Sulfur hexafluoride,BADD_A01298,Thoracic disorders (excl lung and pleura),17358
+BADD_D02103,Suvorexant,BADD_A01298,Thoracic disorders (excl lung and pleura),24965990
+BADD_D02111,Tamoxifen,BADD_A01298,Thoracic disorders (excl lung and pleura),2733526
+BADD_D02116,Tapentadol hydrochloride,BADD_A01298,Thoracic disorders (excl lung and pleura),9838021
+BADD_D02138,Teduglutide recombinant,BADD_A01298,Thoracic disorders (excl lung and pleura),70683012
+BADD_D02143,Telavancin,BADD_A01298,Thoracic disorders (excl lung and pleura),3081362
+BADD_D02154,Tenofovir,BADD_A01298,Thoracic disorders (excl lung and pleura),464205
+BADD_D02155,Tenofovir disoproxil,BADD_A01298,Thoracic disorders (excl lung and pleura),5481350
+BADD_D02166,Teriparatide,BADD_A01298,Thoracic disorders (excl lung and pleura),16133850
+BADD_D02172,Testosterone enanthate,BADD_A01298,Thoracic disorders (excl lung and pleura),9416
+BADD_D02173,Testosterone propionate,BADD_A01298,Thoracic disorders (excl lung and pleura),5995
+BADD_D02183,Tetraethylenepentamine,BADD_A01298,Thoracic disorders (excl lung and pleura),8197
+BADD_D02250,Toremifene citrate,BADD_A01298,Thoracic disorders (excl lung and pleura),3005572
+BADD_D02256,Tramazoline,BADD_A01298,Thoracic disorders (excl lung and pleura),5524
+BADD_D02257,Trametinib,BADD_A01298,Thoracic disorders (excl lung and pleura),11707110
+BADD_D02305,Trospium,BADD_A01298,Thoracic disorders (excl lung and pleura),5284632
+BADD_D02322,Ustekinumab,BADD_A01298,Thoracic disorders (excl lung and pleura),Not Available
+BADD_D02323,Valacyclovir,BADD_A01298,Thoracic disorders (excl lung and pleura),135398742
+BADD_D02335,Vardenafil,BADD_A01298,Thoracic disorders (excl lung and pleura),135400189
+BADD_D02344,Vemurafenib,BADD_A01298,Thoracic disorders (excl lung and pleura),42611257
+BADD_D02351,Vernakalant hydrochloride,BADD_A01298,Thoracic disorders (excl lung and pleura),9930048
+BADD_D02381,Ziconotide,BADD_A01298,Thoracic disorders (excl lung and pleura),16135415
+BADD_D02389,Ziprasidone hydrochloride,BADD_A01298,Thoracic disorders (excl lung and pleura),219099
+BADD_D02416,Ropivacaine,BADD_A01298,Thoracic disorders (excl lung and pleura),175805
+BADD_D02489,Neratinib,BADD_A01298,Thoracic disorders (excl lung and pleura),9915743
+BADD_D02498,Abemaciclib,BADD_A01298,Thoracic disorders (excl lung and pleura),46220502
+BADD_D02510,Rucaparib,BADD_A01298,Thoracic disorders (excl lung and pleura),9931954
+BADD_D02539,Calcium,BADD_A01298,Thoracic disorders (excl lung and pleura),5460341
+BADD_D02603,Tucatinib,BADD_A01298,Thoracic disorders (excl lung and pleura),51039094
+BADD_D02629,Niraparib,BADD_A01298,Thoracic disorders (excl lung and pleura),24958200
+BADD_D00933,Fluoxetine hydrochloride,BADD_A01513,Eosinophilic pneumonia,62857
+BADD_D01890,Quinapril,BADD_A01513,Eosinophilic pneumonia,54892
+BADD_D02377,Zafirlukast,BADD_A01513,Eosinophilic pneumonia,5717
+BADD_D00838,Etanercept,BADD_A01701,Fungal lower respiratory tract infections,Not Available
+BADD_D00079,Alogliptin,BADD_A02378,Interstitial lung disease,11450633
+BADD_D00191,Auranofin,BADD_A02378,Interstitial lung disease,24199313
+BADD_D00196,Azathioprine sodium,BADD_A02378,Interstitial lung disease,11529527
+BADD_D00429,Chlorambucil,BADD_A02378,Interstitial lung disease,2708
+BADD_D00568,Dacarbazine,BADD_A02378,Interstitial lung disease,2942
+BADD_D00576,Danazol,BADD_A02378,Interstitial lung disease,28417
+BADD_D00710,Doripenem,BADD_A02378,Interstitial lung disease,73303
+BADD_D00734,Duloxetine,BADD_A02378,Interstitial lung disease,60835
+BADD_D00736,Dutasteride,BADD_A02378,Interstitial lung disease,6918296
+BADD_D00746,Edoxaban tosylate,BADD_A02378,Interstitial lung disease,44610678
+BADD_D00893,Fexofenadine,BADD_A02378,Interstitial lung disease,3348
+BADD_D00943,Flutamide,BADD_A02378,Interstitial lung disease,3397
+BADD_D01351,Maprotiline hydrochloride,BADD_A02378,Interstitial lung disease,71478
+BADD_D01480,Mitoxantrone,BADD_A02378,Interstitial lung disease,4212
+BADD_D01481,Mitoxantrone hydrochloride,BADD_A02378,Interstitial lung disease,51082
+BADD_D01513,Nafarelin,BADD_A02378,Interstitial lung disease,25077405
+BADD_D01568,Nilutamide,BADD_A02378,Interstitial lung disease,4493
+BADD_D01702,Pemetrexed disodium,BADD_A02378,Interstitial lung disease,135413520
+BADD_D01785,Pitavastatin calcium,BADD_A02378,Interstitial lung disease,11251522
+BADD_D01824,Pravastatin,BADD_A02378,Interstitial lung disease,54687
+BADD_D01899,Rabeprazole sodium,BADD_A02378,Interstitial lung disease,14720269
+BADD_D01908,Ramelteon,BADD_A02378,Interstitial lung disease,208902
+BADD_D01992,Saxagliptin,BADD_A02378,Interstitial lung disease,11235729
+BADD_D02248,Topotecan,BADD_A02378,Interstitial lung disease,60700
+BADD_D02258,Trametinib dimethyl sulfoxide,BADD_A02378,Interstitial lung disease,50992434
+BADD_D02264,Trastuzumab,BADD_A02378,Interstitial lung disease,Not Available
+BADD_D02277,Triazolam,BADD_A02378,Interstitial lung disease,5556
+BADD_D02347,Venlafaxine hydrochloride,BADD_A02378,Interstitial lung disease,62923
+BADD_D02442,Magnesium oxide,BADD_A02378,Interstitial lung disease,14792
+BADD_D02453,Midostaurin,BADD_A02378,Interstitial lung disease,9829523
+BADD_D02469,Edoxaban,BADD_A02378,Interstitial lung disease,10280735
+BADD_D02509,Brigatinib,BADD_A02378,Interstitial lung disease,68165256
+BADD_D02514,Etelcalcetide,BADD_A02378,Interstitial lung disease,71511839
+BADD_D02540,Capmatinib,BADD_A02378,Interstitial lung disease,25145656
+BADD_D02553,Entrectinib,BADD_A02378,Interstitial lung disease,25141092
+BADD_D02585,Pralsetinib,BADD_A02378,Interstitial lung disease,Not Available
+BADD_D02599,Tepotinib,BADD_A02378,Interstitial lung disease,25171648
+BADD_D02609,Zanubrutinib,BADD_A02378,Interstitial lung disease,135565884
+BADD_D00029,Acetyl sulfisoxazole,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),6662
+BADD_D00046,Ado-trastuzumab emtansine,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),Not Available
+BADD_D00054,Albumin (human),BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),Not Available
+BADD_D00107,Aminoglutethimide,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),2145
+BADD_D00114,Aminosalicylic acid,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),4649
+BADD_D00126,Amobarbital,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),2164
+BADD_D00161,Argatroban,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),92722
+BADD_D00185,Atosiban,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),5311010
+BADD_D00189,Atropine,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),174174
+BADD_D00190,Atropine sulfate,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),60196398
+BADD_D00207,Bacillus calmette-guerin,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),6451
+BADD_D00211,Balsalazide disodium,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),135413496
+BADD_D00232,Bendroflumethiazide,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),2315
+BADD_D00233,Benicar hydrochlorothiazide,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),9940864
+BADD_D00268,Bevacizumab,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),Not Available
+BADD_D00304,Bromocriptine,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),31101
+BADD_D00316,Buspirone,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),2477
+BADD_D00333,Caffeine citrate,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),6241
+BADD_D00396,Cefpodoxime proxetil,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),6321414
+BADD_D00442,Chlorothiazide,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),2720
+BADD_D00448,Chlorthalidone,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),2732
+BADD_D00513,Cobimetinib,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),16222096
+BADD_D00542,Cyanocobalamin,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),5311498
+BADD_D00554,Cyproterone,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),5284537
+BADD_D00556,Cysteamine,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),6058
+BADD_D00571,Dactinomycin,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),457193
+BADD_D00577,Dantrolene sodium,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),6604100
+BADD_D00590,Daunorubicin,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),30323
+BADD_D00591,Daunorubicin citrate,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),9961878
+BADD_D00598,Defibrotide sodium,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),135565962
+BADD_D00605,Demeclocycline,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),54680690
+BADD_D00606,Demeclocycline hydrochloride,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),54686764
+BADD_D00649,Diazoxide,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),3019
+BADD_D00669,Digoxin immune fab (ovine),BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),Not Available
+BADD_D00691,Dipridamole,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),3108
+BADD_D00693,Disopyramide,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),3114
+BADD_D00732,Droxidopa,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),92974
+BADD_D00772,Enoxaparin sodium,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),60196282
+BADD_D00783,Epinephrine bitartrate,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),5815
+BADD_D00789,Epoprostenol sodium,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),6364626
+BADD_D00795,Ergonovine,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),443884
+BADD_D00842,Ethambutol hydrochloride,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),14051
+BADD_D00877,Fenoprofen,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),3342
+BADD_D00878,Fenoprofen calcium,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),64747
+BADD_D00998,Gallium cation,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),105145
+BADD_D01000,Gallium nitrate,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),61635
+BADD_D01016,Gentamicin,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),3467
+BADD_D01033,Glycine,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),750
+BADD_D01053,Halofantrine hydrochloride,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),37392
+BADD_D01060,Heparin,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),772
+BADD_D01091,Hydrocortisone sodium succinate,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),23694214
+BADD_D01121,Ibuprofen lysine,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),9841440
+BADD_D01166,Interferon alfa-2a,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),Not Available
+BADD_D01190,Ipilimumab,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),Not Available
+BADD_D01207,Isoproterenol hydrochloride,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),5807
+BADD_D01214,Isoxsuprine,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),3783
+BADD_D01215,Isoxsuprine hydrochloride,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),11368
+BADD_D01313,Lomustine,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),3950
+BADD_D01356,Mecamylamine,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),4032
+BADD_D01357,Mecamylamine hydrochloride,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),13221
+BADD_D01370,Mefloquine hydrochloride,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),40692
+BADD_D01386,Mephenytoin,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),4060
+BADD_D01392,Mercaptopurine,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),667490
+BADD_D01406,Methadone hydrochloride,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),14184
+BADD_D01423,Methyclothiazide,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),4121
+BADD_D01436,Methylprednisolone sodium succinate,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),23680530
+BADD_D01452,Mexiletine,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),4178
+BADD_D01453,Mexiletine hydrochloride,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),21467
+BADD_D01472,Minocycline hydrochloride,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),54685925
+BADD_D01526,Naloxone hydrochloride,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),5464092
+BADD_D01583,Norepinephrine,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),439260
+BADD_D01600,Olanzapine pamoate,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),135566032
+BADD_D01700,Pembrolizumab,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),Not Available
+BADD_D01741,Perindoprilat,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),72022
+BADD_D01789,Plerixafor octahydrochloride,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),65014
+BADD_D01796,Polyoxyethylene,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),Not Available
+BADD_D01800,Ponatinib hydrochloride,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),46908927
+BADD_D01832,Prednisolone acetate,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),5834
+BADD_D01846,Procarbazine,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),4915
+BADD_D01847,Procarbazine hydrochloride,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),9703
+BADD_D01870,Protamine sulfate,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),Not Available
+BADD_D01892,Quinaprilat,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),107994
+BADD_D01910,Ramiprilat,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),5464096
+BADD_D01929,Reteplase,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),Not Available
+BADD_D01970,Rosiglitazone maleate,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),5281055
+BADD_D02059,Sorbitol,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),5780
+BADD_D02091,Sulfamethoxazole,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),5329
+BADD_D02152,Tenecteplase,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),Not Available
+BADD_D02167,Terlipressin,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),72081
+BADD_D02184,Tetraferric tricitrate decahydrate,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),90478690
+BADD_D02197,Thiamine,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),1130
+BADD_D02198,Thiamine hydrochloride,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),6202
+BADD_D02215,Ticlopidine,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),5472
+BADD_D02216,Ticlopidine hydrochloride,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),65335
+BADD_D02229,Tirofiban hydrochloride,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),60946
+BADD_D02255,Tramadol hydrochloride,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),63013
+BADD_D02273,Triamcinolone diacetate,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),6216
+BADD_D02274,Triamcinolone hexacetonide,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),21826
+BADD_D02276,Triamterene hydrochlorothiazide,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),62940
+BADD_D02349,Verapamil hydrochloride,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),62969
+BADD_D02363,Vinorelbine,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),5311497
+BADD_D02436,Atorvastatin,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),60823
+BADD_D02468,Cannabidiol,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),644019
+BADD_D02500,Alpelisib,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),56649450
+BADD_D02524,Ivosidenib,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),71657455
+BADD_D02544,Copanlisib,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),Not Available
+BADD_D02551,Docusate,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),11339
+BADD_D02554,Fedratinib,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),16722836
+BADD_D02566,Lurbinectedin,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),57327016
+BADD_D02573,Mobocertinib,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),118607832
+BADD_D02592,Risdiplam,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),118513932
+BADD_D02593,Selpercatinib,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),134436906
+BADD_D02610,Alfacalcidol,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),5282181
+BADD_D02627,Methyl salicylate,BADD_A02588,Lower respiratory tract disorders (excl obstruction and infection),4133
+BADD_D01537,Natalizumab,BADD_A02589,Lower respiratory tract infection,Not Available
+BADD_D02021,Siltuximab,BADD_A02589,Lower respiratory tract infection,Not Available
+BADD_D00011,Abarelix,BADD_A02590,Respiratory tract infections,16131215
+BADD_D00015,Abiraterone acetate,BADD_A02590,Respiratory tract infections,9821849
+BADD_D00036,Acitretin,BADD_A02590,Respiratory tract infections,5284513
+BADD_D00050,Agomelatine,BADD_A02590,Respiratory tract infections,82148
+BADD_D00053,Albiglutide,BADD_A02590,Respiratory tract infections,145994868
+BADD_D00058,Alcaftadine,BADD_A02590,Respiratory tract infections,19371515
+BADD_D00074,Aliskiren hemifumarate,BADD_A02590,Respiratory tract infections,6918427
+BADD_D00080,Alogliptin benzoate,BADD_A02590,Respiratory tract infections,16088021
+BADD_D00082,Alosetron,BADD_A02590,Respiratory tract infections,2099
+BADD_D00083,Alosetron hydrochloride,BADD_A02590,Respiratory tract infections,60758
+BADD_D00141,Anakinra,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D00152,Apomorphine,BADD_A02590,Respiratory tract infections,6005
+BADD_D00153,Apomorphine hydrochloride,BADD_A02590,Respiratory tract infections,9410
+BADD_D00170,Articaine hydrochloride,BADD_A02590,Respiratory tract infections,32169
+BADD_D00183,Atorvastatin calcium propylene glycol,BADD_A02590,Respiratory tract infections,51039411
+BADD_D00184,Atorvastatin calcium trihydrate,BADD_A02590,Respiratory tract infections,656846
+BADD_D00212,Barium cation,BADD_A02590,Respiratory tract infections,104810
+BADD_D00225,Belinostat,BADD_A02590,Respiratory tract infections,6918638
+BADD_D00252,Bepotastine,BADD_A02590,Respiratory tract infections,164522
+BADD_D00253,Bepotastine besilate,BADD_A02590,Respiratory tract infections,164521
+BADD_D00254,Bepridil,BADD_A02590,Respiratory tract infections,2351
+BADD_D00291,Brentuximab vedotin,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D00303,Bromocresol green,BADD_A02590,Respiratory tract infections,6451
+BADD_D00311,Buprenorphine hydrochloride,BADD_A02590,Respiratory tract infections,3033050
+BADD_D00337,Calcitriol,BADD_A02590,Respiratory tract infections,5280453
+BADD_D00359,Carbidopa,BADD_A02590,Respiratory tract infections,34359
+BADD_D00369,Cariprazine,BADD_A02590,Respiratory tract infections,11154555
+BADD_D00377,Caspofungin acetate,BADD_A02590,Respiratory tract infections,6850808
+BADD_D00408,Cefuroxime axetil,BADD_A02590,Respiratory tract infections,5361467
+BADD_D00422,Cetuximab,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D00457,Choriogonadotropin alfa,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D00467,Cimetidine,BADD_A02590,Respiratory tract infections,2756
+BADD_D00469,Cinacalcet hydrochloride,BADD_A02590,Respiratory tract infections,156418
+BADD_D00519,Colesevelam hydrochloride,BADD_A02590,Respiratory tract infections,60208760
+BADD_D00527,Conivaptan hydrochloride,BADD_A02590,Respiratory tract infections,216322
+BADD_D00538,Cromolyn,BADD_A02590,Respiratory tract infections,2882
+BADD_D00546,Cyclobenzaprine hydrochloride,BADD_A02590,Respiratory tract infections,22576
+BADD_D00567,Dabrafenib mesylate,BADD_A02590,Respiratory tract infections,44516822
+BADD_D00578,Dapagliflozin,BADD_A02590,Respiratory tract infections,9887712
+BADD_D00579,Dapagliflozin propanediol,BADD_A02590,Respiratory tract infections,24906252
+BADD_D00607,Denileukin diftitox,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D00608,Denosumab,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D00617,Desmopressin acetate,BADD_A02590,Respiratory tract infections,27991
+BADD_D00634,Dexrazoxane hydrochloride,BADD_A02590,Respiratory tract infections,6918223
+BADD_D00677,Dimercaprol,BADD_A02590,Respiratory tract infections,3080
+BADD_D00722,Doxercalciferol,BADD_A02590,Respiratory tract infections,5281107
+BADD_D00724,Doxorubicin hydrochloride,BADD_A02590,Respiratory tract infections,443939
+BADD_D00729,Dronabinol,BADD_A02590,Respiratory tract infections,16078
+BADD_D00738,Ecallantide,BADD_A02590,Respiratory tract infections,44152182
+BADD_D00742,Eculizumab,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D00760,Eltrombopag olamine,BADD_A02590,Respiratory tract infections,135449331
+BADD_D00763,Emedastine,BADD_A02590,Respiratory tract infections,3219
+BADD_D00764,Emedastine difumarate,BADD_A02590,Respiratory tract infections,5282485
+BADD_D00765,Empagliflozin,BADD_A02590,Respiratory tract infections,11949646
+BADD_D00779,Epi-kal2,BADD_A02590,Respiratory tract infections,44201343
+BADD_D00780,Epinastine,BADD_A02590,Respiratory tract infections,3241
+BADD_D00781,Epinastine hydrochloride,BADD_A02590,Respiratory tract infections,157313
+BADD_D00787,Epoetin alfa,BADD_A02590,Respiratory tract infections,127893
+BADD_D00799,Eribulin mesylate,BADD_A02590,Respiratory tract infections,17755248
+BADD_D00808,Erythropoietin,BADD_A02590,Respiratory tract infections,11751549
+BADD_D00843,Ethanolamine oleate,BADD_A02590,Respiratory tract infections,5282489
+BADD_D00859,Evolocumab,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D00865,Ezogabine,BADD_A02590,Respiratory tract infections,121892
+BADD_D00867,Factor xiii concentrate (human),BADD_A02590,Respiratory tract infections,Not Available
+BADD_D00868,Famciclovir,BADD_A02590,Respiratory tract infections,3324
+BADD_D00887,Ferumoxides,BADD_A02590,Respiratory tract infections,6432052
+BADD_D00894,Fexofenadine hydrochloride,BADD_A02590,Respiratory tract infections,63002
+BADD_D00908,Floxuridine,BADD_A02590,Respiratory tract infections,5790
+BADD_D00925,Fluocinonide,BADD_A02590,Respiratory tract infections,9642
+BADD_D00956,Fomepizole,BADD_A02590,Respiratory tract infections,3406
+BADD_D00960,Formoterol fumarate dihydrate,BADD_A02590,Respiratory tract infections,60196271
+BADD_D00976,Frovatriptan,BADD_A02590,Respiratory tract infections,77992
+BADD_D00977,Frovatriptan succinate,BADD_A02590,Respiratory tract infections,152943
+BADD_D00995,Gadoxetate disodium,BADD_A02590,Respiratory tract infections,9961939
+BADD_D00997,Galantamine hydrobromide,BADD_A02590,Respiratory tract infections,121587
+BADD_D01007,Gazyva,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01015,Gemtuzumab ozogamicin,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01036,Gonadorelin,BADD_A02590,Respiratory tract infections,638793
+BADD_D01040,Granisetron,BADD_A02590,Respiratory tract infections,5284566
+BADD_D01047,Guanfacine hydrochloride,BADD_A02590,Respiratory tract infections,71401
+BADD_D01062,Hepatitis b immune globulin (human),BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01095,Hydrogen iodide,BADD_A02590,Respiratory tract infections,24841
+BADD_D01101,Hydroxybutanedial,BADD_A02590,Respiratory tract infections,5288169
+BADD_D01148,Indacaterol maleate,BADD_A02590,Respiratory tract infections,9827599
+BADD_D01150,Indinavir,BADD_A02590,Respiratory tract infections,5362440
+BADD_D01151,Indinavir sulfate,BADD_A02590,Respiratory tract infections,5462355
+BADD_D01158,Ingenol mebutate,BADD_A02590,Respiratory tract infections,6918670
+BADD_D01168,Interferon alfacon-1,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01224,Ixekizumab,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01241,Lamisil,BADD_A02590,Respiratory tract infections,1549007
+BADD_D01256,Lesinurad,BADD_A02590,Respiratory tract infections,53465279
+BADD_D01270,Levocabastine hydrochloride,BADD_A02590,Respiratory tract infections,54384
+BADD_D01273,Levocetirizine dihydrochloride,BADD_A02590,Respiratory tract infections,9955977
+BADD_D01274,Levodopa-4'-monophosphate,BADD_A02590,Respiratory tract infections,127766
+BADD_D01291,Linaclotide,BADD_A02590,Respiratory tract infections,16158208
+BADD_D01312,Lomitapide mesylate,BADD_A02590,Respiratory tract infections,11274333
+BADD_D01316,Loracarbef,BADD_A02590,Respiratory tract infections,5284585
+BADD_D01320,Lorcaserin hydrochloride hemihydrate,BADD_A02590,Respiratory tract infections,70678853
+BADD_D01324,Loteprednol etabonate,BADD_A02590,Respiratory tract infections,444025
+BADD_D01325,Lovastatin,BADD_A02590,Respiratory tract infections,53232
+BADD_D01330,Lurasidone,BADD_A02590,Respiratory tract infections,213046
+BADD_D01332,Lutropin alfa,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01335,Lyxumia,BADD_A02590,Respiratory tract infections,90472060
+BADD_D01348,Mangafodipir trisodium,BADD_A02590,Respiratory tract infections,160036
+BADD_D01371,Megestrol,BADD_A02590,Respiratory tract infections,19090
+BADD_D01372,Megestrol acetate,BADD_A02590,Respiratory tract infections,11683
+BADD_D01373,Melatonin,BADD_A02590,Respiratory tract infections,896
+BADD_D01391,Mercaptoethanesulfonic acid,BADD_A02590,Respiratory tract infections,598
+BADD_D01398,Mesna,BADD_A02590,Respiratory tract infections,23662354
+BADD_D01402,Metformin hydrochloride,BADD_A02590,Respiratory tract infections,14219
+BADD_D01421,Methoxy polyethylene glycol-epoetin beta,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01440,Methysergide maleate,BADD_A02590,Respiratory tract infections,5281073
+BADD_D01448,Metreleptin,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01466,Milnacipran hydrochloride,BADD_A02590,Respiratory tract infections,163701
+BADD_D01494,Monoethanolamine,BADD_A02590,Respiratory tract infections,700
+BADD_D01504,Mupirocin,BADD_A02590,Respiratory tract infections,446596
+BADD_D01514,Nafarelin acetate,BADD_A02590,Respiratory tract infections,25079036
+BADD_D01522,Nalmefene,BADD_A02590,Respiratory tract infections,5284594
+BADD_D01523,Nalmefene hydrochloride,BADD_A02590,Respiratory tract infections,5388881
+BADD_D01555,Nepafenac,BADD_A02590,Respiratory tract infections,151075
+BADD_D01560,Nicardipine,BADD_A02590,Respiratory tract infections,4474
+BADD_D01571,Nitazoxanide,BADD_A02590,Respiratory tract infections,41684
+BADD_D01573,Nitrazepam,BADD_A02590,Respiratory tract infections,4506
+BADD_D01593,Obiltoxaximab,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01606,Olopatadine hydrochloride,BADD_A02590,Respiratory tract infections,5282402
+BADD_D01612,Omega-3-carboxylic acids,BADD_A02590,Respiratory tract infections,446284
+BADD_D01620,Oprelvekin,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01657,Paliperidone palmitate,BADD_A02590,Respiratory tract infections,9852746
+BADD_D01661,Pamidronate disodium,BADD_A02590,Respiratory tract infections,73351
+BADD_D01669,Pantoprazole sodium,BADD_A02590,Respiratory tract infections,15008962
+BADD_D01673,Parathyroid hormone,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01684,Pasireotide,BADD_A02590,Respiratory tract infections,9941444
+BADD_D01685,Pasireotide diaspartate,BADD_A02590,Respiratory tract infections,70788982
+BADD_D01694,Peginesatide,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01695,Peginterferon alfa-2a,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01696,Peginterferon alfa-2b,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01698,Pegloticase,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01699,Pegvisomant,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01706,Penbutolol,BADD_A02590,Respiratory tract infections,37464
+BADD_D01707,Penbutolol sulfate,BADD_A02590,Respiratory tract infections,38010
+BADD_D01728,Pentosan polysulfate,BADD_A02590,Respiratory tract infections,37720
+BADD_D01729,Pentosan polysulfate sodium,BADD_A02590,Respiratory tract infections,156619446
+BADD_D01744,Pertuzumab,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01778,Pioglitazone hydrochloride,BADD_A02590,Respiratory tract infections,60560
+BADD_D01819,Pramlintide,BADD_A02590,Respiratory tract infections,70691388
+BADD_D01825,Pravastatin sodium,BADD_A02590,Respiratory tract infections,16759173
+BADD_D01911,Ramucirumab,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01928,Retapamulin,BADD_A02590,Respiratory tract infections,6918462
+BADD_D01939,Rilonacept,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01943,Rimabotulinumtoxinb,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01946,Rimexolone,BADD_A02590,Respiratory tract infections,5311412
+BADD_D01988,Sapropterin dihydrochloride,BADD_A02590,Respiratory tract infections,135409471
+BADD_D01990,Sargramostim,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D01993,Saxagliptin hydrochloride,BADD_A02590,Respiratory tract infections,49800073
+BADD_D01994,Scopolamine,BADD_A02590,Respiratory tract infections,5184
+BADD_D01996,Sebelipase alfa,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D02001,Secukinumab,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D02019,Sildenafil citrate,BADD_A02590,Respiratory tract infections,135413523
+BADD_D02030,Sitagliptin phosphate,BADD_A02590,Respiratory tract infections,6451150
+BADD_D02054,Solifenacin succinate,BADD_A02590,Respiratory tract infections,216457
+BADD_D02081,Sucralfate,BADD_A02590,Respiratory tract infections,121494085
+BADD_D02101,Sunitinib malate,BADD_A02590,Respiratory tract infections,6456015
+BADD_D02110,Taliglucerase alfa,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D02114,Tamsulosin hydrochloride,BADD_A02590,Respiratory tract infections,5362376
+BADD_D02117,Tarazosin,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D02137,Teduglutide,BADD_A02590,Respiratory tract infections,16139605
+BADD_D02139,Tegaserod maleate,BADD_A02590,Respiratory tract infections,135413539
+BADD_D02146,Telithromycin,BADD_A02590,Respiratory tract infections,3002190
+BADD_D02156,Tenofovir disoproxil fumarate,BADD_A02590,Respiratory tract infections,5486830
+BADD_D02185,Tetrahydrobiopterin,BADD_A02590,Respiratory tract infections,135402045
+BADD_D02186,Tetrahydrozoline hydrochloride,BADD_A02590,Respiratory tract infections,10648
+BADD_D02191,Tetryzoline,BADD_A02590,Respiratory tract infections,5419
+BADD_D02208,Thyrotropin alfa,BADD_A02590,Respiratory tract infections,32281
+BADD_D02222,Tinzaparin sodium,BADD_A02590,Respiratory tract infections,8784
+BADD_D02225,Tiotropium bromide monohydrate,BADD_A02590,Respiratory tract infections,11431811
+BADD_D02237,Tofacitinib citrate,BADD_A02590,Respiratory tract infections,10174505
+BADD_D02245,Tolterodine tartrate,BADD_A02590,Respiratory tract infections,9847786
+BADD_D02251,Torsemide,BADD_A02590,Respiratory tract infections,41781
+BADD_D02327,Valganciclovir hydrochloride,BADD_A02590,Respiratory tract infections,135413534
+BADD_D02330,Valrubicin,BADD_A02590,Respiratory tract infections,454216
+BADD_D02336,Vardenafil hydrochloride,BADD_A02590,Respiratory tract infections,135438569
+BADD_D02343,Velaglucerase alfa,BADD_A02590,Respiratory tract infections,Not Available
+BADD_D02352,Verteporfin,BADD_A02590,Respiratory tract infections,11980904
+BADD_D02357,Vildagliptin,BADD_A02590,Respiratory tract infections,5251896
+BADD_D02358,Vinblastine,BADD_A02590,Respiratory tract infections,13342
+BADD_D02359,Vinblastine sulfate,BADD_A02590,Respiratory tract infections,5388983
+BADD_D02361,Vincristine sulfate,BADD_A02590,Respiratory tract infections,249332
+BADD_D02371,Vortioxetine,BADD_A02590,Respiratory tract infections,9966051
+BADD_D02374,Warfarin sodium,BADD_A02590,Respiratory tract infections,16204922
+BADD_D02382,Ziconotide acetate,BADD_A02590,Respiratory tract infections,16129690
+BADD_D02384,Zileuton,BADD_A02590,Respiratory tract infections,60490
+BADD_D02390,Ziprasidone hydrochloride monohydrate,BADD_A02590,Respiratory tract infections,60853
+BADD_D02391,Ziprasidone mesylate,BADD_A02590,Respiratory tract infections,154068
+BADD_D02398,Zuclopenthixol,BADD_A02590,Respiratory tract infections,5311507
+BADD_D00883,Ferric oxyhydroxide,BADD_A02593,Lower respiratory tract neoplasms,9793696
+BADD_D01905,Raltegravir,BADD_A02593,Lower respiratory tract neoplasms,54671008
+BADD_D02467,Naloxegol,BADD_A02593,Lower respiratory tract neoplasms,56959087
+BADD_D02481,Naldemedine,BADD_A02593,Lower respiratory tract neoplasms,54732242
+BADD_D02526,Larotrectinib,BADD_A02593,Lower respiratory tract neoplasms,46188928
+BADD_D00099,Ambenonium chloride,BADD_A02595,Lower respiratory tract signs and symptoms,8288
+BADD_D00102,Amifostine,BADD_A02595,Lower respiratory tract signs and symptoms,2141
+BADD_D00292,Bretylium,BADD_A02595,Lower respiratory tract signs and symptoms,2431
+BADD_D00317,Buspirone hydrochloride,BADD_A02595,Lower respiratory tract signs and symptoms,36431
+BADD_D00624,Dexamethasone phosphate,BADD_A02595,Lower respiratory tract signs and symptoms,9400
+BADD_D00625,Dexamethasone sodium phosphate,BADD_A02595,Lower respiratory tract signs and symptoms,16961
+BADD_D00638,Dextromethorphan,BADD_A02595,Lower respiratory tract signs and symptoms,5360696
+BADD_D00844,Ethinyl estradiol,BADD_A02595,Lower respiratory tract signs and symptoms,5991
+BADD_D00851,Etomidate,BADD_A02595,Lower respiratory tract signs and symptoms,667484
+BADD_D00919,Flumazenil,BADD_A02595,Lower respiratory tract signs and symptoms,3373
+BADD_D00922,Flunitrazepam,BADD_A02595,Lower respiratory tract signs and symptoms,3380
+BADD_D01422,Methsuximide,BADD_A02595,Lower respiratory tract signs and symptoms,6476
+BADD_D01565,Nicotine alkaloid,BADD_A02595,Lower respiratory tract signs and symptoms,942
+BADD_D01660,Palonosetron hydrochloride,BADD_A02595,Lower respiratory tract signs and symptoms,6918303
+BADD_D01843,Procainamide hydrochloride,BADD_A02595,Lower respiratory tract signs and symptoms,66068
+BADD_D01882,Pyridostigmine bromide,BADD_A02595,Lower respiratory tract signs and symptoms,7550
+BADD_D01917,Rasburicase,BADD_A02595,Lower respiratory tract signs and symptoms,Not Available
+BADD_D01963,Rolapitant,BADD_A02595,Lower respiratory tract signs and symptoms,10311306
+BADD_D02239,Tolazoline hydrochloride,BADD_A02595,Lower respiratory tract signs and symptoms,6048
+BADD_D02287,Trimethadione,BADD_A02595,Lower respiratory tract signs and symptoms,5576
+BADD_D02434,Cinacalcet,BADD_A02595,Lower respiratory tract signs and symptoms,156419
+BADD_D02565,Lumateperone,BADD_A02595,Lower respiratory tract signs and symptoms,21302490
+BADD_D02615,Bilastine,BADD_A02595,Lower respiratory tract signs and symptoms,185460
+BADD_D00146,Anti-thymocyte globulin (rabbit),BADD_A02600,Lung disorder,Not Available
+BADD_D00180,Atomoxetine,BADD_A02600,Lung disorder,54841
+BADD_D01098,Hydroxide ion,BADD_A02600,Lung disorder,961
+BADD_D01128,Idarubicin hydrochloride,BADD_A02600,Lung disorder,636362
+BADD_D01578,Nitrofurantoin (monohydrate/macrocrystals),BADD_A02600,Lung disorder,6604200
+BADD_D02411,Voxelotor,BADD_A02600,Lung disorder,71602803
+BADD_D02439,Levodopa,BADD_A02600,Lung disorder,6047
+BADD_D00004,2-[1-methyl-5-(4-methylbenzoyl)pyrrol-2-yl]acetate,BADD_A02825,Respiratory signs and symptoms NEC,5508
+BADD_D00018,Acarbose,BADD_A02825,Respiratory signs and symptoms NEC,444254
+BADD_D00052,Albendazole,BADD_A02825,Respiratory signs and symptoms NEC,2082
+BADD_D00105,Amiloride hydrochloride,BADD_A02825,Respiratory signs and symptoms NEC,16230
+BADD_D00147,Antihemophilic factor (recombinant),BADD_A02825,Respiratory signs and symptoms NEC,Not Available
+BADD_D00148,Antithrombin (recombinant),BADD_A02825,Respiratory signs and symptoms NEC,Not Available
+BADD_D00149,Antithrombin alfa,BADD_A02825,Respiratory signs and symptoms NEC,Not Available
+BADD_D00155,Apraclonidine hydrochloride,BADD_A02825,Respiratory signs and symptoms NEC,51763
+BADD_D00171,Ascorbic acid,BADD_A02825,Respiratory signs and symptoms NEC,54670067
+BADD_D00201,Azilsartan kamedoxomil,BADD_A02825,Respiratory signs and symptoms NEC,23699544
+BADD_D00221,Bedaquiline,BADD_A02825,Respiratory signs and symptoms NEC,5388906
+BADD_D00222,Bedaquiline fumarate,BADD_A02825,Respiratory signs and symptoms NEC,24812732
+BADD_D00276,Bisacodyl,BADD_A02825,Respiratory signs and symptoms NEC,2391
+BADD_D00307,Bumetanide,BADD_A02825,Respiratory signs and symptoms NEC,2471
+BADD_D00379,Cefadroxil,BADD_A02825,Respiratory signs and symptoms NEC,47965
+BADD_D00413,Cephradine,BADD_A02825,Respiratory signs and symptoms NEC,38103
+BADD_D00509,Clotrimazole,BADD_A02825,Respiratory signs and symptoms NEC,2812
+BADD_D00521,Colestipol,BADD_A02825,Respiratory signs and symptoms NEC,62816
+BADD_D00522,Colestipol hydrochloride,BADD_A02825,Respiratory signs and symptoms NEC,3084661
+BADD_D00547,Cyclopentolate,BADD_A02825,Respiratory signs and symptoms NEC,2905
+BADD_D00636,Dextroamphetamine,BADD_A02825,Respiratory signs and symptoms NEC,5826
+BADD_D00637,Dextroamphetamine sulfate,BADD_A02825,Respiratory signs and symptoms NEC,5825
+BADD_D00662,Diethylpropion,BADD_A02825,Respiratory signs and symptoms NEC,7029
+BADD_D00663,Diethylpropion hydrochloride,BADD_A02825,Respiratory signs and symptoms NEC,91442
+BADD_D00694,Disopyramide phosphate,BADD_A02825,Respiratory signs and symptoms NEC,30928
+BADD_D00698,Dobutamine hydrochloride,BADD_A02825,Respiratory signs and symptoms NEC,65324
+BADD_D00705,Domperidone,BADD_A02825,Respiratory signs and symptoms NEC,3151
+BADD_D00750,Efinaconazole,BADD_A02825,Respiratory signs and symptoms NEC,489181
+BADD_D00769,Encainide hydrochloride,BADD_A02825,Respiratory signs and symptoms NEC,48040
+BADD_D00777,Ephedrine,BADD_A02825,Respiratory signs and symptoms NEC,9294
+BADD_D00778,Ephedrine sulfate,BADD_A02825,Respiratory signs and symptoms NEC,5359318
+BADD_D00797,Ergotamine tartrate,BADD_A02825,Respiratory signs and symptoms NEC,9787
+BADD_D00806,Erythromycin lactobionate,BADD_A02825,Respiratory signs and symptoms NEC,71469
+BADD_D00826,Estramustine,BADD_A02825,Respiratory signs and symptoms NEC,259331
+BADD_D00828,Estramustine phosphate sodium,BADD_A02825,Respiratory signs and symptoms NEC,444000
+BADD_D00847,Ethotoin,BADD_A02825,Respiratory signs and symptoms NEC,3292
+BADD_D00875,Fenoldopam,BADD_A02825,Respiratory signs and symptoms NEC,3341
+BADD_D00876,Fenoldopam mesylate,BADD_A02825,Respiratory signs and symptoms NEC,49659
+BADD_D00882,Ferric carboxymaltose,BADD_A02825,Respiratory signs and symptoms NEC,86278165
+BADD_D00904,Flibanserin,BADD_A02825,Respiratory signs and symptoms NEC,6918248
+BADD_D00913,Flucytosine,BADD_A02825,Respiratory signs and symptoms NEC,3366
+BADD_D00929,Fluorometholone,BADD_A02825,Respiratory signs and symptoms NEC,9878
+BADD_D00939,Flurazepam,BADD_A02825,Respiratory signs and symptoms NEC,3393
+BADD_D00940,Flurazepam hydrochloride,BADD_A02825,Respiratory signs and symptoms NEC,14434
+BADD_D00944,Flutemetamol f-18,BADD_A02825,Respiratory signs and symptoms NEC,15950376
+BADD_D01011,Gemeprost,BADD_A02825,Respiratory signs and symptoms NEC,5282237
+BADD_D01044,Guanabenz acetate,BADD_A02825,Respiratory signs and symptoms NEC,5702062
+BADD_D01058,Hemin,BADD_A02825,Respiratory signs and symptoms NEC,26945
+BADD_D01067,Hex-hgrf,BADD_A02825,Respiratory signs and symptoms NEC,44201342
+BADD_D01106,Hydroxyprogesterone,BADD_A02825,Respiratory signs and symptoms NEC,6238
+BADD_D01126,Icosapent ethyl,BADD_A02825,Respiratory signs and symptoms NEC,9831415
+BADD_D01127,Idarubicin,BADD_A02825,Respiratory signs and symptoms NEC,42890
+BADD_D01138,Imiglucerase,BADD_A02825,Respiratory signs and symptoms NEC,Not Available
+BADD_D01146,Inamrinone,BADD_A02825,Respiratory signs and symptoms NEC,3698
+BADD_D01200,Iron;nitroxyl anion;pentacyanide,BADD_A02825,Respiratory signs and symptoms NEC,11947681
+BADD_D01305,Lithium hydroxide,BADD_A02825,Respiratory signs and symptoms NEC,3939
+BADD_D01404,Methacholine chloride,BADD_A02825,Respiratory signs and symptoms NEC,6114
+BADD_D01429,Methylergonovine maleate,BADD_A02825,Respiratory signs and symptoms NEC,5281072
+BADD_D01439,Methysergide,BADD_A02825,Respiratory signs and symptoms NEC,9681
+BADD_D01444,Metolazone,BADD_A02825,Respiratory signs and symptoms NEC,4170
+BADD_D01461,Midodrine,BADD_A02825,Respiratory signs and symptoms NEC,4195
+BADD_D01483,Moclobemide,BADD_A02825,Respiratory signs and symptoms NEC,4235
+BADD_D01528,Naltrexone hydrochloride,BADD_A02825,Respiratory signs and symptoms NEC,5485201
+BADD_D01538,Natamycin,BADD_A02825,Respiratory signs and symptoms NEC,5284447
+BADD_D01584,Norepinephrine bitartrate,BADD_A02825,Respiratory signs and symptoms NEC,3047796
+BADD_D01585,Norethindrone,BADD_A02825,Respiratory signs and symptoms NEC,6230
+BADD_D01587,Norfloxacin,BADD_A02825,Respiratory signs and symptoms NEC,4539
+BADD_D01640,Oxidronic acid,BADD_A02825,Respiratory signs and symptoms NEC,27304
+BADD_D01688,Pazopanib hydrochloride,BADD_A02825,Respiratory signs and symptoms NEC,11525740
+BADD_D01715,Penicillin v,BADD_A02825,Respiratory signs and symptoms NEC,6869
+BADD_D01720,Pentazocine lactate,BADD_A02825,Respiratory signs and symptoms NEC,656697
+BADD_D01750,Phenelzine,BADD_A02825,Respiratory signs and symptoms NEC,3675
+BADD_D01774,Pimozide,BADD_A02825,Respiratory signs and symptoms NEC,16362
+BADD_D01788,Plerixafor,BADD_A02825,Respiratory signs and symptoms NEC,65015
+BADD_D01823,Prasugrel hydrochloride,BADD_A02825,Respiratory signs and symptoms NEC,10158453
+BADD_D01826,Praziquantel,BADD_A02825,Respiratory signs and symptoms NEC,4891
+BADD_D01842,Procainamide,BADD_A02825,Respiratory signs and symptoms NEC,4913
+BADD_D01860,Propantheline,BADD_A02825,Respiratory signs and symptoms NEC,4934
+BADD_D01862,Proparacaine,BADD_A02825,Respiratory signs and symptoms NEC,4935
+BADD_D01880,Pyrazinamide,BADD_A02825,Respiratory signs and symptoms NEC,1046
+BADD_D02041,Sodium iodide,BADD_A02825,Respiratory signs and symptoms NEC,5238
+BADD_D02042,Sodium iodide i-123,BADD_A02825,Respiratory signs and symptoms NEC,11954386
+BADD_D02043,Sodium iodide i-131,BADD_A02825,Respiratory signs and symptoms NEC,71368
+BADD_D02046,Sodium nitroprusside,BADD_A02825,Respiratory signs and symptoms NEC,11953895
+BADD_D02127,Technetium tc-99m fanolesomab,BADD_A02825,Respiratory signs and symptoms NEC,Not Available
+BADD_D02132,Technetium tc-99m sestamibi,BADD_A02825,Respiratory signs and symptoms NEC,5384
+BADD_D02168,Tesamorelin,BADD_A02825,Respiratory signs and symptoms NEC,16137828
+BADD_D02187,Tetrakis(1-isocyano-2-methoxy-2-methyl-propane)-copper(i) tetrafluoroborate,BADD_A02825,Respiratory signs and symptoms NEC,92043160
+BADD_D02188,Tetrakis(2-methoxyisobutylisocyanide)copper(i) tetrafluoroborate,BADD_A02825,Respiratory signs and symptoms NEC,92043160
+BADD_D02189,Tetrasodium;iron(3+);nitroxyl anion;pentacyanide,BADD_A02825,Respiratory signs and symptoms NEC,49868142
+BADD_D02209,Thyrotropin releasing hormone,BADD_A02825,Respiratory signs and symptoms NEC,131841495
+BADD_D02240,Tolbutamide,BADD_A02825,Respiratory signs and symptoms NEC,5505
+BADD_D02242,Tolmetin sodium,BADD_A02825,Respiratory signs and symptoms NEC,23665411
+BADD_D02267,Trazodone hydrochloride,BADD_A02825,Respiratory signs and symptoms NEC,62935
+BADD_D02269,Treprostinil sodium,BADD_A02825,Respiratory signs and symptoms NEC,23663413
+BADD_D02306,Trospium chloride,BADD_A02825,Respiratory signs and symptoms NEC,5284631
+BADD_D02312,Ulipristal,BADD_A02825,Respiratory signs and symptoms NEC,13559279
+BADD_D02449,Milnacipran,BADD_A02825,Respiratory signs and symptoms NEC,65833
+BADD_D02456,Vilazodone,BADD_A02825,Respiratory signs and symptoms NEC,6918314
+BADD_D02457,Dexmethylphenidate,BADD_A02825,Respiratory signs and symptoms NEC,154101
+BADD_D02485,Talazoparib,BADD_A02825,Respiratory signs and symptoms NEC,135565082
+BADD_D02496,Elagolix,BADD_A02825,Respiratory signs and symptoms NEC,11250647
+BADD_D02503,Telotristat ethyl,BADD_A02825,Respiratory signs and symptoms NEC,25181577
+BADD_D02507,Deutetrabenazine,BADD_A02825,Respiratory signs and symptoms NEC,73437646
+BADD_D02508,Edaravone,BADD_A02825,Respiratory signs and symptoms NEC,4021
+BADD_D02531,Avapritinib,BADD_A02825,Respiratory signs and symptoms NEC,118023034
+BADD_D02542,Cenobamate,BADD_A02825,Respiratory signs and symptoms NEC,11962412
+BADD_D02555,Fenfluramine,BADD_A02825,Respiratory signs and symptoms NEC,3337
+BADD_D02562,Lasmiditan,BADD_A02825,Respiratory signs and symptoms NEC,11610526
+BADD_D02571,Maribavir,BADD_A02825,Respiratory signs and symptoms NEC,471161
+BADD_D02584,Ponesimod,BADD_A02825,Respiratory signs and symptoms NEC,Not Available
+BADD_D02587,Relugolix,BADD_A02825,Respiratory signs and symptoms NEC,10348973
+BADD_D02589,Revefenacin,BADD_A02825,Respiratory signs and symptoms NEC,11753673
+BADD_D02595,Solriamfetol,BADD_A02825,Respiratory signs and symptoms NEC,10130337
+BADD_D02604,Ubrogepant,BADD_A02825,Respiratory signs and symptoms NEC,68748835
+BADD_D02606,Vibegron,BADD_A02825,Respiratory signs and symptoms NEC,44472635
+BADD_D02607,Viloxazine,BADD_A02825,Respiratory signs and symptoms NEC,5666
+BADD_D02616,Calcium carbonate,BADD_A02825,Respiratory signs and symptoms NEC,10112
+BADD_D02618,Cisapride,BADD_A02825,Respiratory signs and symptoms NEC,6917698
+BADD_D02619,Dienogest,BADD_A02825,Respiratory signs and symptoms NEC,68861
+BADD_D02631,Phenylbutazone,BADD_A02825,Respiratory signs and symptoms NEC,4781
+BADD_D02637,Terfenadine,BADD_A02825,Respiratory signs and symptoms NEC,5405
+BADD_D02639,Tryptophan,BADD_A02825,Respiratory signs and symptoms NEC,6305
+BADD_D00430,Chloramphenicol,BADD_A02990,Neonatal cardiovascular disorders (excl cardiorespiratory arrest),5959
+BADD_D01557,Nevirapine,BADD_A03002,Neonatal respiratory disorders,4463
+BADD_D00672,Dihydroergotamine mesylate,BADD_A03458,Pleural conditions NEC,71171
+BADD_D01479,Mitotane,BADD_A03460,Pleural disorders,4211
+BADD_D02460,Ganirelix,BADD_A03460,Pleural disorders,16130957
+BADD_D02493,Selinexor,BADD_A03460,Pleural disorders,71481097
+BADD_D02521,Sodium zirconium cyclosilicate,BADD_A03460,Pleural disorders,92042806
+BADD_D02528,Asciminib,BADD_A03460,Pleural disorders,72165228
+BADD_D02545,Dacomitinib,BADD_A03460,Pleural disorders,11511120
+BADD_D00028,Acetohydroxamic acid,BADD_A03630,Pulmonary embolism,1990
+BADD_D00042,Adapalene,BADD_A03630,Pulmonary embolism,60164
+BADD_D00087,Alteplase,BADD_A03630,Pulmonary embolism,22976653
+BADD_D00106,Aminocaproic acid,BADD_A03630,Pulmonary embolism,564
+BADD_D00117,Amisulpride,BADD_A03630,Pulmonary embolism,2159
+BADD_D00257,Beta-d-glucose,BADD_A03630,Pulmonary embolism,64689
+BADD_D00583,Darbepoetin alfa,BADD_A03630,Pulmonary embolism,Not Available
+BADD_D00829,Estriol,BADD_A03630,Pulmonary embolism,5756
+BADD_D00895,Fibrinogen,BADD_A03630,Pulmonary embolism,90540
+BADD_D01087,Hydrocortisone acetate,BADD_A03630,Pulmonary embolism,5744
+BADD_D01277,Levomefolate calcium,BADD_A03630,Pulmonary embolism,135564391
+BADD_D01450,Metyrapone,BADD_A03630,Pulmonary embolism,4174
+BADD_D01509,Myristyl sulfate,BADD_A03630,Pulmonary embolism,5248
+BADD_D01543,Necitumumab,BADD_A03630,Pulmonary embolism,Not Available
+BADD_D01630,Ospemifene,BADD_A03630,Pulmonary embolism,3036505
+BADD_D01711,Penicillin g benzathine,BADD_A03630,Pulmonary embolism,656811
+BADD_D02213,Tibolone,BADD_A03630,Pulmonary embolism,444008
+BADD_D02299,Trisequens,BADD_A03630,Pulmonary embolism,123634
+BADD_D02506,Erdafitinib,BADD_A03630,Pulmonary embolism,67462786
+BADD_D02530,Avacopan,BADD_A03630,Pulmonary embolism,49841217
+BADD_D00682,Dinoprost,BADD_A03631,Pulmonary embolism and thrombosis,5280363
+BADD_D00299,Bromazepam,BADD_A03634,Respiratory and pulmonary function diagnostic procedures,2441
+BADD_D00770,Enflurane,BADD_A03634,Respiratory and pulmonary function diagnostic procedures,3226
+BADD_D01075,Homatropine,BADD_A03634,Respiratory and pulmonary function diagnostic procedures,688024
+BADD_D01114,Hyoscyamine,BADD_A03634,Respiratory and pulmonary function diagnostic procedures,154417
+BADD_D01339,Magnesium cation,BADD_A03634,Respiratory and pulmonary function diagnostic procedures,888
+BADD_D01347,Malvidin chloride,BADD_A03634,Respiratory and pulmonary function diagnostic procedures,69512
+BADD_D01719,Pentazocine hydrochloride,BADD_A03634,Respiratory and pulmonary function diagnostic procedures,441277
+BADD_D02286,Trimeprazine tartrate,BADD_A03634,Respiratory and pulmonary function diagnostic procedures,441236
+BADD_D02302,Tromethamine,BADD_A03634,Respiratory and pulmonary function diagnostic procedures,6503
+BADD_D01748,Phendimetrazine,BADD_A03638,Pulmonary hypertensions,30487
+BADD_D01757,Phentermine hydrochloride,BADD_A03638,Pulmonary hypertensions,70969
+BADD_D00955,Follitropin beta,BADD_A03650,Pulmonary vascular disorders,Not Available
+BADD_D01380,Menotropins,BADD_A03650,Pulmonary vascular disorders,Not Available
+BADD_D00110,Aminolevulinic acid,BADD_A03800,Respiratory acidoses,137
+BADD_D00319,Butabarbital,BADD_A03800,Respiratory acidoses,2479
+BADD_D00398,Ceftaroline fosamil,BADD_A03800,Respiratory acidoses,9852981
+BADD_D00515,Cocaine hydrochloride,BADD_A03800,Respiratory acidoses,656832
+BADD_D01282,Levorphanol,BADD_A03800,Respiratory acidoses,5359272
+BADD_D01288,Lidocaine hydrochloride,BADD_A03800,Respiratory acidoses,6314
+BADD_D01636,Oxazepam,BADD_A03800,Respiratory acidoses,4616
+BADD_D01726,Pentobarbital,BADD_A03800,Respiratory acidoses,4737
+BADD_D01997,Secobarbital,BADD_A03800,Respiratory acidoses,5193
+BADD_D02032,Sodium acetate,BADD_A03800,Respiratory acidoses,517045
+BADD_D02035,Sodium carbonate,BADD_A03800,Respiratory acidoses,10340
+BADD_D02422,Cisatracurium,BADD_A03800,Respiratory acidoses,62887
+BADD_D02594,Selumetinib,BADD_A03800,Respiratory acidoses,10127622
+BADD_D00438,Chloroprocaine,BADD_A03807,Respiratory arrest,8612
+BADD_D00439,Chloroprocaine hydrochloride,BADD_A03807,Respiratory arrest,441348
+BADD_D00517,Codeine sulfate,BADD_A03807,Respiratory arrest,5359613
+BADD_D01030,Glyburide,BADD_A03807,Respiratory arrest,3488
+BADD_D01057,Halothane,BADD_A03807,Respiratory arrest,3562
+BADD_D01385,Meperidine hydrochloride,BADD_A03807,Respiratory arrest,5750
+BADD_D01388,Mepivacaine hydrochloride,BADD_A03807,Respiratory arrest,66070
+BADD_D01400,Metaxalone,BADD_A03807,Respiratory arrest,15459
+BADD_D01844,Procaine,BADD_A03807,Respiratory arrest,4914
+BADD_D02179,Tetracycline,BADD_A03807,Respiratory arrest,54675776
+BADD_D01112,Hydroxyzine hydrochloride,BADD_A03808,Respiratory depression,71612
+BADD_D01229,Ketamine hydrochloride,BADD_A03808,Respiratory depression,15851
+BADD_D01340,Magnesium chloride,BADD_A03808,Respiratory depression,643991
+BADD_D01343,Magnesium sulfate,BADD_A03808,Respiratory depression,24083
+BADD_D01344,Magnesium sulfate heptahydrate,BADD_A03808,Respiratory depression,24843
+BADD_D01649,Oxymorphone hydrochloride,BADD_A03808,Respiratory depression,5359390
+BADD_D01751,Phenelzine sulfate,BADD_A03808,Respiratory depression,61100
+BADD_D01837,Prilocaine hydrochloride,BADD_A03808,Respiratory depression,92163
+BADD_D02080,Succinylcholine chloride,BADD_A03808,Respiratory depression,22475
+BADD_D02397,Zopiclone,BADD_A03808,Respiratory depression,5735
+BADD_D02612,Anileridine,BADD_A03808,Respiratory depression,8944
+BADD_D00530,Corticorelin ovine triflutate,BADD_A03809,Respiratory depth increased,16132344
+BADD_D01177,Iodipamide meglumine,BADD_A03810,Respiratory disorder,636408
+BADD_D01561,Nicardipine hydrochloride,BADD_A03810,Respiratory disorder,41114
+BADD_D01845,Procaine hydrochloride,BADD_A03810,Respiratory disorder,5795
+BADD_D02177,Tetracaine hydrochloride,BADD_A03810,Respiratory disorder,8695
+BADD_D00237,Benzocaine,BADD_A03812,Respiratory distress,2337
+BADD_D00259,Betaine,BADD_A03812,Respiratory distress,247
+BADD_D00443,Chlorothiazide sodium,BADD_A03812,Respiratory distress,23675744
+BADD_D00523,Colistimethate,BADD_A03812,Respiratory distress,70789202
+BADD_D00645,Diatrizoate meglumine,BADD_A03812,Respiratory distress,8566
+BADD_D01999,Secretin,BADD_A03812,Respiratory distress,16129665
+BADD_D00309,Bupivacaine hydrochloride,BADD_A03815,Respiratory paralysis,64737
+BADD_D00747,Edrophonium,BADD_A03815,Respiratory paralysis,3202
+BADD_D01808,Potassium cation,BADD_A03815,Respiratory paralysis,813
+BADD_D00025,Acetazolamide,BADD_A03817,Respiratory disorders NEC,1986
+BADD_D00030,Acetylcholine,BADD_A03817,Respiratory disorders NEC,187
+BADD_D00031,Acetylcholine chloride,BADD_A03817,Respiratory disorders NEC,6060
+BADD_D00048,Aflibercept,BADD_A03817,Respiratory disorders NEC,Not Available
+BADD_D00063,Alectinib hydrochloride,BADD_A03817,Respiratory disorders NEC,53239799
+BADD_D00104,Amikacin sulfate,BADD_A03817,Respiratory disorders NEC,38351
+BADD_D00144,Antagon,BADD_A03817,Respiratory disorders NEC,16130965
+BADD_D00150,Antivenin (micrurus fulvius),BADD_A03817,Respiratory disorders NEC,Not Available
+BADD_D00179,Atezolizumab,BADD_A03817,Respiratory disorders NEC,Not Available
+BADD_D00202,Azilsartan medoxomil,BADD_A03817,Respiratory disorders NEC,135409642
+BADD_D00241,Benzoyl peroxide,BADD_A03817,Respiratory disorders NEC,7187
+BADD_D00246,Benzydamine,BADD_A03817,Respiratory disorders NEC,12555
+BADD_D00250,Benzylpenicilloyl g,BADD_A03817,Respiratory disorders NEC,119212
+BADD_D00251,Benzylpenicilloyl polylysine,BADD_A03817,Respiratory disorders NEC,45266800
+BADD_D00272,Bicisate dihydrochloride,BADD_A03817,Respiratory disorders NEC,71586979
+BADD_D00320,Butabarbital sodium,BADD_A03817,Respiratory disorders NEC,23690439
+BADD_D00326,Butylscopolamine bromide,BADD_A03817,Respiratory disorders NEC,656587
+BADD_D00352,Capromab pendetide,BADD_A03817,Respiratory disorders NEC,135509147
+BADD_D00363,Carbonic acid,BADD_A03817,Respiratory disorders NEC,767
+BADD_D00393,Cefoxitin,BADD_A03817,Respiratory disorders NEC,441199
+BADD_D00394,Cefoxitin sodium,BADD_A03817,Respiratory disorders NEC,23667300
+BADD_D00401,Ceftibuten dihydrate,BADD_A03817,Respiratory disorders NEC,5282241
+BADD_D00404,Ceftobiprole,BADD_A03817,Respiratory disorders NEC,135413542
+BADD_D00477,Citric acid,BADD_A03817,Respiratory disorders NEC,311
+BADD_D00482,Clevidipine,BADD_A03817,Respiratory disorders NEC,153994
+BADD_D00490,Clobetasol propionate,BADD_A03817,Respiratory disorders NEC,32798
+BADD_D00539,Cromolyn sodium,BADD_A03817,Respiratory disorders NEC,27503
+BADD_D00588,Dasabuvir,BADD_A03817,Respiratory disorders NEC,56640146
+BADD_D00632,Dexpanthenol,BADD_A03817,Respiratory disorders NEC,131204
+BADD_D00650,Dibasic potassium phosphate,BADD_A03817,Respiratory disorders NEC,24450
+BADD_D00660,Dicyclomine hydrochloride,BADD_A03817,Respiratory disorders NEC,441344
+BADD_D00675,Diltiazem hydrochloride,BADD_A03817,Respiratory disorders NEC,62920
+BADD_D00708,Dopamine,BADD_A03817,Respiratory disorders NEC,681
+BADD_D00709,Dopamine hydrochloride,BADD_A03817,Respiratory disorders NEC,65340
+BADD_D00737,Dyphylline,BADD_A03817,Respiratory disorders NEC,3182
+BADD_D00796,Ergotamine,BADD_A03817,Respiratory disorders NEC,8223
+BADD_D00801,Erlotinib hydrochloride,BADD_A03817,Respiratory disorders NEC,176871
+BADD_D00884,Ferric pyrophosphate,BADD_A03817,Respiratory disorders NEC,24877
+BADD_D00896,Fidaxomicin,BADD_A03817,Respiratory disorders NEC,151383
+BADD_D01032,Glycerol phenylbutyrate,BADD_A03817,Respiratory disorders NEC,10482134
+BADD_D01037,Gonadotrophin chorionic,BADD_A03817,Respiratory disorders NEC,Not Available
+BADD_D01041,Granisetron hydrochloride,BADD_A03817,Respiratory disorders NEC,6918003
+BADD_D01043,Guaifenesin,BADD_A03817,Respiratory disorders NEC,3516
+BADD_D01082,Hydralazine hydrochloride,BADD_A03817,Respiratory disorders NEC,9351
+BADD_D01176,Iodipamide,BADD_A03817,Respiratory disorders NEC,3739
+BADD_D01226,Kanamycin,BADD_A03817,Respiratory disorders NEC,6032
+BADD_D01227,Kanamycin sulfate,BADD_A03817,Respiratory disorders NEC,441374
+BADD_D01276,Levoleucovorin,BADD_A03817,Respiratory disorders NEC,135398559
+BADD_D01283,Levorphanol tartrate,BADD_A03817,Respiratory disorders NEC,5462348
+BADD_D01327,Loxapine succinate,BADD_A03817,Respiratory disorders NEC,71399
+BADD_D01337,Mafenide,BADD_A03817,Respiratory disorders NEC,3998
+BADD_D01338,Mafenide acetate,BADD_A03817,Respiratory disorders NEC,25590
+BADD_D01342,Magnesium hydroxide,BADD_A03817,Respiratory disorders NEC,14791
+BADD_D01353,Mebendazole,BADD_A03817,Respiratory disorders NEC,4030
+BADD_D01358,Mecasermin,BADD_A03817,Respiratory disorders NEC,Not Available
+BADD_D01361,Meclizine,BADD_A03817,Respiratory disorders NEC,4034
+BADD_D01487,Molindone,BADD_A03817,Respiratory disorders NEC,23897
+BADD_D01540,Natrecor,BADD_A03817,Respiratory disorders NEC,91976508
+BADD_D01559,Niacin,BADD_A03817,Respiratory disorders NEC,938
+BADD_D01575,Nitrite,BADD_A03817,Respiratory disorders NEC,946
+BADD_D01577,Nitrofurantoin (macrocrystals),BADD_A03817,Respiratory disorders NEC,6604200
+BADD_D01588,Nortriptyline,BADD_A03817,Respiratory disorders NEC,4543
+BADD_D01666,Panitumumab,BADD_A03817,Respiratory disorders NEC,Not Available
+BADD_D01671,Papaverine hydrochloride,BADD_A03817,Respiratory disorders NEC,6084
+BADD_D01727,Pentobarbital sodium,BADD_A03817,Respiratory disorders NEC,23676152
+BADD_D01753,Phenobarbital sodium,BADD_A03817,Respiratory disorders NEC,23674889
+BADD_D01766,Phenytoin sodium,BADD_A03817,Respiratory disorders NEC,657302
+BADD_D01770,Phytonadione,BADD_A03817,Respiratory disorders NEC,5284607
+BADD_D01794,Polymyxin b,BADD_A03817,Respiratory disorders NEC,49800004
+BADD_D01795,Polymyxin b sulfate,BADD_A03817,Respiratory disorders NEC,3083708
+BADD_D01809,Potassium chloride,BADD_A03817,Respiratory disorders NEC,4873
+BADD_D01812,Potassium phosphate monobasic,BADD_A03817,Respiratory disorders NEC,516951
+BADD_D01815,Pralidoxime,BADD_A03817,Respiratory disorders NEC,4884
+BADD_D01816,Pralidoxime chloride,BADD_A03817,Respiratory disorders NEC,54072659
+BADD_D01827,Prazosin,BADD_A03817,Respiratory disorders NEC,4893
+BADD_D01828,Prazosin hydrochloride,BADD_A03817,Respiratory disorders NEC,68546
+BADD_D01840,Primidone,BADD_A03817,Respiratory disorders NEC,4909
+BADD_D01857,Propafenone hydrochloride,BADD_A03817,Respiratory disorders NEC,36708
+BADD_D01907,Raltitrexed,BADD_A03817,Respiratory disorders NEC,135400182
+BADD_D01918,Raxibacumab,BADD_A03817,Respiratory disorders NEC,Not Available
+BADD_D01926,Reserpine,BADD_A03817,Respiratory disorders NEC,5770
+BADD_D01932,Rho (d) immune globulin (human),BADD_A03817,Respiratory disorders NEC,Not Available
+BADD_D01998,Secobarbital sodium,BADD_A03817,Respiratory disorders NEC,14148199
+BADD_D02027,Sincalide,BADD_A03817,Respiratory disorders NEC,9833444
+BADD_D02045,Sodium nitrite,BADD_A03817,Respiratory disorders NEC,23668193
+BADD_D02052,Sodium;oxido(oxo)azanium,BADD_A03817,Respiratory disorders NEC,4517618
+BADD_D02136,Tedizolid phosphate,BADD_A03817,Respiratory disorders NEC,11476460
+BADD_D02193,Thallous chloride,BADD_A03817,Respiratory disorders NEC,24642
+BADD_D02204,Thiothixene,BADD_A03817,Respiratory disorders NEC,5454
+BADD_D02226,Tipranavir,BADD_A03817,Respiratory disorders NEC,54682461
+BADD_D02262,Tranylcypromine,BADD_A03817,Respiratory disorders NEC,5530
+BADD_D02401,Coenzyme M,BADD_A03817,Respiratory disorders NEC,598
+BADD_D02418,Doxylamine,BADD_A03817,Respiratory disorders NEC,3162
+BADD_D02446,Prasterone,BADD_A03817,Respiratory disorders NEC,5881
+BADD_D02463,Pitavastatin,BADD_A03817,Respiratory disorders NEC,5282452
+BADD_D02466,Levomilnacipran,BADD_A03817,Respiratory disorders NEC,6917779
+BADD_D02472,Sonidegib,BADD_A03817,Respiratory disorders NEC,24775005
+BADD_D02488,Esketamine,BADD_A03817,Respiratory disorders NEC,182137
+BADD_D02491,Valbenazine,BADD_A03817,Respiratory disorders NEC,24795069
+BADD_D02494,Delafloxacin,BADD_A03817,Respiratory disorders NEC,487101
+BADD_D02495,Duvelisib,BADD_A03817,Respiratory disorders NEC,50905713
+BADD_D02499,Fostamatinib,BADD_A03817,Respiratory disorders NEC,11671467
+BADD_D02532,Belumosudil,BADD_A03817,Respiratory disorders NEC,11950170
+BADD_D02535,Binimetinib,BADD_A03817,Respiratory disorders NEC,10288191
+BADD_D02538,Calcifediol,BADD_A03817,Respiratory disorders NEC,5283731
+BADD_D02549,Deucravacitinib,BADD_A03817,Respiratory disorders NEC,134821691
+BADD_D02557,Finerenone,BADD_A03817,Respiratory disorders NEC,60150535
+BADD_D02561,Isavuconazole,BADD_A03817,Respiratory disorders NEC,6918485
+BADD_D02563,Lemborexant,BADD_A03817,Respiratory disorders NEC,56944144
+BADD_D02564,Lofexidine,BADD_A03817,Respiratory disorders NEC,30668
+BADD_D02570,Maralixibat,BADD_A03817,Respiratory disorders NEC,9831643
+BADD_D02579,Oxymetazoline,BADD_A03817,Respiratory disorders NEC,4636
+BADD_D02605,Vericiguat,BADD_A03817,Respiratory disorders NEC,54674461
+BADD_D02608,Voclosporin,BADD_A03817,Respiratory disorders NEC,6918486
+BADD_D02611,Aluminum hydroxide,BADD_A03817,Respiratory disorders NEC,10176082
+BADD_D02624,Iodine,BADD_A03817,Respiratory disorders NEC,807
+BADD_D02630,Oxyphenbutazone,BADD_A03817,Respiratory disorders NEC,4641
+BADD_D02633,Propylene glycol,BADD_A03817,Respiratory disorders NEC,1030
+BADD_D02634,Rolitetracycline,BADD_A03817,Respiratory disorders NEC,54682938
+BADD_D02641,Xylometazoline,BADD_A03817,Respiratory disorders NEC,5709
+BADD_D00040,Acyclovir sodium,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",23665721
+BADD_D00075,Alitretinoin,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",449171
+BADD_D00081,Alomide,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",44563
+BADD_D00109,Aminohippuric acid,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",2148
+BADD_D00119,Amitriptyline hydrochloride,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",11065
+BADD_D00120,Amlexanox,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",2161
+BADD_D00128,Amoxapine,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",2170
+BADD_D00134,Ampicillin sodium,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",23663979
+BADD_D00136,Amprenavir,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",65016
+BADD_D00162,Arginine,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",6322
+BADD_D00177,Atazanavir sulfate,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",158550
+BADD_D00244,Benztropine,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",1201549
+BADD_D00273,Biguanide,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",5939
+BADD_D00327,C1 esterase inhibitor (recombinant),BADD_A03824,"Respiratory, thoracic and mediastinal disorders",Not Available
+BADD_D00360,Carbimazole,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",31072
+BADD_D00409,Cefuroxime sodium,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",23670318
+BADD_D00427,Cherry menthol,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",Not Available
+BADD_D00428,Chloral hydrate,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",2707
+BADD_D00431,Chloramphenicol sodium succinate,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",656833
+BADD_D00432,Chlordiazepoxide,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",2712
+BADD_D00441,Chloroquine phosphate,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",64927
+BADD_D00449,Chlorzoxazone,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",2733
+BADD_D00470,Cinoxacin,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",2762
+BADD_D00486,Clindamycin palmitate hydrochloride (pediatric),BADD_A03824,"Respiratory, thoracic and mediastinal disorders",16052038
+BADD_D00508,Clostridium tetani toxoid immune globulin (human),BADD_A03824,"Respiratory, thoracic and mediastinal disorders",Not Available
+BADD_D00529,Copper,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",23978
+BADD_D00532,Cortisone,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",222786
+BADD_D00565,Dabigatran etexilate mesylate,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",213023
+BADD_D00587,Darunavir ethanolate,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",23725083
+BADD_D00622,Desvenlafaxine succinate,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",9800068
+BADD_D00688,Diphenoxylate hydrochloride,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",6432394
+BADD_D00714,Dothiepin hydrochloride,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",6420022
+BADD_D00726,Doxycycline calcium,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",54694363
+BADD_D00728,Doxycycline monohydrate,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",54684461
+BADD_D00743,Edetate calcium disodium,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",6093170
+BADD_D00745,Edetic acid,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",6049
+BADD_D00827,Estramustine phosphate,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",259329
+BADD_D00862,Exenatide,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",45588096
+BADD_D00909,Flucaonazole,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",Not Available
+BADD_D00934,Fluoxymesterone,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",6446
+BADD_D00961,Fosamprenavir calcium,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",131535
+BADD_D00980,Fusidic acid,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",3000226
+BADD_D01002,Gamma-aminobutyric acid,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",119
+BADD_D01028,Glucarpidase,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",21195079
+BADD_D01042,Griseofulvin,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",441140
+BADD_D01048,Guanidine,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",3520
+BADD_D01049,Guanidine hydrochloride,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",5742
+BADD_D01074,Histrelin acetate,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",25084151
+BADD_D01077,Honey lemon menthol,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",Not Available
+BADD_D01078,Hyaluronidase,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",91820602
+BADD_D01079,Hyaluronidase (human recombinant),BADD_A03824,"Respiratory, thoracic and mediastinal disorders",Not Available
+BADD_D01080,Hyaluronidase (ovine),BADD_A03824,"Respiratory, thoracic and mediastinal disorders",Not Available
+BADD_D01115,Hyoscyamine sulfate,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",11479437
+BADD_D01125,Icosapent,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",446284
+BADD_D01179,Ioflupane i-123,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",3086674
+BADD_D01219,Ivabradine hydrochloride,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",3045381
+BADD_D01234,Ketotifen,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",3827
+BADD_D01235,Kinetin,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",3830
+BADD_D01306,Lixisenatide,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",90472060
+BADD_D01307,Lodoxamide,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",44564
+BADD_D01308,Lodoxamide tromethamine,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",11192129
+BADD_D01314,Loperamide cation,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",3954
+BADD_D01315,Loperamide hydrochloride,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",71420
+BADD_D01321,Lormetazepam,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",13314
+BADD_D01331,Lurasidone hydrochloride,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",11237860
+BADD_D01333,Lymecycline,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",54707177
+BADD_D01354,Mebeverine,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",4031
+BADD_D01426,Methyldopate hydrochloride,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",17276
+BADD_D01451,Metyrosine,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",441350
+BADD_D01456,Micafungin sodium,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",23666118
+BADD_D01469,Miltefosine,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",3599
+BADD_D01474,Mipomersen sodium,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",44564107
+BADD_D01647,Oxymetholone,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",5281034
+BADD_D01650,Oxytetracycline,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",54675779
+BADD_D01651,Oxytetracycline hydrochloride,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",54680782
+BADD_D01708,Penciclovir,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",135398748
+BADD_D01713,Penicillin g procaine,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",22502
+BADD_D01716,Penicillin v potassium,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",23676814
+BADD_D01754,Phenoxybenzamine,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",4768
+BADD_D01755,Phenoxybenzamine hydrochloride,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",5284441
+BADD_D01759,Phentolamine mesylate,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",91430
+BADD_D01775,Pinaverium bromide,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",40703
+BADD_D01779,Piperacillin,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",43672
+BADD_D01833,Prednisolone sodium phosphate,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",441409
+BADD_D01900,Rabies virus immune globulin (human),BADD_A03824,"Respiratory, thoracic and mediastinal disorders",Not Available
+BADD_D01972,Rosuvastatin calcium,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",5282455
+BADD_D02039,Sodium fluoride,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",5235
+BADD_D02071,Streptomycin,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",19649
+BADD_D02072,Streptomycin sulfate,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",19648
+BADD_D02161,Terbinafine hydrochloride,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",5282481
+BADD_D02180,Tetracycline anion,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",27885548
+BADD_D02181,Tetracycline hydrochloride,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",54704426
+BADD_D02196,Thiabendazole,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",5430
+BADD_D02294,Trimipramine,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",5584
+BADD_D02311,Tuberculin purified protein derivative,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",Not Available
+BADD_D02372,Vortioxetine hydrobromide,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",56843850
+BADD_D02450,Crisaborole,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",44591583
+BADD_D02475,Methylene blue,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",6099
+BADD_D02484,Istradefylline,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",5311037
+BADD_D02533,Bempedoic acid,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",10472693
+BADD_D02550,Diroximel fumarate,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",73330464
+BADD_D02576,Opicapone,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",135565903
+BADD_D02581,Pacritinib,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",46216796
+BADD_D02600,Tivozanib,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",9911830
+BADD_D02623,Hydrogen peroxide,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",784
+BADD_D02636,Sulfisoxazole,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",5344
+BADD_D02638,Thioproperazine,BADD_A03824,"Respiratory, thoracic and mediastinal disorders",9429
+BADD_D01464,Miglitol,BADD_A04681,Pneumoperitoneum,441314
+BADD_D02462,Methylnaltrexone,BADD_A04681,Pneumoperitoneum,5361918

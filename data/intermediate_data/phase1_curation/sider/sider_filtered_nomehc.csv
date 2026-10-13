@@ -1,0 +1,365 @@
+STITCH_ID,Drug_Name,SMILES,Respiratory_Patterns
+CID100000159,prostacyclin,CCCCCC(C=CC1C(CC2C1CC(=CCCCC(=O)O)O2)O)O,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100000206,glucose,C(C1C(C(C(C(O1)O)O)O)O)O,Pulmonary embolism
+CID100000444,bupropion,CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C,Pulmonary embolism
+CID100000450,estradiol,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O,Pulmonary embolism
+CID100000453,mannitol,C(C(C(C(C(CO)O)O)O)O)O,Pulmonary oedema
+CID100000564,EACA,C(CCC(=O)O)CCN,Pulmonary embolism
+CID100000596,cytarabine,C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)O,Interstitial pneumonia; Pulmonary oedema
+CID100000698,estrone,CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4)O,Pulmonary embolism
+CID100000699,Oestrogen,CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4)OS(=O)(=O)O,Pulmonary embolism
+CID100000700,monoethanolamine,C(CO)N,Pleural effusion
+CID100000772,LMWH,CC(=O)NC1C(C(C(OC1O)COS(=O)(=O)O)OC2C(C(C(C(O2)C(=O)O)OC3C(C(C(C(O3)CO)OC4C(C(C(C(O4)C(=O)O)O)O)OS(=O)(=O)O)OS(=O)(=O)O)NS(=O)(=O)O)O)OS(=O)(=O)O)O,Pulmonary oedema
+CID100000838,epinephrine,CNCC(C1=CC(=C(C=C1)O)O)O,Pulmonary oedema
+CID100001065,quinidine,COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O,Pulmonary oedema
+CID100001130,thiamine,CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCO,Pulmonary oedema
+CID100001301,naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)[O-].[Na+],Pulmonary oedema
+CID100001546,cladribine,C1C(C(OC1N2C=NC3=C(N=C(N=C32)Cl)N)CO)O,Pulmonary embolism
+CID100001690,doxorubicin,CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)[NH3+])O,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100001775,phenytoin,C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3,Pulmonary embolism
+CID100001805,5-azacytidine,C1=NC(=NC(=O)N1C2C(C(C(O2)CO)O)O)N,Pleural effusion
+CID100001972,amphotericin,CC1C=CC=CC=CC=CC=CC=CC=CC(CC2C(C(CC(O2)(CC(CC(C(CCC(CC(CC(=O)OC(C(C1O)C)C)O)O)O)O)O)O)O)C(=O)O)OC3C(C(C(C(O3)C)O)N)O,Pleural effusion; Pulmonary oedema
+CID100001983,acetaminophen,CC(=O)NC1=CC=C(C=C1)O,Pleural effusion; Pulmonary oedema
+CID100002022,acyclovir,C1=NC2=C(N1COCCO)NC(=NC2=O)N,Pulmonary oedema
+CID100002083,salbutamol,CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O,Pulmonary oedema
+CID100002094,allopurinol,C1=C2C(=NC=NC2=O)NN1,Pulmonary embolism
+CID100002130,amantadine,C1C2CC3CC1CC(C2)(C3)N,Pulmonary oedema
+CID100002140,diatrizoate,CC(=O)NC1=C(C(=C(C(=C1I)C(=O)O)I)NC(=O)C)I,Pulmonary embolism; Pulmonary oedema
+CID100002156,amiodarone,CCCCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)OCC[NH+](CC)CC)I,Interstitial pneumonia; Pleural effusion; Pulmonary oedema
+CID100002159,amisulpride,CCN1CCCC1CNC(=O)C2=CC(=C(C=C2OC)N)S(=O)(=O)CC,Pulmonary embolism
+CID100002182,anagrelide,C1C2=C(C=CC(=C2Cl)Cl)NC3=NC(=O)CN31,Interstitial pneumonia; Pleural effusion
+CID100002187,anastrozole,CC(C)(C#N)C1=CC(=CC(=C1)CN2C=NC=N2)C(C)(C)C#N,Pulmonary embolism
+CID100002232,argatroban,CC1CCN(C(C1)C(=O)O)C(=O)C(CCCN=C(N)N)NS(=O)(=O)C2=CC=CC3=C2NCC(C3)C,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100002249,atenolol,CC(C)NCC(COC1=CC=C(C=C1)CC(=O)N)O,Pulmonary oedema
+CID100002265,azathioprine,CN1C=NC(=C1SC2=NC=NC3=C2NC=N3)[N+](=O)[O-],Interstitial pneumonia
+CID100002269,azithromycin,CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O,Pleural effusion
+CID100002284,baclofen,C1=CC(=CC=C1C(CC(=O)O)CN)Cl,Pulmonary embolism
+CID100002349,penicillin,CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C,Pulmonary embolism
+CID100002375,bicalutamide,CC(CS(=O)(=O)C1=CC=C(C=C1)F)(C(=O)NC2=CC(=C(C=C2)C#N)C(F)(F)F)O,Interstitial pneumonia; Pleural effusion
+CID100002405,bisoprolol,CC(C)NCC(COC1=CC=C(C=C1)COCCOC(C)C)O,Pulmonary oedema
+CID100002443,bromocriptine,CC(C)CC1C(=O)N2CCCC2C3(N1C(=O)C(O3)(C(C)C)NC(=O)C4CN(C5CC6=C(NC7=CC=CC(=C67)C5=C4)Br)C)O,Pleural effusion
+CID100002474,bupivacaine,CCCCN1CCCCC1C(=O)NC2=C(C=CC=C2C)C,Pulmonary oedema
+CID100002478,busulfan,CS(=O)(=O)OCCCCOS(=O)(=O)C,Interstitial pneumonia; Pleural effusion; Pulmonary oedema
+CID100002512,cabergoline,CCNC(=O)N(CCCN(C)C)C(=O)C1CC2C(CC3=CNC4=CC=CC2=C34)N(C1)CC=C,Pleural effusion
+CID100002519,caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Pulmonary oedema
+CID100002520,verapamil,CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC,Pulmonary oedema
+CID100002540,candesartan,CCOC1=NC2=CC=CC(=C2N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NNN=N5)C(=O)OC(C)OC(=O)OC6CCCCC6,Pulmonary oedema
+CID100002554,carbamazepine,C1=CC=C2C(=C1)C=CC3=CC=CC=C3N2C(=O)N,Pulmonary embolism; Pulmonary oedema
+CID100002578,BCNU,C(CCl)NC(=O)N(CCCl)N=O,Pulmonary embolism
+CID100002585,carvedilol,COC1=CC=CC=C1OCCNCC(COC2=CC=CC3=C2C4=CC=CC=C4N3)O,Interstitial pneumonia; Pulmonary oedema
+CID100002662,celecoxib,CC1=CC=C(C=C1)C2=CC(=NN2C3=CC=C(C=C3)S(=O)(=O)N)C(F)(F)F,Pulmonary embolism
+CID100002684,cevimeline,CC1OC2(CN3CCC2CC3)CS1,Pleural effusion; Pulmonary embolism
+CID100002708,chlorambucil,C1=CC(=CC=C1CCCC(=O)O)N(CCCl)CCCl,Interstitial pneumonia
+CID100002720,thiazide,C1=C2C(=CC(=C1Cl)S(=O)(=O)N)S(=O)(=O)N=CN2,Pulmonary oedema
+CID100002732,chlorthalidone,C1=CC=C2C(=C1)C(=O)NC2(C3=CC(=C(C=C3)Cl)S(=O)(=O)N)O,Pulmonary oedema
+CID100002754,cilostazol,C1CCC(CC1)N2C(=NN=N2)CCCCOC3=CC4=C(C=C3)NC(=O)CC4,Interstitial pneumonia
+CID100002764,ciprofloxacin,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100002771,citalopram,CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F,Pulmonary embolism
+CID100002800,clomiphene,CCN(CC)CCOC1=CC=C(C=C1)C(=C(C2=CC=CC=C2)Cl)C3=CC=CC=C3,Pulmonary embolism
+CID100002806,clopidogrel,COC(=O)C(C1=CC=CC=C1Cl)N2CCC3=C(C2)C=CS3,Interstitial pneumonia; Pulmonary embolism; Pulmonary oedema
+CID100002818,clozapine,CN1CCN(CC1)C2=C3C=CC=CC3=NC4=C(N2)C=C(C=C4)Cl,Pleural effusion; Pulmonary embolism
+CID100002891,cyanocobalamin,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)(O)OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=N7)C=C8C(C(C(=N8)C(=C4[N-]5)C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+2],Pulmonary oedema
+CID100002907,cyclophosphamide,C1CNP(=O)(OC1)N(CCCl)CCCl,Interstitial pneumonia; Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100002914,cyproterone,CC(=O)C1(CCC2C1(CCC3C2C=C(C4=CC(=O)C5CC5C34C)Cl)C)OC(=O)C,Pulmonary embolism
+CID100002949,danazol,CC12CCC3C(C1CCC2(C#C)O)CCC4=CC5=C(CC34C)C=NO5,Interstitial pneumonia
+CID100002951,dantrolene,C1C(=NC(=O)N1N=CC2=CC=C(O2)C3=CC=C(C=C3)[N+](=O)[O-])[O-],Pleural effusion; Pulmonary oedema
+CID100002972,deferiprone,CC1=C(C(=O)C=CN1C)O,Pulmonary embolism
+CID100003003,dexamethasone,CC1CC2C3CCC4=CC(=O)C=CC4(C3(C(CC2(C1(C(=O)CO)O)C)O)F)C,Pulmonary oedema
+CID100003108,dipyridamole,C1CCN(CC1)C2=NC(=NC3=C2N=C(N=C3N4CCCCC4)N(CCO)CCO)N(CCO)CCO,Pulmonary oedema
+CID100003121,valproate,CCCC(CCC)C(=O)O,Pleural effusion
+CID100003143,docetaxel,CC1=C2C(C(=O)C3(C(CC4C(C3C(C(C2(C)C)(CC1OC(=O)C(C(C5=CC=CC=C5)NC(=O)OC(C)(C)C)O)O)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)O)C)O,Interstitial pneumonia; Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100003154,dorzolamide,CCNC1CC(S(=O)(=O)C2=C1C=C(S2)S(=O)(=O)N)C,Pulmonary oedema
+CID100003199,trabectedin,CC1=CC2=C(C3C4C5C6=C(C(=C7C(=C6C(N4C(C(C2)N3C)O)COC(=O)C8(CS5)C9=CC(=C(C=C9CCN8)O)OC)OCO7)C)OC(=O)C)C(=C1OC)O,Pulmonary embolism; Pulmonary oedema
+CID100003222,CAS,CCOC(=O)C(CCC1=CC=CC=C1)NC(C)C(=O)N2CCCC2C(=O)O,Pulmonary embolism; Pulmonary oedema
+CID100003250,ergonovine,CC(CO)NC(=O)C1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C,Pulmonary oedema
+CID100003263,estradiol,CC12CCC3C(C1CCC2OC(=O)CCC4CCCC4)CCC5=C3C=CC(=C5)O,Pulmonary embolism
+CID100003267,estradiol,CCCCC(=O)OC1CCC2C1(CCC3C2CCC4=C3C=CC(=C4)O)C,Pulmonary embolism
+CID100003269,estriol,CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)O,Pulmonary embolism
+CID100003310,etoposide,CC1OCC2C(O1)C(C(C(O2)OC3C4COC(=O)C4C(C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)O)OC)O)O,Interstitial pneumonia
+CID100003325,famotidine,C1=C(N=C(S1)N=C(N)N)CSCCC(=NS(=O)(=O)N)N,Interstitial pneumonia
+CID100003331,felbamate,C1=CC=C(C=C1)C(COC(=O)N)COC(=O)N,Pleural effusion
+CID100003339,fenofibrate,CC(C)OC(=O)C(C)(C)OC1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl,Pulmonary embolism
+CID100003342,fenoprofen,CC(C1=CC(=CC=C1)OC2=CC=CC=C2)C(=O)O,Pulmonary oedema
+CID100003345,fentanyl,CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3,Pleural effusion; Pulmonary embolism
+CID100003355,flecainide,C1CCNC(C1)C[NH2+]C(=O)C2=C(C=CC(=C2)OCC(F)(F)F)OCC(F)(F)F,Pulmonary oedema
+CID100003385,5-FU,C1=C(C(=O)NC(=O)N1)F,Pulmonary oedema
+CID100003386,fluoxetine,CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100003388,fluphenazine,CCCCCCCCCC(=O)OCCN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F)F,Pulmonary embolism
+CID100003394,flurbiprofen,CC(C1=CC(=C(C=C1)C2=CC=CC=C2)F)C(=O)O,Pulmonary embolism
+CID100003397,flutamide,CC(C)C(=O)NC1=CC(=C(C=C1)[N+](=O)[O-])C(F)(F)F,Pulmonary embolism
+CID100003419,fosinopril,CCC(=O)OC(C(C)C)OP(=O)(CCCCC1=CC=CC=C1)CC(=O)N2CC(CC2C(=O)[O-])C3CCCCC3,Pulmonary oedema
+CID100003425,Romidepsin,CC=C1C(=O)NC(C(=O)OC2CC(=O)NC(C(=O)NC(CSSCCC=C2)C(=O)N1)C(C)C)C(C)C,Pulmonary embolism
+CID100003446,gabapentin,C1CCC(CC1)(CC(=O)O)CN,Pulmonary embolism; Pulmonary oedema
+CID100003454,ganciclovir,C1=NC2=C(N1COC(CO)CO)NC(=NC2=O)N,Pleural effusion
+CID100003461,gemcitabine,C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)(F)F,Interstitial pneumonia; Pleural effusion; Pulmonary oedema
+CID100003517,icodextrin,C1=CC(=C(C(=C1)Cl)C=NN=C(N)N)Cl,Pulmonary oedema
+CID100003639,hydrochlorothiazide,C1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl,Pulmonary oedema
+CID100003640,cortisol,CC12CCC(=O)C=C1CCC3C2C(CC4(C3CCC4(C(=O)CO)O)C)O,Pulmonary oedema
+CID100003648,hydromorphone,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(=O)CC4,Pulmonary oedema
+CID100003657,hydroxyurea,C(=O)(N)NO,Pulmonary oedema
+CID100003661,atropine,CN1C2CCC1CC(C2)OC(=O)C(CO)C3=CC=CC=C3,Pulmonary oedema
+CID100003690,ifosfamide,C1CN(P(=O)(OC1)NCCCl)CCCl,Interstitial pneumonia; Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100003715,indomethacin,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O,Pulmonary oedema
+CID100003724,iodixanol,CC(=O)N(CC(CN(C1=C(C(=C(C(=C1I)C(=O)NCC(CO)O)I)C(=O)NCC(CO)O)I)C(=O)C)O)C2=C(C(=C(C(=C2I)C(=O)NCC(CO)O)I)C(=O)NCC(CO)O)I,Pulmonary oedema
+CID100003730,iohexol,CC(=O)N(CC(CO)O)C1=C(C(=C(C(=C1I)C(=O)NCC(CO)O)I)C(=O)NCC(CO)O)I,Pulmonary oedema
+CID100003734,iopamidol,CC(C(=O)NC1=C(C(=C(C(=C1I)C(=O)NC(CO)CO)I)C(=O)NC(CO)CO)I)O,Pulmonary oedema
+CID100003736,iopromide,CN(CC(CO)O)C(=O)C1=C(C(=C(C(=C1I)C(=O)NCC(CO)O)I)NC(=O)COC)I,Pleural effusion; Pulmonary oedema
+CID100003737,sodium,CC(=O)NC1=C(C(=C(C(=C1I)C(=O)O)I)C(=O)NC)I,Pulmonary oedema
+CID100003741,ioversol,C(CO)N(C1=C(C(=C(C(=C1I)C(=O)NCC(CO)O)I)C(=O)NCC(CO)O)I)C(=O)CO,Pulmonary oedema
+CID100003742,ioxaglate,CC(=O)N(C)C1=C(C(=C(C(=C1I)C(=O)NCC(=O)NC2=C(C(=C(C(=C2I)C(=O)O)I)C(=O)NCCO)I)I)C(=O)NC)I,Pulmonary oedema
+CID100003749,irbesartan,CCCCC1=NC2(CCCC2)C(=O)N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NNN=N5,Pulmonary oedema
+CID100003750,irinotecan,CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)C4(CC)O)C2=NC5=C1C=C(C=C5)OC(=O)N6CCC(CC6)N7CCCCC7,Pulmonary embolism
+CID100003779,isoproterenol,CC(C)NCC(C1=CC(=C(C=C1)O)O)O,Pulmonary oedema
+CID100003783,isoxsuprine,CC(COC1=CC=CC=C1)NC(C)C(C2=CC=C(C=C2)O)O,Pulmonary oedema
+CID100003793,itraconazole,CCC(C)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OCC5COC(O5)(CN6C=NC=N6)C7=C(C=C(C=C7)Cl)Cl,Pulmonary oedema
+CID100003826,ketorolac,C1CN2C(=CC=C2C(=O)C3=CC=CC=C3)C1C(=O)O,Pulmonary oedema
+CID100003883,lansoprazole,CC1=C(C=CN=C1CS(=O)C2=NC3=CC=CC=C3N2)OCC(F)(F)F,Interstitial pneumonia
+CID100003899,leflunomide,CC1=C(C=NO1)C(=O)NC2=CC=C(C=C2)C(F)(F)F,Interstitial pneumonia
+CID100003902,letrozole,C1=CC(=CC=C1C#N)C(C2=CC=C(C=C2)C#N)N3C=NC=N3,Pleural effusion; Pulmonary embolism
+CID100003911,Leuprorelin,CCNC(=O)C1CCCN1C(=O)C(CCCN=C(N)N)NC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(CC2=CC=C(C=C2)O)NC(=O)C(CO)NC(=O)C(CC3=CNC4=CC=CC=C43)NC(=O)C(CC5=CN=CN5)NC(=O)C6CCC(=O)N6,Pulmonary embolism
+CID100003937,Lisinopril,C1CC(N(C1)C(=O)C(CCCCN)NC(CCC2=CC=CC=C2)C(=O)O)C(=O)O,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100003938,lisuride,CCN(CC)C(=O)NC1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C,Pleural effusion
+CID100003948,lomefloxacin,CCN1C=C(C(=O)C2=CC(=C(C(=C21)F)N3CCNC(C3)C)F)C(=O)O,Pulmonary embolism; Pulmonary oedema
+CID100003958,lorazepam,C1=CC=C(C(=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O)Cl,Pulmonary oedema
+CID100003961,losartan,CCCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)CO)Cl,Pulmonary oedema
+CID100004011,maprotiline,CNCCCC12CCC(C3=CC=CC=C31)C4=CC=CC=C24,Interstitial pneumonia
+CID100004032,mecamylamine,CC1(C2CCC(C2)C1(C)NC)C,Pulmonary oedema
+CID100004042,medroxyprogesterone,CC1CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4(C1=CC(=O)CC4)C,Pulmonary embolism
+CID100004048,megestrol,CC1=CC2C(CCC3(C2CCC3(C(=O)C)OC(=O)C)C)C4(C1=CC(=O)CC4)C,Pulmonary embolism
+CID100004053,melphalan,C1=CC(=CC=C1CC(C(=O)O)N)N(CCCl)CCCl,Interstitial pneumonia
+CID100004054,memantine,CC12CC3CC(C1)(CC(C3)(C2)N)C,Pulmonary embolism; Pulmonary oedema
+CID100004075,5-ASA,C1=CC(=C(C=C1N)C(=O)O)O,Interstitial pneumonia; Pleural effusion
+CID100004095,methadone,CCC(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2,Pulmonary oedema
+CID100004112,methotrexate,CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)NC(CCC(=O)O)C(=O)O,Interstitial pneumonia; Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100004121,methyclothiazide,CN1C(NC2=CC(=C(C=C2S1(=O)=O)S(=O)(=O)N)Cl)CCl,Pulmonary oedema
+CID100004159,methylprednisolone,CC1CC2C3CCC(C3(CC(C2C4(C1=CC(=O)C=C4)C)O)C)(C(=O)CO)O,Pulmonary oedema
+CID100004163,methysergide,CCC(CO)NC(=O)C1CN(C2CC3=CN(C4=CC=CC(=C34)C2=C1)C)C,Pleural effusion
+CID100004201,minoxidil,C1CCN(CC1)C2=NC(=N)N(C(=C2)N)O,Pleural effusion
+CID100004205,mirtazapine,CN1CCN2C(C1)C3=CC=CC=C3CC4=C2N=CC=C4,Pulmonary embolism; Pulmonary oedema
+CID100004212,mitoxantrone,C1=CC(=C2C(=C1NCCNCCO)C(=O)C3=C(C=CC(=C3C2=O)O)O)NCCNCCO,Interstitial pneumonia
+CID100004253,morphine,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O,Pulmonary embolism; Pulmonary oedema
+CID100004259,moxifloxacin,COC1=C2C(=CC(=C1N3CC4CCCNC4C3)F)C(=O)C(=CN2C5CC5)C(=O)O,Pleural effusion
+CID100004271,mycophenolate,CC1=C2COC(=O)C2=C(C(=C1OC)CC=C(C)CCC(=O)OCCN3CCOCC3)O,Interstitial pneumonia; Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100004272,mycophenolic,CC1=C2COC(=O)C2=C(C(=C1OC)CC=C(C)CCC(=O)O)O,Pleural effusion; Pulmonary oedema
+CID100004409,nabumetone,CC(=O)CCC1=CC2=C(C=C1)C=C(C=C2)OC,Interstitial pneumonia
+CID100004411,nadolol,CC(C)(C)NCC(COC1=CC=CC2=C1CC(C(C2)O)O)O,Pulmonary oedema
+CID100004419,nalbuphine,C1CC(C1)CN2CCC34C5C(CCC3(C2CC6=C4C(=C(C=C6)O)O5)O)O,Pulmonary oedema
+CID100004425,naloxone,C=CCN1CCC23C4C(=O)CCC2(C1CC5=C3C(=C(C=C5)O)O4)O,Pulmonary oedema
+CID100004428,naltrexone,C1CC1CN2CCC34C5C(=O)CCC3(C2CC6=C4C(=C(C=C6)O)O5)O,Pulmonary embolism
+CID100004485,nifedipine,CC1=C(C(C(=C(N1)C)C(=O)OC)C2=CC=CC=C2[N+](=O)[O-])C(=O)OC,Pulmonary oedema
+CID100004493,nilutamide,CC1(C(=O)N(C(=O)N1)C2=CC(=C(C=C2)[N+](=O)[O-])C(F)(F)F)C,Interstitial pneumonia
+CID100004499,nisoldipine,CC1=C(C(C(=C(N1)C)C(=O)OCC(C)C)C2=CC=CC=C2[N+](=O)[O-])C(=O)OC,Pleural effusion
+CID100004509,nitrofurantoin,C1C(=O)NC(=O)N1N=CC2=CC=C(O2)[N+](=O)[O-],Interstitial pneumonia; Pleural effusion
+CID100004536,norethisterone,CC12CCC3C(C1CCC2(C#C)O)CCC4=CC(=O)CCC34,Pulmonary embolism
+CID100004583,ofloxacin,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O,Interstitial pneumonia; Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100004585,olanzapine,CC1=CC2=C(NC3=CC=CC=C3N=C2S1)N4CCN(CC4)C,Pulmonary embolism; Pulmonary oedema
+CID100004666,paclitaxel,CC1=C2C(C(=O)C3(C(CC4C(C3C(C(C2(C)C)(CC1OC(=O)C(C(C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C,Interstitial pneumonia; Pleural effusion; Pulmonary embolism
+CID100004673,pamidronate,C(CN)C(O)(P(=O)(O)[O-])P(=O)(O)[O-].[Na+].[Na+],Interstitial pneumonia; Pleural effusion; Pulmonary oedema
+CID100004691,paroxetine,C1CNCC(C1C2=CC=C(C=C2)F)COC3=CC4=C(C=C3)OCO4,Pulmonary embolism; Pulmonary oedema
+CID100004727,D-penicillamine,CC(C)(C(C(=O)O)N)S,Interstitial pneumonia
+CID100004735,pentamidine,C1=CC(=CC=C1C(=N)N)OCCCCCOC2=CC=C(C=C2)C(=N)N,Interstitial pneumonia
+CID100004739,pentostatin,C1C(C(OC1N2C=NC3=C2NC=NCC3O)CO)O,Pulmonary embolism
+CID100004745,pergolide,CCCN1CC(CC2C1CC3=CNC4=CC=CC2=C34)CSC,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100004747,propericiazine,C1CN(CCC1O)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C#N,Pulmonary embolism
+CID100004782,phenylephrine,CNCC(C1=CC(=CC=C1)O)O,Pulmonary oedema
+CID100004819,pilocarpine,CCC1C(COC1=O)CC2=CN=CN2C,Pulmonary oedema
+CID100004829,pioglitazone,CCC1=CN=C(C=C1)CCOC2=CC=C(C=C2)CC3C(=O)NC(=O)S3,Pulmonary oedema
+CID100004885,pramipexole,CCCNC1CCC2=C(C1)SC(=N2)N,Pulmonary embolism; Pulmonary oedema
+CID100004894,prednisolone,CC12CC(C3C(C1CCC2(C(=O)CO)O)CCC4=CC(=O)C=CC34C)O,Pulmonary oedema
+CID100004895,prednisolone,CC(=O)OCC(=O)C1(CCC2C1(CC(C3C2CCC4=CC(=O)C=CC34C)O)C)O,Pulmonary oedema
+CID100004900,prednisone,CC12CC(=O)C3C(C1CCC2(C(=O)CO)O)CCC4=CC(=O)C=CC34C,Pulmonary oedema
+CID100004913,procainamide,CCN(CC)CCNC(=O)C1=CC=C(C=C1)N,Pleural effusion
+CID100004915,procarbazine,CC(C)NC(=O)C1=CC=C(C=C1)CNNC,Pleural effusion
+CID100004917,prochlorperazine,CN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)Cl,Pulmonary embolism
+CID100004920,progesterone,CC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C,Pulmonary embolism
+CID100004932,propafenone,CCCNCC(COC1=CC=CC=C1C(=O)CCC2=CC=CC=C2)O,Pleural effusion
+CID100004943,propofol,CC(C)C1=C(C(=CC=C1)C(C)C)O,Pulmonary oedema
+CID100004991,pyridostigmine,C[N+]1=CC=CC(=C1)OC(=O)N(C)C,Pulmonary oedema
+CID100005002,quetiapine,C1CN(CCN1CCOCCO)C2=NC3=CC=CC=C3SC4=CC=CC=C42,Pulmonary embolism
+CID100005029,rabeprazole,CC1=C(C=CN=C1CS(=O)C2=NC3=CC=CC=C3N2)OCCCOC,Interstitial pneumonia; Pulmonary embolism
+CID100005035,raloxifene,C1CCN(CC1)CCOC2=CC=C(C=C2)C(=O)C3=C(SC4=C3C=CC(=C4)O)C5=CC=C(C=C5)O,Pulmonary embolism
+CID100005040,rapamycin,CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)O)C)C)O)OC)C)C)C)OC,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100005064,ribavirin,C1=NC(=NN1C2C(C(C(O2)CO)O)O)C(=O)N,Interstitial pneumonia; Pulmonary embolism; Pulmonary oedema
+CID100005070,riluzole,C1=CC2=C(C=C1OC(F)(F)F)SC(=N2)N,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100005073,risperidone,CC1=C(C(=O)N2CCCCC2=N1)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F,Pulmonary embolism; Pulmonary oedema
+CID100005076,ritonavir,CC(C)C1=NC(=CS1)CN(C)C(=O)NC(C(C)C)C(=O)NC(CC2=CC=CC=C2)CC(C(CC3=CC=CC=C3)NC(=O)OCC4=CN=CS4)O,Interstitial pneumonia
+CID100005077,rivastigmine,CCN(C)C(=O)OC1=CC=CC(=C1)C(C)N(C)C,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100005090,rofecoxib,CS(=O)(=O)C1=CC=C(C=C1)C2=C(C(=O)OC2)C3=CC=CC=C3,Pulmonary embolism; Pulmonary oedema
+CID100005095,ropinirole,CCCN(CCC)CCC1=C2CC(=O)NC2=CC=C1,Pulmonary embolism; Pulmonary oedema
+CID100005195,deprenyl,CC(CC1=CC=CC=C1)N(C)CC#C,Pleural effusion; Pulmonary oedema
+CID100005248,sodium,CCCCCCCCCCCCCCOS(=O)(=O)O,Pulmonary embolism
+CID100005253,sotalol,CC(C)NCC(C1=CC=C(C=C1)NS(=O)(=O)C)O,Pulmonary oedema
+CID100005257,sparfloxacin,CC1CN(CC(N1)C)C2=C(C(=C3C(=C2F)N(C=C(C3=O)C(=O)O)C4CC4)N)F,Interstitial pneumonia; Pulmonary oedema
+CID100005291,imatinib,CC1=C(C=C(C=C1)NC(=O)C2=CC=C(C=C2)CN3CCN(CC3)C)NC4=NC=CC(=N4)C5=CN=CC=C5,Interstitial pneumonia; Pleural effusion; Pulmonary oedema
+CID100005311,vorinostat,C1=CC=C(C=C1)NC(=O)CCCCCCC(=O)NO,Pulmonary embolism
+CID100005314,succinylcholine,C[N+](C)(C)CCOC(=O)CCC(=O)OCC[N+](C)(C)C,Pulmonary oedema
+CID100005352,sulindac,CC1=C(C2=C(C1=CC3=CC=C(C=C3)S(=O)C)C=CC(=C2)F)CC(=O)O,Pleural effusion
+CID100005358,sumatriptan,CNS(=O)(=O)CC1=CC2=C(C=C1)NC=C2CCN(C)C,Pulmonary embolism
+CID100005372,tacrolimus,CC1CC(C2C(CC(C(O2)(C(=O)C(=O)N3CCCCC3C(=O)OC(C(C(CC(=O)C(C=C(C1)C)CC=C)O)C)C(=CC4CCC(C(C4)OC)O)C)O)C)OC)OC,Pleural effusion; Pulmonary oedema
+CID100005376,tamoxifen,CCC(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCCN(C)C)C3=CC=CC=C3,Interstitial pneumonia; Pulmonary embolism
+CID100005394,temozolomide,CN1C(=O)N2C=NC(=C2N=N1)C(=O)N,Interstitial pneumonia; Pulmonary embolism
+CID100005408,testosterone,CC12CCC3C(C1CCC2O)CCC4=CC(=O)CCC34C,Pulmonary embolism
+CID100005426,thalidomide,C1CC(=O)NC(=O)C1N2C(=O)C3=CC=CC=C3C2=O,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100005453,thiotepa,C1CN1P(=S)(N2CC2)N3CC3,Pulmonary oedema
+CID100005470,tibolone,CC1CC2=C(CCC(=O)C2)C3C1C4CCC(C4(CC3)C)(C#C)O,Pulmonary embolism
+CID100005478,timolol,CC(C)(C)NCC(COC1=NSN=C1N2CCOCC2)O,Pulmonary oedema
+CID100005487,tizanidine,C1CN=C(N1)NC2=C(C=CC3=NSN=C32)Cl,Pulmonary embolism; Pulmonary oedema
+CID100005514,topiramate,CC1(OC2COC3(C(C2O1)OC(O3)(C)C)COS(=O)(=O)N)C,Pulmonary embolism
+CID100005515,topotecan,CCC1(C2=C(COC1=O)C(=O)N3CC4=CC5=C(C=CC(=C5CN(C)C)O)N=C4C3=C2)O,Pleural effusion; Pulmonary embolism
+CID100005516,toremifene,CN(C)CCOC1=CC=C(C=C1)C(=C(CCCl)C2=CC=CC=C2)C3=CC=CC=C3,Pulmonary embolism
+CID100005523,tramadol,CN(C)CC1CCCCC1(C2=CC(=CC=C2)OC)O,Pulmonary embolism; Pulmonary oedema
+CID100005526,tranexamic,C1CC(CCC1CN)C(=O)O,Pulmonary embolism; Pulmonary oedema
+CID100005538,retinoic,CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC(=O)O)C)C,Pleural effusion; Pulmonary oedema
+CID100005544,triamcinolone,CC12CC(C3(C(C1CC(C2(C(=O)CO)O)O)CCC4=CC(=O)C=CC43C)F)O,Pulmonary oedema
+CID100005645,UDCA,CC(CCC(=O)O)C1CCC2C1(CCC3C2C(CC4C3(CCC(C4)O)C)O)C,Interstitial pneumonia; Pleural effusion
+CID100005656,venlafaxine,CN(C)CC(C1=CC=C(C=C1)OC)C2(CCCCC2)O,Pulmonary embolism
+CID100005665,vigabatrin,C=CC(CCC(=O)O)N,Pulmonary embolism
+CID100005672,vinorelbine,CCC1=CC2CC(C3=C(CN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)C78CCN9C7C(C=CC9)(C(C(C8N6C)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC,Pulmonary embolism; Pulmonary oedema
+CID100005719,zaleplon,CCN(C1=CC=CC(=C1)C2=CC=NC3=C(C=NN23)C#N)C(=O)C,Pleural effusion; Pulmonary embolism
+CID100005731,zolmitriptan,CN(C)CCC1=CNC2=C1C=C(C=C2)CC3COC(=O)N3,Pulmonary oedema
+CID100005732,zolpidem,CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C,Pulmonary embolism; Pulmonary oedema
+CID100005734,zonisamide,C1=CC=C2C(=C1)C(=NO2)CS(=O)(=O)N,Pulmonary embolism
+CID100005746,mitomycin,CC1=C(C(=O)C2=C(C1=O)N3CC4C(C3(C2COC(=O)N)OC)N4)N,Pulmonary oedema
+CID100005771,oxytocin,CCC(C)C1C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(C(=O)NC(C(=O)N1)CC2=CC=C(C=C2)O)N)C(=O)N3CCCC3C(=O)NC(CC(C)C)C(=O)NCC(=O)N)CC(=O)N)CCC(=O)N,Pulmonary oedema
+CID100006238,17-hydroxyprogesterone,CC(=O)C1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)O,Pulmonary embolism
+CID100006436,triamcinolone,CC1(OC2CC3C4CCC5=CC(=O)C=CC5(C4(C(CC3(C2(O1)C(=O)CO)C)O)F)C)C,Pulmonary oedema
+CID100010631,medroxyprogesterone,CC1CC2C(CCC3(C2CCC3(C(=O)C)O)C)C4(C1=CC(=O)CC4)C,Pulmonary embolism
+CID100014888,arsenic,[O-2].[O-2].[O-2].[As+3].[As+3],Pleural effusion
+CID100015232,benzathine,CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C.CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C.C1=CC=C(C=C1)CNCCNCC2=CC=CC=C2,Pulmonary embolism
+CID100016850,fluorescein,C1=CC=C2C(=C1)C(=O)OC23C4=C(C=C(C=C4)O)OC5=C3C=CC(=C5)O,Pulmonary oedema
+CID100016886,5-aza-2'-deoxycytidine,C1C(C(OC1N2C=NC(=NC2=O)N)CO)O,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100019090,megestrol,CC1=CC2C(CCC3(C2CCC3(C(=O)C)O)C)C4(C1=CC(=O)CC4)C,Pulmonary embolism
+CID100022318,gold,C(C(C(=O)[O-])[S-])C(=O)[O-].[Na+].[Na+].[Au+],Interstitial pneumonia
+CID100023703,ogen,CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4)OS(=O)(=O)O.C1CNCCN1,Pulmonary embolism
+CID100023925,Fe(III,[Fe],Pulmonary oedema
+CID100023982,gadolinium,[Gd],Pulmonary oedema
+CID100027993,conjugated,CC12CCC3C(=CCC4=C3C=CC(=C4)OS(=O)(=O)O)C1CCC2=O,Pulmonary embolism
+CID100034312,oxcarbazepine,C1C2=CC=CC=C2N(C3=CC=CC=C3C1=O)C(=O)N,Pulmonary oedema
+CID100037392,halofantrine,CCCCN(CCCC)CCC(C1=C2C=CC(=CC2=C3C=C(C=C(C3=C1)Cl)Cl)C(F)(F)F)O.Cl,Pulmonary oedema
+CID100042615,Supremon,CCNC(=O)C1CCCN1C(=O)C(CCCN=C(N)N)NC(=O)C(CC(C)C)NC(=O)C(COC(C)(C)C)NC(=O)C(CC2=CC=C(C=C2)O)NC(=O)C(CO)NC(=O)C(CC3=CNC4=CC=CC=C43)NC(=O)C(CC5=CN=CN5)NC(=O)C6CCC(=O)N6,Pulmonary embolism
+CID100042955,misoprostol,CCCCC(C)(CC=CC1C(CC(=O)C1CCCCCCC(=O)OC)O)O,Pulmonary embolism
+CID100047725,Goserelin,CC(C)CC(C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NNC(=O)N)NC(=O)C(COC(C)(C)C)NC(=O)C(CC2=CC=C(C=C2)O)NC(=O)C(CO)NC(=O)C(CC3=CNC4=CC=CC=C43)NC(=O)C(CC5=CN=CN5)NC(=O)C6CCC(=O)N6,Pulmonary embolism
+CID100054547,cefpodoxime,COCC1=C(N2C(C(C2=O)NC(=O)C(=NOC)C3=CSC(=N3)N)SC1)C(=O)O,Pleural effusion
+CID100054688,clarithromycin,CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)OC)C)C)O)(C)O,Pulmonary embolism
+CID100054786,treprostinil,CCCCCC(CCC1C(CC2C1CC3=C(C2)C(=CC=C3)OCC(=O)O)O)O,Pulmonary embolism
+CID100055466,Gd-DTPA,CNCC(C(C(C(CO)O)O)O)O.CNCC(C(C(C(CO)O)O)O)O.C(CN(CC(=O)O)CC(=O)[O-])N(CCN(CC(=O)O)CC(=O)[O-])CC(=O)[O-].[Gd+3],Pulmonary oedema
+CID100056338,fosphenytoin,C1=CC=C(C=C1)C2(C(=O)N(C(=O)N2)COP(=O)([O-])[O-])C3=CC=CC=C3.[Na+].[Na+],Pulmonary embolism
+CID100057166,Photofrin,CC1=C(C2=CC3=NC(=CC4=NC(=CC5=C(C(=C(N5)C=C1N2)C(C)OC(C)C6=C(C7=CC8=C(C(=C(N8)C=C9C(=C(C(=N9)C=C1C(=C(C(=N1)C=C6N7)C)CCC(=O)O)CCC(=O)O)C)C)C(C)O)C)C)C(=C4CCC(=O)O)C)C(=C3C)CCC(=O)O)C(C)O,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100057469,imiquimod,CC(C)CN1C=NC2=C1C3=CC=CC=C3N=C2N,Pulmonary oedema
+CID100059768,esmolol,CC(C)NCC(COC1=CC=C(C=C1)CCC(=O)OC)O,Pleural effusion; Pulmonary oedema
+CID100060198,exemestane,CC12CCC3C(C1CCC2=O)CC(=C)C4=CC(=O)C=CC34C,Pulmonary embolism
+CID100060612,dexmedetomidine,CC1=C(C(=CC=C1)C(C)C2=CN=CN2)C,Pleural effusion; Pulmonary oedema
+CID100060668,etoposide,CC1OCC2C(O1)C(C(C(O2)OC3C4COC(=O)C4C(C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)OP(=O)(O)O)OC)O)O,Interstitial pneumonia
+CID100060706,meropenem,CC1C2C(C(=O)N2C(=C1SC3CC(NC3)C(=O)N(C)C)C(=O)O)C(C)O.O.O.O,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100060795,aripiprazole,C1CC(=O)NC2=C1C=CC(=C2)OCCCCN3CCN(CC3)C4=C(C(=CC=C4)Cl)Cl,Pulmonary embolism; Pulmonary oedema
+CID100060814,remifentanil,CCC(=O)N(C1=CC=CC=C1)C2(CCN(CC2)CCC(=O)OC)C(=O)OC.Cl,Pleural effusion; Pulmonary oedema
+CID100060843,pemetrexed,C1=CC(=CC=C1CCC2=CNC3=C2C(=O)N=C(N3)N)C(=O)NC(CCC(=O)O)C(=O)O,Interstitial pneumonia; Pulmonary embolism
+CID100060852,ibandronate,CCCCCN(C)CCC(O)(P(=O)(O)O)P(=O)(O)O,Pulmonary oedema
+CID100060853,ziprasidone,C1CN(CCN1CCC2=C(C=C3C(=C2)CC(=O)N3)Cl)C4=NSC5=CC=CC=C54.O.Cl,Pulmonary embolism
+CID100060953,capecitabine,CCCCCOC(=O)NC1=NC(=O)N(C=C1F)C2C(C(C(O2)C)O)O,Pleural effusion; Pulmonary embolism
+CID100064147,valganciclovir,CC(C)C(C(=O)OCC(CO)OCN1C=NC2=C1NC(=NC2=O)N)N,Pleural effusion
+CID100064778,Meropenem,CC1C2C(C(=O)N2C(=C1SC3CCC(N3)C(=O)N(C)C)C(=O)O)C(C)O,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100065370,Glat,CC(C(=O)O)N.C1=CC(=CC=C1CC(C(=O)O)N)O.C(CCN)CC(C(=O)O)N.C(CC(=O)O)C(C(=O)O)N,Pleural effusion; Pulmonary embolism
+CID100068613,atosiban,CCC(C)C1C(=O)NC(C(=O)NC(C(=O)NC(CSSCCC(=O)NC(C(=O)N1)CC2=CC=C(C=C2)OCC)C(=O)N3CCCC3C(=O)NC(CCCN)C(=O)NCC(=O)N)CC(=O)N)C(C)O,Pulmonary oedema
+CID100068740,zoledronic,C1=CN(C=N1)CC(O)(P(=O)(O)O)P(=O)(O)O,Pleural effusion
+CID100071158,acamprosate,CC(=O)NCCCS(=O)(=O)O,Pulmonary embolism
+CID100071273,ropivacaine,CCCN1CCCCC1C(=O)NC2=C(C=CC=C2C)C,Pleural effusion; Pulmonary embolism
+CID100071301,nebivolol,C1CC2=C(C=CC(=C2)F)OC1C(CNCC(C3CCC4=C(O3)C=CC(=C4)F)O)O,Pulmonary oedema
+CID100071436,Lutalyse,CCCCCC(C=CC1C(CC(C1CC=CCCCC(=O)O)O)O)O.C(C(CO)(CO)N)O,Pulmonary embolism
+CID100071616,voriconazole,CC(C1=NC=NC=C1F)C(CN2C=NC=N2)(C3=C(C=C(C=C3)F)F)O,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100072081,Terlipressin,C1CC(N(C1)C(=O)C2CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N2)CC(=O)N)CCC(=O)N)CC3=CC=CC=C3)CC4=CC=C(C=C4)O)NC(=O)CNC(=O)CNC(=O)CN)C(=O)NC(CCCCN)C(=O)NCC(=O)N,Pulmonary oedema
+CID100073303,doripenem,CC1C2C(C(=O)N2C(=C1SC3CC(NC3)CNS(=O)(=O)N)C(=O)O)C(C)O,Interstitial pneumonia
+CID100077996,paricalcitol,CC(C=CC(C)C(C)(C)O)C1CCC2C1(CCCC2=CC=C3CC(CC(C3)O)O)C,Pulmonary oedema
+CID100077998,rosiglitazone,CN(CCOC1=CC=C(C=C1)CC2C(=O)NC(=O)S2)C3=CC=CC=N3.C(=CC(=O)O)C(=O)O,Pleural effusion; Pulmonary oedema
+CID100082146,bexarotene,CC1=CC2=C(C=C1C(=C)C3=CC=C(C=C3)C(=O)O)C(CCC2(C)C)(C)C,Pleural effusion; Pulmonary oedema
+CID100083030,Ge-132,C(C[Ge](=O)O[Ge](=O)CCC(=O)O)C(=O)O,Pulmonary oedema
+CID100084003,ketorolac,C1CN2C(=CC=C2C(=O)C3=CC=CC=C3)C1C(=O)O.C(C(CO)(CO)N)O,Pulmonary embolism; Pulmonary oedema
+CID100093860,bortezomib,B(C(CC(C)C)NC(=O)C(CC1=CC=CC=C1)NC(=O)C2=NC=CN=C2)(O)O,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100096312,nelarabine,COC1=NC(=NC2=C1N=CN2C3C(C(C(O3)CO)O)O)N,Pleural effusion
+CID100104865,bosentan,CC(C)(C)C1=CC=C(C=C1)S(=O)(=O)NC2=C(C(=NC(=N2)C3=NC=CC=N3)OCCO)OC4=CC=CC=C4OC,Pulmonary oedema
+CID100105145,68Ga,[Ga+3],Pleural effusion
+CID100115237,paliperidone,CC1=C(C(=O)N2CCCC(C2=N1)O)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F,Pulmonary embolism
+CID100119182,clofarabine,C1=NC2=C(N=C(N=C2N1C3C(C(C(O3)CO)O)F)Cl)N,Pleural effusion; Pulmonary oedema
+CID100119607,valdecoxib,CC1=C(C(=NO1)C2=CC=CC=C2)C3=CC=C(C=C3)S(=O)(=O)N,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100119828,parecoxib,CCC(=O)NS(=O)(=O)C1=CC=C(C=C1)C2=C(ON=C2C3=CC=CC=C3)C,Pulmonary embolism
+CID100122316,rasagiline,C#CCNC1CCC2=CC=CC=C12,Interstitial pneumonia; Pleural effusion
+CID100123015,SU5416,CC1=CC(=C(N1)C=C2C3=CC=CC=C3NC2=O)C,Pulmonary embolism
+CID100123623,Cancidas,CCC(C)CC(C)CCCCCCCCC(=O)NC1CC(C(NC(=O)C2C(CCN2C(=O)C(NC(=O)C(NC(=O)C3CC(CN3C(=O)C(NC1=O)C(C)O)O)C(C(C4=CC=C(C=C4)O)O)O)C(CCN)O)O)NCCN)O.CC(=O)O.CC(=O)O,Pleural effusion; Pulmonary oedema
+CID100123631,gefitinib,COC1=C(C=C2C(=C1)N=CN=C2NC3=CC(=C(C=C3)F)Cl)OCCCN4CCOCC4,Interstitial pneumonia; Pleural effusion
+CID100123634,Trisequens,CC(=O)OC1(CCC2C1(CCC3C2CCC4=CC(=O)CCC34)C)C#C.CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O.CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)O,Pulmonary embolism
+CID100125889,pregabalin,CC(C)CC(CC(=O)O)CN,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100134019,pixantrone,C1=CC(=C2C(=C1NCCN)C(=O)C3=C(C2=O)C=NC=C3)NCCN,Pleural effusion
+CID100134780,pomalidomide,C1CC(=O)NC(=O)C1N2C(=O)C3=C(C2=O)C(=CC=C3)N,Pulmonary embolism
+CID100147912,posaconazole,CCC(C(C)O)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OCC5CC(OC5)(CN6C=NC=N6)C7=C(C=C(C=C7)F)F,Interstitial pneumonia; Pulmonary embolism
+CID100148191,temsirolimus,CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)OC(=O)C(C)(CO)CO)C)C)O)OC)C)C)C)OC,Interstitial pneumonia; Pleural effusion; Pulmonary embolism
+CID100150310,eplerenone,CC12CCC(=O)C=C1CC(C3C24C(O4)CC5(C3CCC56CCC(=O)O6)C)C(=O)OC,Pulmonary oedema
+CID100150610,ertapenem,CC1C2C(C(=O)N2C(=C1SC3CC(NC3)C(=O)NC4=CC=CC(=C4)C(=O)O)C(=O)O)C(C)O,Pleural effusion; Pulmonary embolism
+CID100151165,aprepitant,CC(C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)OC2C(N(CCO2)CC3=NC(=O)NN3)C4=CC=C(C=C4)F,Pulmonary embolism
+CID100154256,bazedoxifene,CC1=C(N(C2=C1C=C(C=C2)O)CC3=CC=C(C=C3)OCCN4CCCCCC4)C5=CC=C(C=C5)O.CC(=O)O,Pulmonary embolism
+CID100156326,asenapine,CN1CC2C(C1)C3=C(C=CC(=C3)Cl)OC4=CC=CC=C24,Pulmonary embolism
+CID100157429,gadopentetate,[H+].[H+].C(CN(CC(=O)[O-])CC(=O)[O-])N(CCN(CC(=O)[O-])CC(=O)[O-])CC(=O)[O-].[Gd+3],Pulmonary oedema
+CID100157688,vinflunine,CCC12C=CCN3C1C4(CC3)C(C(C2OC(=O)C)(C(=O)OC)O)N(C5=CC(=C(C=C45)C6(CC7CC(CN(C7)CC8=C6NC9=CC=CC=C89)C(C)(F)F)C(=O)OC)OC)C,Pulmonary embolism; Pulmonary oedema
+CID100158786,pegaptanib,COCCOC(=O)NCCCCC(C(=O)NCCCCCOP(=O)(C)O)NC(=O)OCCOC,Pleural effusion
+CID100166548,Anidulafungin,CCCCCOC1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=C(C=C3)C(=O)NC4CC(C(NC(=O)C5C(C(CN5C(=O)C(NC(=O)C(NC(=O)C6CC(CN6C(=O)C(NC4=O)C(C)O)O)C(C(C7=CC=C(C=C7)O)O)O)C(C)O)C)O)O)O,Pleural effusion
+CID100170361,varenicline,C1C2CNCC1C3=CC4=NC=CN=C4C=C23,Pulmonary embolism
+CID100176870,erlotinib,COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC,Interstitial pneumonia
+CID100197281,gadobenate,[H+].[H+].CNCC(C(C(C(CO)O)O)O)O.CNCC(C(C(C(CO)O)O)O)O.C1=CC=C(C=C1)COCC(C(=O)[O-])N(CCN(CCN(CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])CC(=O)[O-].[Gd+3],Pulmonary embolism; Pulmonary oedema
+CID100197712,ambrisentan,CC1=CC(=NC(=N1)OC(C(=O)O)C(C2=CC=CC=C2)(C3=CC=CC=C3)OC)C,Pleural effusion; Pulmonary oedema
+CID100206527,L-Dmp,CS(=O)(=O)O.C1CNCC(C1C2=CC=CC=C2)COC3=CC4=C(C=C3)OCO4,Pulmonary embolism; Pulmonary oedema
+CID100213046,lurasidone,C1CCC(C(C1)CN2CCN(CC2)C3=NSC4=CC=CC=C43)CN5C(=O)C6C7CCC(C7)C6C5=O,Pulmonary embolism
+CID100216235,sitaxsentan,CC1=CC2=C(C=C1CC(=O)C3=C(C=CS3)S(=O)(=O)NC4=C(C(=NO4)C)Cl)OCO2,Pleural effusion; Pulmonary embolism
+CID100216237,tolvaptan,CC1=CC=CC=C1C(=O)NC2=CC(=C(C=C2)C(=O)N3CCCC(C4=C3C=CC(=C4)Cl)O)C,Pulmonary embolism
+CID100216239,sorafenib,CNC(=O)C1=NC=CC(=C1)OC2=CC=C(C=C2)NC(=O)NC3=CC(=C(C=C3)Cl)C(F)(F)F,Interstitial pneumonia; Pleural effusion
+CID100216326,lenalidomide,C1CC(=O)NC(=O)C1N2CC3=C(C2=O)C=CC=C3N,Interstitial pneumonia; Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID100216416,lasofoxifene,C1CCN(C1)CCOC2=CC=C(C=C2)C3C(CCC4=C3C=CC(=C4)O)C5=CC=CC=C5,Pulmonary embolism
+CID100441332,carboprost,CCCCCC(C)(C=CC1C(CC(C1CC=CCCCC(=O)O)O)O)O,Pulmonary oedema
+CID100443379,CAS,CC(C(=O)N1CCCC1C(=O)O)NC(CCC2=CC=CC=C2)C(=O)O,Pulmonary embolism; Pulmonary oedema
+CID100444006,cefditoren,CC1=C(SC=N1)C=CC2=C(N3C(C(C3=O)NC(=O)C(=NOC)C4=CSC(=N4)N)SC2)C(=O)OCOC(=O)C(C)(C)C,Interstitial pneumonia
+CID100477468,FK463,CCCCCOC1=CC=C(C=C1)C2=CC(=NO2)C3=CC=C(C=C3)C(=O)NC4CC(C(NC(=O)C5C(C(CN5C(=O)C(NC(=O)C(NC(=O)C6CC(CN6C(=O)C(NC4=O)C(C)O)O)C(C(C7=CC(=C(C=C7)O)OS(=O)(=O)O)O)O)C(CC(=O)N)O)C)O)O)O,Pulmonary embolism
+CID100644241,nilotinib,CC1=C(C=C(C=C1)C(=O)NC2=CC(=CC(=C2)C(F)(F)F)N3C=C(N=C3)C)NC4=NC=CC(=N4)C5=CN=CC=C5,Pleural effusion; Pulmonary oedema
+CID100657298,propylthiouracil,CCCC1=CC(=O)NC(=S)N1,Interstitial pneumonia
+CID103062316,dasatinib,CC1=C(C(=CC=C1)Cl)NC(=O)C2=CN=C(S2)NC3=CC(=NC(=N3)C)N4CCN(CC4)CCO,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID103080904,Estrofem,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O.CC12CCC3C(C1CC(C2O)O)CCC4=C3C=CC(=C4)O,Pulmonary embolism
+CID103081884,copolymer,CC(C(=O)O)N.CC(=O)O.C1=CC(=CC=C1CC(C(=O)O)N)O.C(CCN)CC(C(=O)O)N.C(CC(=O)O)C(C(=O)O)N,Pleural effusion; Pulmonary embolism
+CID103086257,Photofrin,CCC1=C2C=C3C(=C(C(=CC4=NC(=CC5=NC(=CC(=C1C)N2)C(=C5CCC(=O)O)C)C(=C4C)CCC(=O)O)N3)C(C)O)C.[Na+],Pleural effusion
+CID103086685,axitinib,CNC(=O)C1=CC=CC=C1SC2=CC3=C(C=C2)C(=NN3)C=CC4=CC=CC=N4,Pulmonary embolism
+CID103086686,sunitinib,CCN(CC)CCNC(=O)C1=C(NC(=C1C)C=C2C3=C(C=CC(=C3)F)NC2=O)C,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID104474778,2-hydroxysuccinaldehyde,C(C=O)C(C=O)O,Pulmonary embolism
+CID104479097,hydroxocobalamin,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=N7)C=C8C(C(C(=N8)C(=C4[N-]5)C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.O.[Co],Pleural effusion; Pulmonary oedema
+CID104659569,tolcapone,CC1=CC=C(C=C1)C(=O)C2=CC(=C(C(=C2)O)O)[N+](=O)[O-],Pulmonary embolism; Pulmonary oedema
+CID105327147,polyoxyethylene,COCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,Pulmonary oedema
+CID105328940,bosutinib,CN1CCN(CC1)CCCOC2=C(C=C3C(=C2)N=CC(=C3NC4=CC(=C(C=C4Cl)Cl)OC)C#N)OC,Pleural effusion; Pulmonary oedema
+CID105359596,arsenic,[As],Pleural effusion; Pulmonary oedema
+CID105362070,balsalazide,C1=CC(=CC=C1C(=O)NCCC(=O)O)NN=C2C=CC(=O)C(=C2)C(=O)O,Pleural effusion
+CID105479141,CGP,CCCCCCCCCCCCCCCC(=O)OCC(COP(=O)(O)OCCNC(=O)C(C)NC(=O)CCC(C(=O)N)NC(=O)C(C)NC(=O)C(C)OC1C(C(OC(C1O)CO)O)NC(=O)C)OC(=O)CCCCCCCCCCCCCCC,Pleural effusion
+CID106323497,rifapentine,CC1C=CC=C(C(=O)NC2=C(C3=C(C4=C(C(=C3O)C)OC(C4=O)(OC=CC(C(C(C(C(C(C1O)C)O)C)OC(=O)C)C)OC)C)C(=O)C2=CNN5CCN(CC5)C6CCCC6)O)C,Pleural effusion
+CID106331630,eribulin,CC1CC2CCC3C(=C)CC(O3)CCC45CC6C(O4)C7C(O6)C(O5)C8C(O7)CCC(O8)CC(=O)CC9C(CC(C1=C)O2)OC(C9OC)CC(CN)O,Pulmonary embolism
+CID106333887,auranofin,CC[PH+](CC)CC.CC[PH+](CC)CC.CC(=O)OCC1C(C(C(C(O1)[SH2+])OC(=O)C)OC(=O)C)OC(=O)C.[Au].[Au],Interstitial pneumonia
+CID106398970,cefdinir,C=CC1=C(N2C(C(C2=O)NC(=O)C(=NO)C3=CSC(=N3)N)SC1)C(=O)O,Interstitial pneumonia
+CID106442177,everolimus,CC1CCC2CC(C(=CC=CC=CC(CC(C(=O)C(C(C(=CC(C(=O)CC(OC(=O)C3CCCCN3C(=O)C(=O)C1(O2)O)C(C)CC4CCC(C(C4)OC)OCCO)C)C)O)OC)C)C)C)OC,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID106445540,ixabepilone,CC1CCCC2(C(O2)CC(NC(=O)CC(C(C(=O)C(C1O)C)(C)C)O)C(=CC3=CSC(=N3)C)C)C,Pulmonary oedema
+CID106850791,leuprorelin,CCNC(=O)C1CCCN1C(=O)C(CCCN=C(N)N)NC(=O)C(CC(C)C)NC(=O)C(CC(C)C)NC(=O)C(CC2=CC=C(C=C2)O)NC(=O)C(CO)NC(=O)C(CC3=CNC4=CC=CC=C43)NC(=O)C(CC5C=NC=N5)NC(=O)C6CCC(=O)N6.CC(=O)O,Pleural effusion; Pulmonary embolism
+CID109812414,dalteparin,C(C1C(C(C(C(O1)O)NS(=O)(=O)O)O)OC2C(C(C(C(O2)C(=O)O)O)O)OS(=O)(=O)O)OS(=O)(=O)O,Pulmonary embolism
+CID109815559,trans,C1CCC(CC1)C2CC(NC2)C(=O)O,Pulmonary embolism; Pulmonary oedema
+CID109831761,irbesartan-hydrochlorothiazide,CCCCC1=NC2(CCCC2)C(=O)N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NNN=N5.C1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl,Pulmonary oedema
+CID109940864,Benicar-HCT,CCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)C(=O)OCC5=C(OC(=O)O5)C)C(C)(C)O.C1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl,Pulmonary oedema
+CID110113978,pazopanib,CC1=C(C=C(C=C1)NC2=NC=CC(=N2)N(C)C3=CC4=NN(C(=C4C=C3)C)C)S(=O)(=O)N,Pulmonary embolism
+CID110324367,boceprevir,CC1(C2C1C(N(C2)C(=O)C(C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C,Pulmonary embolism
+CID111254352,sodium,C(C(C(C(C(C(=O)O)O)O)O)O)O.[Na+].[Fe+3],Pulmonary oedema
+CID111505907,Zyprexa,CC1=CC2=C(NC3=CC=CC=C3N=C2S1)N4CCN(CC4)C.C1=CC=C2C(=C1)C=C(C(=C2CC3=C(C(=CC4=CC=CC=C43)C(=O)O)O)O)C(=O)O.O.O,Pulmonary embolism
+CID111597571,crizotinib,CC(C1=C(C=CC(=C1Cl)F)Cl)OC2=C(N=CC(=C2)C3=CN(N=C3)C4CCNCC4)N,Pulmonary embolism
+CID116129629,LY146032,CCCCCCCCCC(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(CC(=O)N)C(=O)NC(CC(=O)O)C(=O)NC3C(OC(=O)C(NC(=O)C(NC(=O)C(NC(=O)CNC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)CNC3=O)CCCN)CC(=O)O)C)CC(=O)O)CO)C(C)CC(=O)O)CC(=O)C4=CC=CC=C4N)C,Pleural effusion
+CID116129672,Insulin,CCC(C)C1C(=O)NC2CSSCC(C(=O)NC(CSSCC(C(=O)NCC(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC2=O)CO)CC(C)C)CC3=CC=C(C=C3)O)CCC(=O)N)CC(C)C)CCC(=O)O)CC(=O)N)CC4=CC=C(C=C4)O)C(=O)NC(CC(=O)N)C(=O)O)C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NC(CCCNC(=N)N)C(=O)NCC(=O)NC(CC5=CC=CC=C5)C(=O)NC(CC6=CC=CC=C6)C(=O)NC(CC7=CC=C(C=C7)O)C(=O)NC(C(C)O)C(=O)N8CCCC8C(=O)NC(CCCCN)C(=O)NC(C(C)O)C(=O)O)C(C)C)CC(C)C)CC9=CC=C(C=C9)O)CC(C)C)C)CCC(=O)O)C(C)C)CC(C)C)CC2=CN=CN2)CO)NC(=O)C(CC(C)C)NC(=O)C(CC2=CN=CN2)NC(=O)C(CCC(=O)N)NC(=O)C(CC(=O)N)NC(=O)C(C(C)C)NC(=O)C(CC2=CC=CC=C2)N)C(=O)NC(C(=O)NC(C(=O)N1)CO)C(C)O)NC(=O)C(CCC(=O)N)NC(=O)C(CCC(=O)O)NC(=O)C(C(C)C)NC(=O)C(C(C)CC)NC(=O)CN,Pleural effusion
+CID116129704,Bivalirudin,CCC(C)C(C(=O)N1CCCC1C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(CC2=CC=C(C=C2)O)C(=O)NC(CC(C)C)C(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)NC(=O)C(CC3=CC=CC=C3)NC(=O)C(CC(=O)O)NC(=O)CNC(=O)C(CC(=O)N)NC(=O)CNC(=O)CNC(=O)CNC(=O)CNC(=O)C4CCCN4C(=O)C(CCCNC(=N)N)NC(=O)C5CCCN5C(=O)C(CC6=CC=CC=C6)N,Pleural effusion; Pulmonary oedema
+CID116130295,BPTI,CCC(C)C1C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NCC(=O)NC(C(=O)NC2CSSCC3C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(CSSCC(C(=O)NC(C(=O)NC(C(=O)N4CCCC4C(=O)N5CCCC5C(=O)NC(C(=O)NC(C(=O)NCC(=O)N6CCCC6C(=O)NC(CSSCC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N3)CC(=O)O)CCC(=O)O)C)CO)CCCCN)CC7=CC=CC=C7)CC(=O)N)CC(=O)N)CCCNC(=N)N)CCCCN)C)CCCNC(=N)N)NC(=O)CNC(=O)CNC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC2=O)CCC(=O)N)C(C)O)CC8=CC=CC=C8)C(C)C)CC9=CC=C(C=C9)O)C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N1)CCCNC(=N)N)C)CCCCN)C(C)O)CC1=CC=C(C=C1)O)CCC(=O)O)CC(C)C)NC(=O)C(CC1=CC=CC=C1)NC(=O)C(CC(=O)O)NC(=O)C1CCCN1C(=O)C(CCCNC(=N)N)N)C(=O)NCC(=O)NCC(=O)NC(C)C(=O)O)C(C)O)CCCNC(=N)N)CCSC)CC(C)C)C)CCCCN)C)CC(=O)N)CC1=CC=C(C=C1)O)CC1=CC=CC=C1)CC1=CC=C(C=C1)O)CCCNC(=N)N)C(C)CC,Pleural effusion; Pulmonary embolism; Pulmonary oedema
+CID116132441,Refludan,CCC(C)C(C(=O)NC(CC(C)C)C(=O)NCC(=O)NC(CO)C(=O)NC(CC(=O)O)C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NC(CCCCN)C(=O)NC(CC(=O)N)C(=O)NC(CCC(=O)N)C(=O)NC(CS)C(=O)NC(C(C)C)C(=O)NC(C(C)O)C(=O)NCC(=O)NC(CCC(=O)O)C(=O)NCC(=O)NC(C(C)O)C(=O)N1CCCC1C(=O)NC(CCCCN)C(=O)N2CCCC2C(=O)NC(CCC(=O)N)C(=O)NC(CO)C(=O)NC(CC3=CN=CN3)C(=O)NC(CC(=O)N)C(=O)NC(CC(=O)O)C(=O)NCC(=O)NC(CC(=O)O)C(=O)NC(CC4=CC=CC=C4)C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(C(C)CC)C(=O)N5CCCC5C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(CC6=CC=C(C=C6)O)C(=O)NC(CC(C)C)C(=O)NC(CCC(=O)N)C(=O)O)NC(=O)C(CS)NC(=O)C(CCCCN)NC(=O)C(CC(=O)N)NC(=O)CNC(=O)C(CCC(=O)N)NC(=O)CNC(=O)C(CS)NC(=O)C(C(C)C)NC(=O)C(CC(=O)N)NC(=O)C(CO)NC(=O)CNC(=O)C(CCC(=O)O)NC(=O)C(CS)NC(=O)C(CC(C)C)NC(=O)C(CS)NC(=O)C(CC(C)C)NC(=O)C(CC(=O)N)NC(=O)C(CCC(=O)N)NC(=O)CNC(=O)C(CO)NC(=O)C(CCC(=O)O)NC(=O)C(C(C)O)NC(=O)C(CS)NC(=O)C(CC(=O)O)NC(=O)C(C(C)O)NC(=O)C(CC7=CC=C(C=C7)O)NC(=O)C(C(C)O)NC(=O)C(CC(C)C)N,Pulmonary embolism
+CID116137271,insulin,CCCCCCCCCCCCCC(=O)NCCCCC(C(=O)O)NC(=O)C1CCCN1C(=O)C(C(C)O)NC(=O)C(CC2=CC=C(C=C2)O)NC(=O)C(CC3=CC=CC=C3)NC(=O)C(CC4=CC=CC=C4)NC(=O)CNC(=O)C(CCCNC(=N)N)NC(=O)C(CCC(=O)O)NC(=O)CNC(=O)C5CSSCC(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C(NC(=O)C6CSSCC(C(=O)NC(CSSCC(C(=O)NCC(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N5)C(C)C)CC(C)C)CC7=CC=C(C=C7)O)CC(C)C)C)CCC(=O)O)C(C)C)CC(C)C)CC8=CNC=N8)CO)NC(=O)C(CC(C)C)NC(=O)C(CC9=CNC=N9)NC(=O)C(CCC(=O)N)NC(=O)C(CC(=O)N)NC(=O)C(C(C)C)NC(=O)C(CC1=CC=CC=C1)N)C(=O)NC(C(=O)NC(C(=O)NC(C(=O)N6)C(C)CC)CO)C(C)O)NC(=O)C(CCC(=O)N)NC(=O)C(CCC(=O)O)NC(=O)C(C(C)C)NC(=O)C(C(C)CC)NC(=O)CN)CO)CC(C)C)CC1=CC=C(C=C1)O)CCC(=O)N)CC(C)C)CCC(=O)O)CC(=O)N)CC1=CC=C(C=C1)O)C(=O)NC(CC(=O)N)C(=O)O,Pulmonary oedema
+CID124826799,ponatinib,CC1=C(C=C(C=C1)C(=O)NC2=CC(=C(C=C2)CN3CCN(CC3)C)C(F)(F)F)C#CC4=CN=C5N4N=CC=C5,Pleural effusion; Pulmonary embolism
+CID124846132,hetastarch,CC1C(C(C(C(O1)CO)OC2C(C(C(C(O2)COC3C(C(C(C(O3)CO)OC)O)O)OC4C(C(C(C(O4)CO)OC)O)OCCO)O)O)O)O,Pulmonary oedema
+CID125077405,Nafarelin,CC(C)CC(C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NCC(=O)N)NC(=O)C(CC2=CC3=CC=CC=C3C=C2)NC(=O)C(CC4=CC=C(C=C4)O)NC(=O)C(CO)NC(=O)C(CC5=CNC6=CC=CC=C65)NC(=O)C(CC7=CN=CN7)NC(=O)C8CCC(=O)N8,Interstitial pneumonia; Pleural effusion; Pulmonary embolism
+CID125102847,cabozantinib,COC1=CC2=C(C=CN=C2C=C1OC)OC3=CC=C(C=C3)NC(=O)C4(CC4)C(=O)NC5=CC=C(C=C5)F,Pulmonary embolism
+CID144564722,Promacta,CC1=C(C=C(C=C1)N2C(=O)C(=C(N2)C)NN=C3C=CC=C(C3=O)C4=CC(=CC=C4)C(=O)O)C.C(CO)N,Pulmonary embolism
+CID154681041,tigecycline,CC(C)(C)NCC(=O)NC1=CC(=C2CC3CC4C(C(=O)C(=C(C4(C(=O)C3=C(C2=C1O)O)O)O)C(=O)N)N(C)C)N(C)C,Pleural effusion
+CID156603655,pegaptanib,COCCOC(=O)NCCCCC(C(=O)NCCCCCCCOP(=O)(C)O)NC(=O)OCCOC,Pleural effusion
+CID170683024,x,CC(C(C(=O)O)N)OC1C(C(C(C(O1)COC2(CC(C(C(O2)C(C(CO)O)O)NC(=O)CNC(=O)OCCOC)O)C(=O)O)O)O)NC(=O)C,Interstitial pneumonia; Pulmonary oedema
+CID171306834,K779,CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2.C(S(=O)(=O)[O-])(I)I.[Na+],Pleural effusion; Pulmonary embolism; Pulmonary oedema

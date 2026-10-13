@@ -1,0 +1,108 @@
+*****************************************************************
+*								*
+*			1. VALIDATION		        	*
+*								*
+*****************************************************************
+
+================================================
+0. VALIDITY CHECK
+================================================
+Number of input SMILES: 2851
+Number of invalid SMILES: 0
+Number of valid SMILES: 2851
+
+================================================
+1.1. MIXTURE REMOVAL
+================================================
+Number of input SMILES: 2851
+Number of mixture SMILES: 211
+Number of non-mixture SMILES: 2640
+
+================================================
+1.2. INORGANIC REMOVAL
+================================================
+Number of input SMILES: 2640
+Number of inorganic compounds: 1172
+Number of organic compounds: 1468
+
+================================================
+1.3. ORGANOMETALLIC REMOVAL
+================================================
+Number of input SMILES: 1468
+Number of organometallic compounds: 0
+Number of organics: 1468
+
+------------------------------------------------
+DUPLICATE REMOVAL
+------------------------------------------------
+Number of input SMILES: 1319
+Number of perfect duplicated SMILES: 0
+Number of partial duplicated SMILES: 0
+Number of unique SMILES: 1319
+
+
+*****************************************************************
+*								*
+*			2. CLEANING				*
+*								*
+*****************************************************************
+
+================================================
+2.1. SALT CLEANING
+================================================
+Number of input SMILES: 1361
+Number of desalted compounds: 75
+Number of unprocessable compounds: 0
+Number of post-desalting compounds: 1361
+
+================================================
+2.2. NEUTRALIZATION
+================================================
+Number of input SMILES: 1321
+Number of neutralized compounds: 4
+Number of unprocessable compound: 0
+Number of post-neutralization compounds: 1321
+
+------------------------------------------------
+DUPLICATE REMOVAL
+------------------------------------------------
+Number of input SMILES: 1319
+Number of perfect duplicated SMILES: 0
+Number of partial duplicated SMILES: 0
+Number of unique SMILES: 1319
+
+
+*****************************************************************
+*								*
+*			3. NORMALIZATION			*
+*								*
+*****************************************************************
+
+================================================
+3.1. DESTEREOISOMERIZATION
+================================================
+Number of input SMILES: 1321
+Number of destereoisomerized compounds: 0
+Number of post-destereoisomerization compounds: 1321
+
+================================================
+3.2. DETAUTOMERIZATION
+================================================
+Number of input SMILES: 1321
+Number of detautomerized compounds: 209
+Number of post-detautomerization compounds: 1321
+
+------------------------------------------------
+DUPLICATE REMOVAL
+------------------------------------------------
+Number of input SMILES: 1319
+Number of perfect duplicated SMILES: 0
+Number of partial duplicated SMILES: 0
+Number of unique SMILES: 1319
+
+
+*****************************************************************
+*								*
+*			-----END----- 				*
+*								*
+*****************************************************************

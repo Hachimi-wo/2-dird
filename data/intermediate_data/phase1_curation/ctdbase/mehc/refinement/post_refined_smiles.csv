@@ -1,0 +1,111 @@
+smiles,Drug_Name
+CC(=O)OC12COC1CC(O)C1(C)C(=O)C(=O)C3C(C)C(OC(=O)C(O)C(NC(=O)OC(C)(C)C)c4ccccc4)CC(O)(C(OC(=O)c4ccccc4)C21)C3(C)C,Docetaxel
+CCCC(CCC)C(=O)O,Valproic Acid
+O=P1(N(CCCl)CCCl)NCCCO1,Cyclophosphamide
+CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)O,Tretinoin
+CCC(C)C(NC(=O)CNC(=O)C(NC(=O)C(Cc1ccccc1)NC(=O)C(CCCCN)NC(=O)C(CO)NC(=O)C(CC(N)=O)NC(=O)C(C)NC(=O)C(CCCCN)NC(=O)C(NC(=O)C(Cc1ccc(O)cc1)NC(=O)C(CCC(N)=O)NC(=O)C(N)CCSC)C(C)CC)C(C)CC)C(=O)NC(C(=O)NC(CCC(=O)O)C(=O)NC(CCCN=C(N)N)C(=O)NC(Cc1ccccc1)C(=O)N1CCCC1C(=O)NC(CCCNC(=N)N)C(=O)N1CCCC1C(=O)NC(CC(=O)O)C(=O)NCC(=O)NC(CCCNC(=N)N)C(=O)NC(CCC(=O)O)C(=O)NC(C)C(=O)NC(C(=O)NC(C)C(=O)NC(Cc1ccc(O)cc1)C(=O)NC(CCCNC(=N)N)C(=O)NC(Cc1ccccc1)C(=O)NC(CCC(=O)O)C(=O)NC(CCC(=O)O)C(=O)NC(CC(=O)O)C(=O)NC(C(=O)NC(Cc1ccccc1)C(=O)NCC(=O)NC(Cc1ccccc1)C(=O)N1CCCC1C(=O)NC(CCCCN)C(=O)NC(Cc1cnc[nH]1)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(C(=O)NC(CC(=O)O)C(=O)NC(Cc1ccccc1)C(=O)NC(CC(C)C)C(=O)NC(CCC(N)=O)C(=O)NC(CO)C(=O)NC(CC(C)C)C(=O)NC(CO)C(=O)O)C(C)C)C(C)CC)C(C)C)C(C)O,Pertussis Toxin
+COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1,Indomethacin
+CC1(C)SC2C(NC(=O)C(N)c3ccccc3)C(=O)N2C1C(=O)O,Ampicillin
+O=C(O)c1cc(N=Nc2ccc(S(=O)(=O)Nc3ccccn3)cc2)ccc1O,Sulfasalazine
+COc1cccc2c(O)c3c(c(O)c12)C(=O)C1=C(CC(O)(C(=O)CO)CC1OC1CC(N)C(O)C(C)O1)C3=O,Doxorubicin
+O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,Thalidomide
+CC(C)(C)C(=O)OCOP(=O)(COCCn1cnc2c(N)ncnc21)OCOC(=O)C(C)(C)C,adefovir dipivoxil
+CCN(CC)CCOc1ccc(C(=C(Cl)c2ccccc2)c2ccccc2)cc1,Clomiphene
+CC(=O)Oc1cc(C=O)cc2c1C(COC(N)=O)C1(OC(C)=O)ON2CC2C1N2C(C)=O,FK 973
+N=c1cc(N2CCCCC2)nc(N)n1O,Minoxidil
+O=c1[nH]c(O)cn1N=Cc1ccc([N+](=O)[O-])o1,Nitrofurantoin
+CC(C)(c1ccc(O)cc1)c1ccc(O)cc1,bisphenol A
+O=S(=O)(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,perfluorooctane sulfonic acid
+O=C1NC(=O)C(=O)C(=O)N1,Alloxan
+CCO,Ethanol
+CCCCCCCCC=CCCCCCCCC(=O)O,Oleic Acid
+CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl,Chlorpyrifos
+CC(=O)N(CC(O)CO)c1c(I)c(C(=O)NCC(O)CO)c(I)c(C(=O)NCC(O)CO)c1I,Iohexol
+CCCCCC(O)C=CC1C(O)CC(O)C1CC=CCCCC(=O)O,Dinoprost
+CC(=O)Oc1ccccc1C(=O)O,Aspirin
+CCCCCC=CCC=CCC=CCC=CCCCC(=O)OC(CO)CO,glyceryl 2-arachidonate
+CCCCCCC(C)(C)c1ccc(C2CC(O)CCC2CCCO)c(O)c1,"3-(2-hydroxy-4-(1,1-dimethylheptyl)phenyl)-4-(3-hydroxypropyl)cyclohexanol"
+CC1(C(=O)O)CCC2(C)CCC3(C)C(=C2C1)CC(=O)C1C2(C)CCC(OC4OC(C(=O)O)C(O)C(O)C4OC4OC(C(=O)O)C(O)C(O)C4O)C(C)(C)C2CCC13C,Glycyrrhizic Acid
+NC(=S)Nc1cccc2ccccc12,alpha-naphthyl thiourea
+O=[N+]([O-])NC1=NCCN1Cc1ccc(Cl)nc1,imidacloprid
+CNC(C)Cc1ccccc1,Methamphetamine
+C=C1CC(=CC)C(=O)OC2CCN3CC=C(COC(=O)C1(O)CO)C23,riddelliine
+O=C(Cl)Cl,Phosgene
+CCCCCc1cc(O)c2c(c1)OC(C)(C)C1CCC(C)=CC21,Dronabinol
+C=CCCl,allyl chloride
+CCCCCCCCCC[N+](C)(C)CCCCCCCCCC,didecyldimethylammonium
+CN(C)CCC=C1c2ccccc2CCc2ccccc21,Amitriptyline
+C=c1c(N)c(O)c2c(c1O)N1CC3NC3C1(OC)C=2COC(N)=O,Mitomycin
+CN1CCCC1c1cccnc1,Nicotine
+CCN(CC)CC(=O)Nc1c(C)cccc1C,Lidocaine
+ClCCSCCCl,Mustard Gas
+CNC1(c2ccccc2Cl)CCCCC1=O,Ketamine
+CC(N)Cc1ccccc1,Amphetamine
+CNC(C)C(O)c1ccccc1,Ephedrine
+CC(OP(C)(=O)F)C(C)(C)C,Soman
+CC(=O)Oc1ccc2c3c1OC1C(OC(C)=O)C=CC4C(C2)N(C)CCC341,Heroin
+CCN(CC)C(=S)SSC(=S)N(CC)CC,Disulfiram
+C=CC=O,Acrolein
+CN(CCCl)CCCl,Mechlorethamine
+CCCCCC(O)CCC1C(O)CC(=O)C1CCCCCCC(=O)O,"13,14-dihydroprostaglandin E1"
+CCCCN1CCCCC1C(=O)Nc1c(C)cccc1C,Bupivacaine
+COC(=O)C1C(OC(=O)c2ccccc2)CC2CCC1N2C,Crack Cocaine
+CN(CC(=O)O)C(=N)N,Creatine
+NC1=NCCN1CC(=O)O,cyclocreatine
+CC(=O)Nc1c(I)c(NC(C)=O)c(I)c(C(=O)O)c1I,Diatrizoate
+c1ccc2c(c1)sc1ccccc12,dibenzothiophene
+CCNC(C)Cc1cccc(C(F)(F)F)c1,Fenfluramine
+CN(C)CCCn1c2c(c3ccccc31)CCCCCC2,Iprindole
+COc1ccc(OC)c(C(O)C(C)N)c1,Methoxamine
+CCC(CO)NC(=O)C1C=C2c3cccc4[nH]cc(c34)CC2N(C)C1,Methylergonovine
+CCOC(=O)Nc1ccc2c(c1)N(C(=O)CCN1CCOCC1)c1ccccc1S2,Moricizine
+c1ccc2c(CC3=NCCN3)cccc2c1,Naphazoline
+CC(N)C(O)c1ccc(O)c(O)c1,Nordefrin
+C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1,octamethylcyclotetrasiloxane
+NC(N)=S,Thiourea
+CC(C)(C)NCC(O)COc1nsnc1N1CCOCC1,Timolol
+O=c1[nH]c(=O)n(Cl)c(=O)n1Cl,troclosene
+OCC(O)C(O)C(O)C(O)CO,Mannitol
+CC(C)(C)NCC(O)c1cc(O)cc(O)c1,Terbutaline
+CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1,Chlorpheniramine
+O=CCC=O,Malondialdehyde
+CC(=O)OC1(C(C)=O)CCC2C3CC(C)=C4CC(=O)CCC4(C)C3CCC21C,Medroxyprogesterone Acetate
+CCCCCC(O)C=CC1C2CC(CO2)C1CC=CCCCC(=O)O,"15-Hydroxy-11 alpha,9 alpha-(epoxymethano)prosta-5,13-dienoic Acid"
+CNC(C)C1CCC(N)C(OC2C(N)CC(N)C(OC3OCC(C)(O)C(NC)C3O)C2O)O1,Gentamicins
+C#CC1(O)CCC2C3CC=C4CC(=O)CCC4C3CCC21C,Norethindrone
+CC=CCC(C)C(O)C1C(=O)NC(CC)C(=O)N(C)CC(=O)N(C)C(CC(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)NC(C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,Cyclosporine
+C#CC1(O)CCC2C3CCc4cc(O)ccc4C3CCC21C,Ethinyl Estradiol
+CCC(=C(c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1,Tamoxifen
+CC=C(c1ccc(O)cc1)C(CC)c1ccc(O)cc1,Diethylstilbestrol
+C#CC1(O)CCC2C3CCC4=CCCCC4C3C(=C)CC21CC,Desogestrel
+CN1CC(=O)N2C(Cc3c([nH]c4ccccc34)C2c2ccc3c(c2)OCO3)C1=O,Tadalafil
+CC(=O)OC1=C2C(C)C(OC(=O)C(O)C(NC(=O)c3ccccc3)c3ccccc3)CC(O)(C(OC(=O)c3ccccc3)C3C4(OC(C)=O)COC4CC(O)C3(C)C1=O)C2(C)C,Paclitaxel
+O=P(O)(O)C(O)(Cn1ccnc1)P(=O)(O)O,Zoledronic Acid
+C=C1CSC(C(NC(=O)CCCCC(N)C(=O)O)C(=O)O)N=C1C(=O)O,Cephalosporins
+CC(=O)OC1(C(C)=O)CCC2C3=CC(Cl)=C4CC(=O)C5CC5C4(C)C3CCC21C,Cyproterone Acetate
+N=C(N)NCCCC(NC(=O)C1CCCN1C(=O)C1CSSCCC(=O)NC(Cc2ccc(O)cc2)C(=O)NC(Cc2ccccc2)C(=O)NC(CCC(N)=O)C(=O)NC(CC(N)=O)C(=O)N1)C(=O)NCC(N)=O,Deamino Arginine Vasopressin
+Cc1c(O)cccc1C(=O)NC(CSc1ccccc1)C(O)CN1CC2CCCCC2CC1C(=O)NC(C)(C)C,Nelfinavir
+C[N+](C)(C)CCOC(=O)CCC(=O)OCC[N+](C)(C)C,Succinylcholine
+NCC1CCC(C(=O)O)CC1,Tranexamic Acid
+CC1C(=O)OC2CCN3CC=C(COC(=O)C(C)(O)C1(C)O)C23,Monocrotaline
+CCSCCCl,2-chloroethyl ethyl sulfide
+CC(C)CCCCCCOC(=O)c1ccccc1C(=O)OCCCCCCC(C)C,diisononyl phthalate
+CC(C)CC(NC(Cc1cncn1Cc1cc(Cl)cc(Cl)c1)C(=O)O)C(=O)O,"2-(1-carboxy-2-(3-(3,5-dichlorobenzyl)-3H-imidazol-4-yl)ethylamino)-4-methylpentanoic acid"
+[C],"Nanotubes, Carbon"
+C=O,Formaldehyde
+O=[N+]([O-])c1ccc2ccc3cccc4ccc1c2c34,1-nitropyrene
+c1ccc2c(c1)ccc1c3ccccc3ccc21,chrysene
+CC(C)CC(C)NC1=CC(=O)C(Nc2ccccc2)=CC1=O,"N-(1,3-dimethylbutyl)-N'-phenyl-p-phenylenediamine quinone"
+[C-]#[Si+],silicon carbide
+Cc1c(N)nc(C(CC(N)=O)NCC(N)C(N)=O)nc1C(=O)NC(C(=O)NC(C)C(O)C(C)C(=O)NC(C(=O)NCCc1nc(-c2nc(C(=O)NCCCNCCCCN)cs2)cs1)C(C)O)C(OC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(OC(N)=O)C1O)c1c[nH]cn1,bleomycetin
+CN=C=O,methyl isocyanate
+CN(C)c1ccc(O)c2c1CC1CC3C(N(C)C)C(=O)C(C(N)=O)C(=O)C3(O)C(=O)C1C2=O,Minocycline
+O=C(O)C1(C(=O)O)CCC1.[Pt+2],Carboplatin
+c1ccccc1,Benzene
+O=P1(N(CCCl)CCCl)OCCCN1CCCl,trofosfamide
+CNC(=O)ON=CC(C)(C)SC,Aldicarb
+Clc1ccc(C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl)cc1,DDT
+ClC1C(Cl)C(Cl)C(Cl)C(Cl)C1Cl,Hexachlorocyclohexane
+CCCc1cc(=O)[nH]c(=S)[nH]1,Propylthiouracil
+CC(=CCO)CCCC(C)CCCC(C)CCCC(C)C,Phytol
+CN(C)CCN(Cc1ccccc1)c1ccccn1,Tripelennamine
